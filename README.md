@@ -1,5 +1,8 @@
 # people in cv
 
+* [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/)(University of Oxford)
+* [Anil K. Jain](http://www.cse.msu.edu/~jain/)(Michigan State University)
+* [Yann LeCun](http://yann.lecun.com/)(New York University)(Meta)
 * [Takeo Kanade](http://www.ri.cmu.edu/person.html?person_id=136) (CMU)
 * [Edward Adelson](http://persci.mit.edu/people/adelson) (MIT)
 * [William T. Freeman](https://billf.mit.edu/) (MIT)
@@ -7,6 +10,7 @@
 * [Taeg Sang ("Tim") Cho](http://people.csail.mit.edu/taegsang/) (Wilmer Hale)
 * [Roger Grosse](http://www.cs.toronto.edu/~rgrosse/) (University of Toronto)
 * [Biliana Kaneva](http://people.csail.mit.edu/biliana/) (MIT)
+* [Kaiming He](http://kaiminghe.com/)(Meta)
 * [Ce Liu](http://people.csail.mit.edu/celiu/) (Google Research)
 * [Michael Rubinstein](http://people.csail.mit.edu/mrub/) (Google Research)
 * [Bryan Russell](http://homes.cs.washington.edu/~bcr/) (Adobe Research)
@@ -24,7 +28,6 @@
 * [Lavanya Sharan](http://people.csail.mit.edu/lavanya/) (MIT)
 * [Ce Liu](http://people.csail.mit.edu/celiu/) (Google Research)
 * [Nathaniel Twarog](http://www.nathanieltwarog.com/)
-
 * [Thomas Binford](http://en.wikipedia.org/wiki/Thomas_Binford) (Stanford University)
 * [Rodney Brooks](http://people.csail.mit.edu/brooks/) (MIT)
 * [David Lowe](http://www.cs.ubc.ca/~lowe/home.html) (University of British Columbia)
@@ -55,7 +58,6 @@
 * [Lubomir Bourdev](https://research.facebook.com/researchers/489930721110255/lubomir-bourdev) (Facebook AI Research)
 * [Michael Kass](http://graphics.pixar.com/people/kass/) (Pixar Research Group)
 * [Sheng-Jyh Wang](http://archer.ee.nctu.edu.tw/~shengjyh/main.html) (National Chiao Tung University)
-
 * [Azriel Rosenfeld](http://en.wikipedia.org/wiki/Azriel_Rosenfeld) (University of Maryland)
 * [Mohamed Abdel-Mottaleb](http://ece.miami.edu/people/indextest.php?id=45) (University of Miami)
 * [Narendra Ahuja](http://vision.ai.illinois.edu/ahuja.html) (UIUC)
@@ -88,7 +90,6 @@
 * [Berthold K.P. Horn](http://people.csail.mit.edu/bkph/) (MIT)
 * [Eric Grimson](http://people.csail.mit.edu/welg/) (MIT) 
 * [Frédo Durand](http://people.csail.mit.edu/fredo/) (MIT)
-
 * [Olivier Faugeras](http://www-sop.inria.fr/members/Olivier.Faugeras/index.en.html) (INRIA Sophia Antipolis)
 * [Zhengyou Zhang](http://research.microsoft.com/en-us/um/people/zhang/) (Microsoft Research)
 * [Pascal Fua](http://people.epfl.ch/pascal.fua) (EPFL)
@@ -115,7 +116,7 @@ and INRIA Paris-Rocquencourt)
 * [Sanjeev Koppal](https://www.ece.ufl.edu/users/koppal-sanjeev-j) (University of Florida)
 * [Neeraj Kumar](http://neerajkumar.org/) (Dropbox)
 
-[Alex Pentland](http://web.media.mit.edu/~sandy/) (MIT)
+* [Alex Pentland](http://web.media.mit.edu/~sandy/) (MIT)
 * [Trevor Darrell](http://www.eecs.berkeley.edu/~trevor/) (UC Berkeley)
 * [Gregory Shakhnarovich](http://ttic.uchicago.edu/~gregory/) (Toyota Technological Institute at Chicago)
 * [Kristen Grauman](http://www.cs.utexas.edu/~grauman/) (UT Austin)
@@ -133,7 +134,7 @@ and INRIA Paris-Rocquencourt)
 * [Thad Starner](http://www.cc.gatech.edu/home/thad/) (Georgia Institute of Technology)
 * [Matthew Turk](http://www.cs.ucsb.edu/~mturk/) (University of California, Santa Barbara)
 
-[Marc Levoy](http://graphics.stanford.edu/~levoy/) (Google X)
+* [Marc Levoy](http://graphics.stanford.edu/~levoy/) (Google X)
 * [Vaibhav Vaish](http://graphics.stanford.edu/~vaibhav/) 
 * [David Koller](http://graphics.stanford.edu/~dk/)
 * [Billy Chen](https://graphics.stanford.edu/~billyc/)
