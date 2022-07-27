@@ -1,5 +1,9 @@
 # people in cv
 
+* [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm)
+* [Johannes Kopf](http://johanneskopf.de/)
+* [Sing Bing Kang](http://www.singbingkang.com/)
+* [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)(Microsoft)
 * [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/)(University of Oxford)
 * [Anil K. Jain](http://www.cse.msu.edu/~jain/)(Michigan State University)
 * [Yann LeCun](http://yann.lecun.com/)(New York University)(Meta)
@@ -148,8 +152,5 @@ and INRIA Paris-Rocquencourt)
 * [Yung-Yu Chuang](http://www.csie.ntu.edu.tw/~cyy/) (National Taiwan University)
 * [Daniel Goldman](http://www.adobe.com/technology/people/seattle/dan-goldman.html) (Adobe)
 * [Philippe Lacroute](http://www.lacroute.org/lacroute/) (Stanford University)
-
-Sources: 
-* [Computer Vision Genealogy Project](https://sites.google.com/site/jbhuang0604/resources/computer-vision-genealogy-project) - [Jia-Bin Huang](https://sites.google.com/site/jbhuang0604) and [Wen-Sheng Chu](http://humansensing.cs.cmu.edu/wschu/index.html)
-* [The Mathematics Geneology Project](http://www.genealogy.math.ndsu.nodak.edu/)
-
+* [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/)
+* 
