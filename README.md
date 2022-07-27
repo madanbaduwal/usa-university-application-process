@@ -1,4 +1,4 @@
-# people in cv
+# People in Computer Vision
 
 * [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm)
 * [Johannes Kopf](http://johanneskopf.de/)
