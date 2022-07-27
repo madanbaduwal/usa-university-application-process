@@ -113,7 +113,6 @@ and INRIA Paris-Rocquencourt)
 * [Joseph Tighe](http://www.cs.unc.edu/~jtighe/) (Amazon)
 * [Yunchao Gong](http://www.unc.edu/~yunchao/) (Facebook AI Research)
 * [Jan J. Koenderink](http://mmi.tudelft.nl/?q=node/7513) (Delft University of Technology and Katholieke Universiteit Leuven)
-
 * [David Mumford](http://en.wikipedia.org/wiki/David_Mumford) (Harvard University)
 * [Peter N. Belhumeur](http://www.cs.columbia.edu/~belhumeur/) (Columbia University/Dropbox)
 * [Todd Zickler](http://www.eecs.harvard.edu/~zickler) (Harvard University)
@@ -187,6 +186,11 @@ and INRIA Paris-Rocquencourt)
 * [Jeff Fessler](http://web.eecs.umich.edu/~fessler/)
 * [Stefano Soatto](http://web.cs.ucla.edu/~soatto/)
 * [Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ)
+* [Daniel Scharstein](http://www.cs.middlebury.edu/~schar/)
+* [Stan Sclaroff](https://www.cs.bu.edu/fac/sclaroff/)
+* [Szymon Rusinkiewicz](https://www.cs.princeton.edu/~smr/)
+* [Paul Debevec](http://www.pauldebevec.com/)
+* [Theodosios Pavlidis](https://www.theopavlidis.com/)
+* []()
 
-
-371 - 380
+471 - 480
