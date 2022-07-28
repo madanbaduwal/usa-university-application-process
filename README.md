@@ -1,4 +1,4 @@
-# People in Computer Vision
+# People in Computer Vision (Computer vision in Physics,Chemistry, Biology(Bioinformatics), Engineering(Robotics))
 
 
 * [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm)
@@ -191,6 +191,33 @@ and INRIA Paris-Rocquencourt)
 * [Szymon Rusinkiewicz](https://www.cs.princeton.edu/~smr/)
 * [Paul Debevec](http://www.pauldebevec.com/)
 * [Theodosios Pavlidis](https://www.theopavlidis.com/)
-* []()
+* [Garrison W. Cottrell](https://cseweb.ucsd.edu//~gary/)
+* [David W. Jacobs](http://www.cs.umd.edu/~djacobs/)
+* [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html)
+* [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/)
+* [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+* [Peter Allen](http://www.cs.columbia.edu/~allen/)(Columbia University)
+* [Gabriel Taubin](http://mesh.brown.edu/taubin/publications.html)(Brown University)
+* [Xiaoming Liu](http://cvlab.cse.msu.edu/)( Michigan State University)
+* [Leonard McMillan](https://cs.unc.edu/person/leonard-mcmillan/)
+* [Ashutosh Saxena](https://cs.stanford.edu/~asaxena/)(Stanford University)
+* [Dmitry Goldgof](https://marathon.cse.usf.edu/~goldgof/)( University of South Florida)
+* [RStergios I. Roumeliotis](https://www-users.cse.umn.edu/~stergios/)
+* [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)
+
+
+Selective Professors
+
+* [Reza Abiri, Ph.D.](https://web.uri.edu/engineering/meet/reza-abiri/)(University of Rhode Island)
+* [https://www.autonomousrobotslab.com/](https://www.autonomousrobotslab.com/)
+* [https://www.cs.stonybrook.edu/people/faculty](https://www.cs.stonybrook.edu/people/faculty)
+* [Nasim Yahya soltani (Yahyasoltani)](https://www.marquette.edu/computer-science/directory/nasim-yahyasoltani-1.php)(Marquette University)
+* 
+
+
+
+
+
+
 
 471 - 480
