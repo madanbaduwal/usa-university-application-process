@@ -1,4 +1,6 @@
-# People in Computer Vision (Computer vision in Physics,Chemistry, Biology(Bioinformatics), Engineering(Robotics))
+# People in Computer Vision 
+
+## Applied Computer vision in Physics,Chemistry, Biology(Bioinformatics), Engineering(Robotics)
 
 
 * [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm)
