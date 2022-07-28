@@ -205,7 +205,24 @@ and INRIA Paris-Rocquencourt)
 * [Ashutosh Saxena](https://cs.stanford.edu/~asaxena/)(Stanford University)
 * [Dmitry Goldgof](https://marathon.cse.usf.edu/~goldgof/)( University of South Florida)
 * [RStergios I. Roumeliotis](https://www-users.cse.umn.edu/~stergios/)
-* [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)
+* [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)(University of Minnesota)
+
+* [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/)(UC Santa Cruz)
+* [Jan-Michael Frahm](https://cs.unc.edu/person/jan-michael-frahm/)(University of North Carolina at Chapel Hill)
+
+* [Ulrich Neumann](https://viterbi.usc.edu/directory/faculty/Neumann/Ulrich)(University of Southern California)
+
+* [Cees G. M. Snoek](https://www.ceessnoek.info/)(University of Amsterdam)
+* [James W. Davis](https://web.cse.ohio-state.edu/~davis.1719/)(Ohio State University)
+* [Aloimonos](http://users.umiacs.umd.edu/~yiannis/)(University of Maryland)
+* [Yan Liu](https://viterbi-web.usc.edu/~liu32/)(University of Southern California)
+* [K. Palaniappan](https://engineering.missouri.edu/faculty/kannappan-palaniappan/)(University of Missouri-Columbia)
+* [Ellen C Hildreth](https://scholar.google.com/citations?hl=en&user=gYst6_oAAAAJ&view_op=list_works&sortby=pubdate)(Wellesley College)
+* [hengda cheng](https://scholar.google.com/citations?hl=en&user=f31EZP0AAAAJ&view_op=list_works&sortby=pubdate)(Utah State University)
+* [Hector Corrada Bravo](http://www.hcbravo.org/)( University of Maryland)
+
+
+
 
 
 Selective Professors
@@ -214,7 +231,7 @@ Selective Professors
 * [https://www.autonomousrobotslab.com/](https://www.autonomousrobotslab.com/)
 * [https://www.cs.stonybrook.edu/people/faculty](https://www.cs.stonybrook.edu/people/faculty)
 * [Nasim Yahya soltani (Yahyasoltani)](https://www.marquette.edu/computer-science/directory/nasim-yahyasoltani-1.php)(Marquette University)
-* 
+* [Junzhou Huang](https://ranger.uta.edu/~huang/)(University of Texas at Arlington)
 
 
 
@@ -222,4 +239,8 @@ Selective Professors
 
 
 
-471 - 480
+
+
+891 - 900 (complete computer vision)
+900-   (Computer vision,bioinformatic,robotics)
+1071 - 1080
