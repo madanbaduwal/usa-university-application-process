@@ -121,7 +121,6 @@ and INRIA Paris-Rocquencourt)
 * [Ayan Chakrabarti](http://ttic.uchicago.edu/~ayanc/www/) (Toyota Technological Institute at Chicago)
 * [Sanjeev Koppal](https://www.ece.ufl.edu/users/koppal-sanjeev-j) (University of Florida)
 * [Neeraj Kumar](http://neerajkumar.org/) (Dropbox)
-
 * [Alex Pentland](http://web.media.mit.edu/~sandy/) (MIT)
 * [Trevor Darrell](http://www.eecs.berkeley.edu/~trevor/) (UC Berkeley)
 * [Gregory Shakhnarovich](http://ttic.uchicago.edu/~gregory/) (Toyota Technological Institute at Chicago)
@@ -139,7 +138,6 @@ and INRIA Paris-Rocquencourt)
 * [Stanley Sclaroff](http://www.cs.bu.edu/~sclaroff/) (Boston University)
 * [Thad Starner](http://www.cc.gatech.edu/home/thad/) (Georgia Institute of Technology)
 * [Matthew Turk](http://www.cs.ucsb.edu/~mturk/) (University of California, Santa Barbara)
-
 * [Marc Levoy](http://graphics.stanford.edu/~levoy/) (Google X)
 * [Vaibhav Vaish](http://graphics.stanford.edu/~vaibhav/) 
 * [David Koller](http://graphics.stanford.edu/~dk/)
@@ -206,12 +204,9 @@ and INRIA Paris-Rocquencourt)
 * [Dmitry Goldgof](https://marathon.cse.usf.edu/~goldgof/)( University of South Florida)
 * [RStergios I. Roumeliotis](https://www-users.cse.umn.edu/~stergios/)
 * [Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)(University of Minnesota)
-
 * [Roberto Manduchi](https://users.soe.ucsc.edu/~manduchi/)(UC Santa Cruz)
 * [Jan-Michael Frahm](https://cs.unc.edu/person/jan-michael-frahm/)(University of North Carolina at Chapel Hill)
-
 * [Ulrich Neumann](https://viterbi.usc.edu/directory/faculty/Neumann/Ulrich)(University of Southern California)
-
 * [Cees G. M. Snoek](https://www.ceessnoek.info/)(University of Amsterdam)
 * [James W. Davis](https://web.cse.ohio-state.edu/~davis.1719/)(Ohio State University)
 * [Aloimonos](http://users.umiacs.umd.edu/~yiannis/)(University of Maryland)
