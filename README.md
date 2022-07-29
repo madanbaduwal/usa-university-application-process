@@ -237,6 +237,33 @@ and INRIA Paris-Rocquencourt)
 * [David Crandall](https://homes.luddy.indiana.edu/djcran/)(Indiana University)
 * [Chitta Baral](https://www.public.asu.edu/~cbaral/)( Arizona State University)
 * [Margrit Betke](https://www.cs.bu.edu/faculty/betke/)(Boston University)
+* [Paul Beardsley](https://scholar.google.com/citations?hl=en&user=s4MzzHEAAAAJ)(University of Oxford)
+* [Sven Dickinson](http://www.cs.toronto.edu/~sven/)(University of Toronto)
+* [Ardeshir Goshtasby](https://scholar.google.com/citations?hl=en&user=cOUo6FMAAAAJ)(Wright State University)
+* [Vassilis Athitsos](https://athitsos.utasites.cloud/)(University of Texas at Arlington)
+* [Lijun Yin](http://www.cs.binghamton.edu/~lijun/)(Binghamton University)
+* [George Wolberg](http://www-cs.ccny.cuny.edu/~wolberg/#links)(City College of New York)
+* [Sinisa Todorovic](https://web.engr.oregonstate.edu/~sinisa/)(Oregon State University)
+* [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/#students)(University of Massachusetts Amherst)
+* [Tao Wang](https://cs.stanford.edu/people/twangcat/)(Stanford University)
+* [Ishwar K. Sethi](https://oakland.edu/secs/directory/sethi)(Oakland University)
+* [Jean Gallier](https://www.cis.upenn.edu/~jean/)(University of Pennsylvania)
+* [Jinxiang Chai](https://scholar.google.com/citations?hl=en&user=OcN1_gwAAAAJ)(Texas A&M University)
+* [Ernest Lenard Hall](http://www.ernesthall.com/)(University of Cincinnati)
+* [Yui Man Lui](https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/yui-man-lui/)(University of Central Missouri)
+* [Song Wang](https://www.cse.sc.edu/~songwang/)(University of South Carolina)
+* [Yalin Wang](https://search.asu.edu/profile/1638618)(Arizona State University)
+* [Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/)(University of Central Florida)
+* [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)(UC Irvine)
+* [Walter Scheirer](https://www.wjscheirer.com/)(University of Notre Dame)
+* [Thrasyvoulos Pappas](http://www.eecs.northwestern.edu/~pappas/)(Northwestern University)
+* [Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html)(Northeastern University)
+* [Todd Zickler](http://www.eecs.harvard.edu/~zickler/)(Harvard University)
+* [Emily Mower Provost](https://emp.engin.umich.edu/)(University of Michigan)
+* [Gianfranco Doretto](https://vision.csee.wvu.edu/~doretto/)(West Virginia University)
+* [Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students)(Purdue University)
+* [Michael D. Grossberg](http://www-cs.ccny.cuny.edu/~grossberg/index.html)(City University of New York)
+* [Cornelia Fermuller](http://users.umiacs.umd.edu/~fer/)(University of Maryland)
 
 
 Selective Professors
@@ -249,6 +276,9 @@ Selective Professors
 * [Jason Corso](http://web.eecs.umich.edu/~jjcorso/)(University of Michigan)
 * [Guodong Guo](https://pages.cs.wisc.edu/~gdguo/)(West Virginia University)
 * [Chen Chen](https://www.crcv.ucf.edu/chenchen/)(University of Central Florida)
+* [Yuke Zhu](https://www.cs.utexas.edu/~yukez/)(The University of Texas at Austin)
+* [Feng Liu](http://web.cecs.pdx.edu/~fliu/)(Portland State University)
+
 
 
 
@@ -262,4 +292,4 @@ Selective Professors
 
 900-   (Computer vision,bioinformatic,robotics)
 
-2652 - 2661
+3751
