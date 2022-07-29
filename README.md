@@ -156,15 +156,15 @@ and INRIA Paris-Rocquencourt)
 * [Luc Van Gool](https://scholar.google.com/citations?hl=en&user=TwMib_QAAAAJ&view_op=list_works&sortby=pubdate)
 * [Rob Fergus](https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
 * [Leonidas Guibas](https://scholar.google.com/citations?hl=en&user=5JlEyTAAAAAJ)
-* [Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
-* [Ali Farhadi](https://homes.cs.washington.edu/~ali/index.html)
+* [Alan Yuille](https://www.cs.jhu.edu/~ayuille/)( Johns Hopkins University)
+* [Ali Farhadi](https://homes.cs.washington.edu/~ali/index.html)(University of Washington)
 * [Alexander C Berg](http://acberg.com/)
 * [Robert M. Haralick](http://haralick.org/)
 * [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/)
 * [Demetri Terzopoulos](http://web.cs.ucla.edu/~dt/)
 * [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
 * [Shree Nayar](http://www.cs.columbia.edu/~nayar/)
-* [Hao Su](https://cseweb.ucsd.edu//~haosu/)
+* [Hao Su](https://cseweb.ucsd.edu//~haosu/)(UCSD)
 * [Kevin W. Bowyer](https://www3.nd.edu/~kwb/)
 * [Carlo Tomasi](https://users.cs.duke.edu/~tomasi/)
 * [Berthold Horn](http://people.csail.mit.edu/bkph/)
@@ -215,7 +215,8 @@ and INRIA Paris-Rocquencourt)
 * [Ellen C Hildreth](https://scholar.google.com/citations?hl=en&user=gYst6_oAAAAJ&view_op=list_works&sortby=pubdate)(Wellesley College)
 * [hengda cheng](https://scholar.google.com/citations?hl=en&user=f31EZP0AAAAJ&view_op=list_works&sortby=pubdate)(Utah State University)
 * [Hector Corrada Bravo](http://www.hcbravo.org/)( University of Maryland)
-
+* [Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/)(Stony Brook University)
+* 
 
 
 
@@ -240,4 +241,4 @@ Selective Professors
 
 900-   (Computer vision,bioinformatic,robotics)
 
-1071 - 1080
+1531- 
