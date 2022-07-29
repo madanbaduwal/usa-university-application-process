@@ -199,7 +199,7 @@ and INRIA Paris-Rocquencourt)
 * [Peter Allen](http://www.cs.columbia.edu/~allen/)(Columbia University)
 * [Gabriel Taubin](http://mesh.brown.edu/taubin/publications.html)(Brown University)
 * [Xiaoming Liu](http://cvlab.cse.msu.edu/)( Michigan State University)
-* [Leonard McMillan](https://cs.unc.edu/person/leonard-mcmillan/)
+* [Leonard McMillan](https://cs.unc.edu/person/leonard-mcmillan/)(University of North Carolina)
 * [Ashutosh Saxena](https://cs.stanford.edu/~asaxena/)(Stanford University)
 * [Dmitry Goldgof](https://marathon.cse.usf.edu/~goldgof/)( University of South Florida)
 * [RStergios I. Roumeliotis](https://www-users.cse.umn.edu/~stergios/)
@@ -216,9 +216,27 @@ and INRIA Paris-Rocquencourt)
 * [hengda cheng](https://scholar.google.com/citations?hl=en&user=f31EZP0AAAAJ&view_op=list_works&sortby=pubdate)(Utah State University)
 * [Hector Corrada Bravo](http://www.hcbravo.org/)( University of Maryland)
 * [Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/)(Stony Brook University)
-* 
-
-
+* [Predrag Radivojac](https://www.ccs.neu.edu/home/radivojac/)(Northeastern University)
+* [Xiaoqiu Huang](https://faculty.sites.iastate.edu/xqhuang/)(Iowa State University)
+* [Tom Goldstein](http://www.cs.umd.edu/~tomg/)(University of Maryland)
+* [David Xianfeng Gu](https://www3.cs.stonybrook.edu/~gu/)(Stony Brook)
+* [James Davis](https://users.soe.ucsc.edu/~davis/)(University of California, Santa Cruz)
+* [University of Nevada Reno](https://www.cse.unr.edu/~bebis/)(University of Nevada Reno)
+* [Sudeep Sarkar](https://cse.usf.edu/~sarkar/SudeepSarkar/About_Me.html)(University of South Florida, Tampa)
+* [M. Emre Celebi](https://faculty.uca.edu/ecelebi/)(University of Central Arkansas)
+* [Kobus Barnard](http://kobus.ca/)(University of Arizona)
+* [Andrew Duchowski](http://andrewd.ces.clemson.edu/)(Clemson University)
+* [Li Zhang](https://pages.cs.wisc.edu/~lizhang/)(University of Wisconsin)
+* [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html)(University of California, Berkeley)
+* [Steve Marschner](https://www.cs.cornell.edu/~srm/teaching.html)(Cornell University)
+* [Kaleem Siddiqi](http://www.cim.mcgill.ca/~siddiqi/?page=main)(McGill University)
+* [Francis Quek](http://teilab-static.arch.tamu.edu/quek/)(Texas A&M University)
+* [Qixing Huang](https://www.cs.utexas.edu/~huangqx/research.html)(UT Austin)
+* [Vicente Ordóñez](https://www.cs.rice.edu/~vo9/)(Rice University)
+* [Tai Sing Lee](https://www.cnbc.cmu.edu/~tai/)(Carnegie Mellon University)
+* [David Crandall](https://homes.luddy.indiana.edu/djcran/)(Indiana University)
+* [Chitta Baral](https://www.public.asu.edu/~cbaral/)( Arizona State University)
+* [Margrit Betke](https://www.cs.bu.edu/faculty/betke/)(Boston University)
 
 
 Selective Professors
@@ -228,6 +246,9 @@ Selective Professors
 * [https://www.cs.stonybrook.edu/people/faculty](https://www.cs.stonybrook.edu/people/faculty)
 * [Nasim Yahya soltani (Yahyasoltani)](https://www.marquette.edu/computer-science/directory/nasim-yahyasoltani-1.php)(Marquette University)
 * [Junzhou Huang](https://ranger.uta.edu/~huang/)(University of Texas at Arlington)
+* [Jason Corso](http://web.eecs.umich.edu/~jjcorso/)(University of Michigan)
+* [Guodong Guo](https://pages.cs.wisc.edu/~gdguo/)(West Virginia University)
+* [Chen Chen](https://www.crcv.ucf.edu/chenchen/)(University of Central Florida)
 
 
 
@@ -241,4 +262,4 @@ Selective Professors
 
 900-   (Computer vision,bioinformatic,robotics)
 
-1531- 
+2652 - 2661
