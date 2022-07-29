@@ -264,6 +264,15 @@ and INRIA Paris-Rocquencourt)
 * [Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students)(Purdue University)
 * [Michael D. Grossberg](http://www-cs.ccny.cuny.edu/~grossberg/index.html)(City University of New York)
 * [Cornelia Fermuller](http://users.umiacs.umd.edu/~fer/)(University of Maryland)
+* [Tolga Tasdizen](http://www.sci.utah.edu/~tolga/index.html)(The University of Utah)
+* [Sarang Joshi](https://www.sci.utah.edu/people/sjoshi.html)(The University of Utah)
+* [Ross Whitaker](https://www.cs.utah.edu/~whitaker/)(The University of Utah)
+* [Baoxin Li](https://www.public.asu.edu/~bli24/index.html)(Arizona State University)
+* [Yalin Wang](https://search.asu.edu/profile/1638618)(Arizona State University)
+* [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(Arizona State University)
+
+* [John K. Johnstone](https://www.uab.edu/cas/computerscience/people/faculty-directory/faculty/john-k-johnstone)(University of Alabama at Birmingham)
+
 
 
 Selective Professors
@@ -278,6 +287,9 @@ Selective Professors
 * [Chen Chen](https://www.crcv.ucf.edu/chenchen/)(University of Central Florida)
 * [Yuke Zhu](https://www.cs.utexas.edu/~yukez/)(The University of Texas at Austin)
 * [Feng Liu](http://web.cecs.pdx.edu/~fliu/)(Portland State University)
+* [Michael S. Ryoo](http://michaelryoo.com/)(Stony Brook University)
+* [Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/)(Stony Brook University)
+* [Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm)(Brook)
 
 
 
@@ -287,9 +299,18 @@ Selective Professors
 
 
 
+# Google scholor
 
 891 - 900 (complete computer vision)
 
 900-   (Computer vision,bioinformatic,robotics)
 
 3751
+
+# Yocket (686 universities)
+Tufts University
+
+
+
+
+
