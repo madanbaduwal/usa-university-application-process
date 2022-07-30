@@ -308,8 +308,7 @@ Selective Professors
 3751
 
 # Yocket (686 universities)
-Tufts University
-
+University of Illinois at Chicago
 
 
 
