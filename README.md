@@ -305,7 +305,8 @@ Selective Professors
 
 900-   (Computer vision,bioinformatic,robotics)
 
-3751
+https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=computer+vision&after_author=9D0QAJXb__8J&astart=5441
+
 
 # Yocket (686 universities)
 University of Illinois at Chicago
