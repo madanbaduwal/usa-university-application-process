@@ -7,6 +7,10 @@
 * [Johannes Kopf](http://johanneskopf.de/)
 * [Sing Bing Kang](http://www.singbingkang.com/)
 * [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/)(Microsoft)
+* [Yi Ma ](http://people.eecs.berkeley.edu/~yima/)(University of California, Berkeley)
+* [Chris H.Q. Ding](https://ranger.uta.edu/~chqding/)(Univ of Texas, Arlington.)
+* [Gary Bradski](https://scholar.google.com/citations?hl=en&user=yeDFJgoAAAAJ)(OpenCV.org)
+* [Joseph Redmon](https://scholar.google.com/citations?hl=en&user=TDk_NfkAAAAJ)(University of Washington)
 * [Andrew Zisserman](https://www.robots.ox.ac.uk/~az/)(University of Oxford)
 * [Anil K. Jain](http://www.cse.msu.edu/~jain/)(Michigan State University)
 * [Yann LeCun](http://yann.lecun.com/)(New York University)(Meta)
@@ -287,6 +291,11 @@ and INRIA Paris-Rocquencourt)
 * [Kazunori Okada](https://bidal.sfsu.edu/~kazokada/)(San Francisco State University)
 * [Ioannis Stamos](http://www.cs.hunter.cuny.edu/~ioannis/)(Hunter College of CUNY)
 * [Xiaojun Qi](https://www.usu.edu/cs/people/XiaojunQi/)(Utah State University)
+* [Ryan Farrell](https://students.cs.byu.edu/~farrell/)(Brigham Young University (BYU))
+* [Sarah Adel Bargal](https://cs-people.bu.edu/sbargal/)(Boston University)
+* [Min C. Shin](https://sites.google.com/a/uncc.edu/mcshin/home)()
+* [Willie Neiswanger](https://willieneis.github.io/)(Stanford University)
+* [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)(Princeton University)
 
 
 
@@ -316,21 +325,32 @@ Selective Professors
 * [Jonathan Shihao Ji](https://titan.cs.gsu.edu/~sji/)(Georgia State University)
 * [Xiaobai Liu](https://cv.sdsu.edu/)(San Diego State University)
 * [Zhengming Ding](http://www.cs.tulane.edu/~zding1/)(Tulane University)
-* [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/)(Brown University)
+* [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/)(Brown University)Kilian Weinberger
 * [Mircea Nicolescu](https://www.cse.unr.edu/~mircea/)(University of Nevada, Reno)
 * [Ehsan Hoque](http://hoques.com/)(University of Rochester)
 * [Nathan Jacobs](https://jacobsn.github.io/)(University of Kentucky)
 * [Soheil Kolouri](https://skolouri.github.io/)(Vanderbilt University)
 * [Xi Peng](https://sites.google.com/site/xipengcshomepage/)(University of Delaware)
+* [Zhiqiang Tao](http://ztao.cc/index.html)(Santa Clara University)
+* [Alireza Tavakkoli](https://www.cse.unr.edu/~alit/?page=introduction)(University of Nevada, Reno)
+* [Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html)(U. Michigan)
+
+Selective professors from other fields
+
+* [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/)(Oregon State University)
+* [Dr. Tathagata Mukherjee](https://www.uah.edu/science/faculty-staff/tathagata-mukherjee)()
+* [Dr. Huaming Zhang](https://www.uah.edu/science/faculty-staff/huaming-zhang)()
 
 
-# Google scholor
+Selective professor from top universities
 
-891 - 900 (complete computer vision)
+* [Kilian Weinberger](https://www.cs.cornell.edu/~kilian/)(Cornell University)
 
-900-   (Computer vision,bioinformatic,robotics)
 
-https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=computer+vision&after_author=y_cCAHL4__8J&astart=9731
+
+# References
+* [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
+
 
 
 # Yocket (686 universities)
