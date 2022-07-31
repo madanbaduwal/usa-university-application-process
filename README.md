@@ -270,9 +270,16 @@ and INRIA Paris-Rocquencourt)
 * [Baoxin Li](https://www.public.asu.edu/~bli24/index.html)(Arizona State University)
 * [Yalin Wang](https://search.asu.edu/profile/1638618)(Arizona State University)
 * [Yezhou Yang](https://yezhouyang.engineering.asu.edu/)(Arizona State University)
-
 * [John K. Johnstone](https://www.uab.edu/cas/computerscience/people/faculty-directory/faculty/john-k-johnstone)(University of Alabama at Birmingham)
-
+* [Daniel Yamins](http://neuroailab.stanford.edu/index.html)(Stanford University)
+* [Jim X. Chen](https://cs.gmu.edu/~jchen/)(George Mason University)
+* [Chandra Kambhamettu](https://www.eecis.udel.edu/~chandra/)(University of Delaware)
+* [Yixin Chen](http://www.cs.olemiss.edu/~ychen/)(University of Mississippi)
+* [Robert J. Woodham](https://www.cs.ubc.ca/~woodham/)(University of British Columbia)
+* [J. Edward Swan II](https://web.cse.msstate.edu/~swan/)(Mississippi State University)
+* [Marc Pomplun](https://www.cs.umb.edu/~marc/)(University of Massachusetts Boston)
+* [Bill P. Buckles](http://www.cse.unt.edu/~bbuckles/)(University of North Texas)
+* [John R. Kender](http://www.cs.columbia.edu/~jrk/)(Columbia University)
 
 
 Selective Professors
@@ -290,7 +297,10 @@ Selective Professors
 * [Michael S. Ryoo](http://michaelryoo.com/)(Stony Brook University)
 * [Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/)(Stony Brook University)
 * [Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm)(Brook)
-
+* [Han-Wei Shen](https://web.cse.ohio-state.edu/~shen.94/shen.94/Welcome.html)(The Ohio State University)
+* [Damian Lyons](https://storm.cis.fordham.edu/~lyons/?_ga=2.225753818.1932399526.1659259702-1599193211.1659259702)(Fordham University)
+* [Mingchen Gao](https://cse.buffalo.edu/~mgao8/)(University at Buffalo SUNY)
+* [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/openings/)(University of British Columbia)
 
 
 
