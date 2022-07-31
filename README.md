@@ -296,10 +296,12 @@ and INRIA Paris-Rocquencourt)
 * [Min C. Shin](https://sites.google.com/a/uncc.edu/mcshin/home)()
 * [Willie Neiswanger](https://willieneis.github.io/)(Stanford University)
 * [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)(Princeton University)
+* [Alexander Schwing](https://alexander-schwing.de/#people)(University of Illinois at Urbana-Champaign)
+* [Vijayan Asari](https://sites.google.com/a/udayton.edu/vasari1/home)
+* [Manmohan Chandraker](https://cseweb.ucsd.edu//~mkchandraker/index.html)(University of California, San Diego
+)
 
-
-
-Selective Professors
+## Selective Professors
 
 * [Reza Abiri, Ph.D.](https://web.uri.edu/engineering/meet/reza-abiri/)(University of Rhode Island)
 * [https://www.autonomousrobotslab.com/](https://www.autonomousrobotslab.com/)
@@ -334,15 +336,21 @@ Selective Professors
 * [Zhiqiang Tao](http://ztao.cc/index.html)(Santa Clara University)
 * [Alireza Tavakkoli](https://www.cse.unr.edu/~alit/?page=introduction)(University of Nevada, Reno)
 * [Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html)(U. Michigan)
+* [Xiaolong Wang](https://xiaolonw.github.io/)(UC San Diego)
+* [Xin Li](https://xinli.faculty.wvu.edu/)(West Virginia University)
+* [Saurabh Gupta](http://saurabhg.web.illinois.edu/)(University of Illinois Urbana-Champaign)
+* [Albert Montillo](https://aamontillo.net/)(University of Texas Southwestern)
+* [Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us)(University of Illinois at Urbana-Champaign)
 
-Selective professors from other fields
+
+## Selective professors from other fields
 
 * [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/)(Oregon State University)
 * [Dr. Tathagata Mukherjee](https://www.uah.edu/science/faculty-staff/tathagata-mukherjee)()
 * [Dr. Huaming Zhang](https://www.uah.edu/science/faculty-staff/huaming-zhang)()
 
 
-Selective professor from top universities
+## Selective professor from top universities
 
 * [Kilian Weinberger](https://www.cs.cornell.edu/~kilian/)(Cornell University)
 
