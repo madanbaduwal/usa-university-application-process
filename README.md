@@ -280,6 +280,14 @@ and INRIA Paris-Rocquencourt)
 * [Marc Pomplun](https://www.cs.umb.edu/~marc/)(University of Massachusetts Boston)
 * [Bill P. Buckles](http://www.cse.unt.edu/~bbuckles/)(University of North Texas)
 * [John R. Kender](http://www.cs.columbia.edu/~jrk/)(Columbia University)
+* [Bryan Morse](https://science.byu.edu/directory/bryan-morse)(Brigham Young University)
+* [William Hoff](https://cs.mines.edu/project/hoff-william/)(Colorado School of Mines)
+* [Joseph N. Wilson](https://www.cise.ufl.edu/~jnw/)(University of Florida)
+* [Yan Tong](https://www.cse.sc.edu/~tongy/)(University of South Carolina)
+* [Kazunori Okada](https://bidal.sfsu.edu/~kazokada/)(San Francisco State University)
+* [Ioannis Stamos](http://www.cs.hunter.cuny.edu/~ioannis/)(Hunter College of CUNY)
+* [Xiaojun Qi](https://www.usu.edu/cs/people/XiaojunQi/)(Utah State University)
+
 
 
 Selective Professors
@@ -301,12 +309,19 @@ Selective Professors
 * [Damian Lyons](https://storm.cis.fordham.edu/~lyons/?_ga=2.225753818.1932399526.1659259702-1599193211.1659259702)(Fordham University)
 * [Mingchen Gao](https://cse.buffalo.edu/~mgao8/)(University at Buffalo SUNY)
 * [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/openings/)(University of British Columbia)
-
-
-
-
-
-
+[Ju Sun](https://sunju.org/)(University of Minnesota at Twin Cities)
+* [Donald Adjeroh](https://community.wvu.edu/~daadjeroh/)(est Virginia University)
+* [Xiuwen Liu](https://www.cs.fsu.edu/~liux/)(Florida State University)
+* [Shishir Shah](http://www2.cs.uh.edu/~shah/)(University of Houston)
+* [Jonathan Shihao Ji](https://titan.cs.gsu.edu/~sji/)(Georgia State University)
+* [Xiaobai Liu](https://cv.sdsu.edu/)(San Diego State University)
+* [Zhengming Ding](http://www.cs.tulane.edu/~zding1/)(Tulane University)
+* [Srinath Sridhar](https://cs.brown.edu/people/ssrinath/)(Brown University)
+* [Mircea Nicolescu](https://www.cse.unr.edu/~mircea/)(University of Nevada, Reno)
+* [Ehsan Hoque](http://hoques.com/)(University of Rochester)
+* [Nathan Jacobs](https://jacobsn.github.io/)(University of Kentucky)
+* [Soheil Kolouri](https://skolouri.github.io/)(Vanderbilt University)
+* [Xi Peng](https://sites.google.com/site/xipengcshomepage/)(University of Delaware)
 
 
 # Google scholor
@@ -315,7 +330,7 @@ Selective Professors
 
 900-   (Computer vision,bioinformatic,robotics)
 
-https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=computer+vision&after_author=9D0QAJXb__8J&astart=5441
+https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=computer+vision&after_author=y_cCAHL4__8J&astart=9731
 
 
 # Yocket (686 universities)
