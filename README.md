@@ -300,6 +300,16 @@ and INRIA Paris-Rocquencourt)
 * [Vijayan Asari](https://sites.google.com/a/udayton.edu/vasari1/home)
 * [Manmohan Chandraker](https://cseweb.ucsd.edu//~mkchandraker/index.html)(University of California, San Diego
 )
+* [Steve Branson](https://www.vision.caltech.edu/openings/)(Caltech)
+* [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/)(University of Maryland, College Park)
+* [Mohammad Mahoor](http://mohammadmahoor.com/phd-students/)(University of Denver)
+* [Stefan Lee](https://web.engr.oregonstate.edu/~leestef/#publications)(Oregon State University)
+* [Shawn Newsam](http://faculty.ucmerced.edu/snewsam/index.html)(University of California, Merced)
+* [Yin Li](https://www.biostat.wisc.edu/~yli/)(University of Wisconsin-Madison)
+* [Christopher Kanan](https://chriskanan.com/)(University of Rochester)
+
+
+
 
 ## Selective Professors
 
@@ -341,7 +351,12 @@ and INRIA Paris-Rocquencourt)
 * [Saurabh Gupta](http://saurabhg.web.illinois.edu/)(University of Illinois Urbana-Champaign)
 * [Albert Montillo](https://aamontillo.net/)(University of Texas Southwestern)
 * [Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us)(University of Illinois at Urbana-Champaign)
-
+* [Anh M. Nguyen](https://anhnguyen.me/research/)()
+* [Matthew R. Walter](https://home.ttic.edu/~mwalter/)(Toyota Technological Institute at Chicago)
+* [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/)(UW-Madison)
+* [Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html)(University of Minnesota)
+* [Huaizu Jiang](http://jianghz.me/)(Northeastern University)
+* [Volkan Isler](https://www-users.cse.umn.edu/~isler/)(University of Minnesota)
 
 ## Selective professors from other fields
 
