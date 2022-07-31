@@ -315,7 +315,12 @@ and INRIA Paris-Rocquencourt)
 * [Ming-Ching Chang](https://www.albany.edu/faculty/mchang2/chang_funding.html)(University at Albany - SUNY)
 * [Cihang Xie](https://cihangxie.github.io/)(University of California, Santa Cruz)
 * [Zoran Duric](https://cs.gmu.edu/~zduric/index.html)(George Mason University)
-
+* [Vikas Singh](http://www.biostat.wisc.edu/~vsingh/)(University of Wisconsin Madison)
+* [Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html)(Stony Brook University)
+* [Shenlong Wang](http://shenlong.web.illinois.edu/)(University of Illinois at Urbana-Champaign)
+* [Derek T. Anderson](http://derektanderson.com/index.html)(Mississippi State University)
+* [Adrian Barbu](https://ani.stat.fsu.edu/~abarbu/index.html)(Florida State University)
+* [Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/)(University of Wisconsin-Madison)
 
 ## Selective Professors
 
@@ -364,6 +369,13 @@ and INRIA Paris-Rocquencourt)
 * [Huaizu Jiang](http://jianghz.me/)(Northeastern University)
 * [Volkan Isler](https://www-users.cse.umn.edu/~isler/)(University of Minnesota)
 * [Yan Yan](https://tomyan555.github.io/)(Illinois Institute of Technology)
+* [Ziming Zhang](https://zhang-vislab.github.io/)(Worcester Polytechnic Institute (WPI))
+* [Xinming Huang](https://users.wpi.edu/~xhuang/)(Worcester Polytechnic Institute)
+* [Sheng Li](http://sheng-li.org/)(University of Georgia)
+* [Hua Wang](http://inside.mines.edu/~huawang/)(Colorado School of Mines)
+* [Ming Shao](http://www.cis.umassd.edu/~mshao/)(UMass Dartmouth)
+* [Fuyong Xing](https://fuyongxing.github.io/)(University of Colorado Denver)
+* [Chen Feng](https://ai4ce.github.io/)(New York University)
 
 ## Selective professors from other fields
 
@@ -381,7 +393,7 @@ and INRIA Paris-Rocquencourt)
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-* Current state : https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=kKkpAFvu__8J&astart=2030
+* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=7o0BAC_y__8J&astart=2540)
 
 # Yocket (686 universities)
 University of Illinois at Chicago
