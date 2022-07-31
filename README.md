@@ -307,8 +307,14 @@ and INRIA Paris-Rocquencourt)
 * [Shawn Newsam](http://faculty.ucmerced.edu/snewsam/index.html)(University of California, Merced)
 * [Yin Li](https://www.biostat.wisc.edu/~yli/)(University of Wisconsin-Madison)
 * [Christopher Kanan](https://chriskanan.com/)(University of Rochester)
-
-
+* [Sicheng Zhao](https://sites.google.com/site/schzhao/)(Columbia University)
+* [Fuxin Li](https://web.engr.oregonstate.edu/~lif/)(Oregon State University)
+* [Ira Kemelmacher-Shlizerman](https://www.irakemelmacher.com/home)(washington)
+* [Octavia I. Camps](http://robustsystems.coe.neu.edu/)(Northeastern University)
+* [Patrick Riley, M.I.M.S, Ph.D.](https://www.ischool.berkeley.edu/people/patrick-riley)(University of California, Berkeley)
+* [Ming-Ching Chang](https://www.albany.edu/faculty/mchang2/chang_funding.html)(University at Albany - SUNY)
+* [Cihang Xie](https://cihangxie.github.io/)(University of California, Santa Cruz)
+* [Zoran Duric](https://cs.gmu.edu/~zduric/index.html)(George Mason University)
 
 
 ## Selective Professors
@@ -357,6 +363,7 @@ and INRIA Paris-Rocquencourt)
 * [Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html)(University of Minnesota)
 * [Huaizu Jiang](http://jianghz.me/)(Northeastern University)
 * [Volkan Isler](https://www-users.cse.umn.edu/~isler/)(University of Minnesota)
+* [Yan Yan](https://tomyan555.github.io/)(Illinois Institute of Technology)
 
 ## Selective professors from other fields
 
@@ -374,7 +381,7 @@ and INRIA Paris-Rocquencourt)
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-
+* Current state : https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=kKkpAFvu__8J&astart=2030
 
 # Yocket (686 universities)
 University of Illinois at Chicago
