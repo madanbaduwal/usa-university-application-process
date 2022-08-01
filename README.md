@@ -432,6 +432,7 @@ and INRIA Paris-Rocquencourt)
 * [Anhong Guo](https://guoanhong.com/)(University of Michigan)
 * [Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us)(University of Michigan)
 * [Yuanyuan Zhu](https://zhu.mse.uconn.edu/join-us/)(University of Connecticut)
+* [Suren Jayasuriya](https://web.asu.edu/imaging-lyceum)(Arizona State University)
 * [Stefanie Tellex](https://h2r.cs.brown.edu/people/)(Brown University)
 * [Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html)(The University of Texas at Austin)
 * [Jingdao Chen](https://jingdao.github.io/)(Mississippi State University)
@@ -442,6 +443,8 @@ and INRIA Paris-Rocquencourt)
 * [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(Binghamton University (SUNY))(important)
 * [Ruoyu Sun](https://ruoyus.github.io/)(University of California, Irvine)
 * [Katsaggelos](https://ivpl.northwestern.edu/contact-ivpl/)(northwestern)
+* [Nianyi Li](https://nianyil.people.clemson.edu/)(Clemson University)
+* [Matthew Turk](http://ilab.cs.ucsb.edu/info)(UCSB)
 
 
 ## Selective professors from other fields
