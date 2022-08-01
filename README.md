@@ -347,7 +347,9 @@ and INRIA Paris-Rocquencourt)
 * [Dr. Marc Niethammer](https://cs.unc.edu/person/marc-niethammer/)(University of North Carolina, Chapel Hill.)
 * [Haoxuan You](https://www.ee.columbia.edu/ln/dvmm/newPeople.htm#visitingStudent)(Columbia University)
 * [Wei Tang](https://tangw.people.uic.edu/)(University of Illinois Chicago)
-
+* [Vedhus Hoskere](https://sail.cive.uh.edu/positions/)( University of Houston)
+* [Danna Gurari](https://home.cs.colorado.edu/~DrG/FAQ.html)( University of Colorado Boulder )
+* [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)(University of Rochester Rochester)
 
 ## Selective Professors
 
@@ -410,6 +412,7 @@ and INRIA Paris-Rocquencourt)
 * [Yuyin Zhou](https://yuyinzhou.github.io/)(University of California, Santa Cruz)
 * [Mike Z. SHOU](https://sites.google.com/view/showlab/join-us)(Columbia University)
 * [Eshed Ohn-Bar](https://eshed1.github.io/#Team)(Boston University)
+* [Ahmed H. Qureshi](https://qureshiahmed.github.io/)(Purdue University)
 * [Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html)(Purdue University)
 * [Michael C. Yip](https://yip.eng.ucsd.edu/)(University of California at San Diego (UCSD))
 * [Heng Fan](https://hengfan2010.github.io/)(University of North Texas)
@@ -421,6 +424,14 @@ and INRIA Paris-Rocquencourt)
 * [Henry Medeiros](https://www.coviss.org/positions/)(University of Florida)
 * [Anhong Guo](https://guoanhong.com/)(University of Michigan)
 * [Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us)(University of Michigan)
+* [Yuanyuan Zhu](https://zhu.mse.uconn.edu/join-us/)(University of Connecticut)
+* [Stefanie Tellex](https://h2r.cs.brown.edu/people/)(Brown University)
+* [Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html)(The University of Texas at Austin)
+* [Jingdao Chen](https://jingdao.github.io/)(Mississippi State University)
+* [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/application/)(University of California, Los Angeles)
+* [Fei Sha and Leana Golubchik](https://viterbi-web.usc.edu/~feisha/)(University of Southern California)
+* [Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894)(University of Illinois at Urbana-Champaign)
+
 
 ## Selective professors from other fields
 
