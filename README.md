@@ -354,9 +354,9 @@ and INRIA Paris-Rocquencourt)
 * [Vishal M Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/)(Johns Hopkins University)
 * [Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/)(Georgia Tech)
 * [Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news)(University of Central Florida)
-
-
-
+* [Rana Hanocka](https://people.cs.uchicago.edu/~ranahanocka/)(University of Chicago)
+* [Kate Saenko](http://ai.bu.edu/ksaenko.html)(Boston University)
+* [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/index.html)(University at Buffalo)
 
 ## Selective Professors
 
@@ -445,7 +445,11 @@ and INRIA Paris-Rocquencourt)
 * [Katsaggelos](https://ivpl.northwestern.edu/contact-ivpl/)(northwestern)
 * [Nianyi Li](https://nianyil.people.clemson.edu/)(Clemson University)
 * [Matthew Turk](http://ilab.cs.ucsb.edu/info)(UCSB)
-
+* [Pedro Morgado](https://pedro-morgado.github.io/)(University of Wisconsin-Madison)
+* [Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/)(University of Nebraska)
+* [Jinwei Ye](https://cs.gmu.edu/~jinweiye/)(George Mason University)
+* [Safwan R Wshah](https://www.wshahaigroup.com/contact)(University of Vermont)
+* [William Wang](https://sites.cs.ucsb.edu/~william/)(UC Santa Barbara)
 
 ## Selective professors from other fields
 
@@ -463,7 +467,7 @@ and INRIA Paris-Rocquencourt)
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=r6cCADb2__8J&astart=3390)
+* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=4woFAAn-__8J&astart=9970)
 
 # Yocket (686 universities)
 University of Illinois at Chicago
