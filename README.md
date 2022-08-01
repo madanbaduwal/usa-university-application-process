@@ -264,6 +264,7 @@ and INRIA Paris-Rocquencourt)
 * [Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html)(Northeastern University)
 * [Todd Zickler](http://www.eecs.harvard.edu/~zickler/)(Harvard University)
 * [Emily Mower Provost](https://emp.engin.umich.edu/)(University of Michigan)
+* [Mohan Trivedi](https://jacobsschool.ucsd.edu/faculty/profile?id=68)(University of California, San Diego)
 * [Gianfranco Doretto](https://vision.csee.wvu.edu/~doretto/)(West Virginia University)
 * [Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students)(Purdue University)
 * [Michael D. Grossberg](http://www-cs.ccny.cuny.edu/~grossberg/index.html)(City University of New York)
@@ -350,6 +351,12 @@ and INRIA Paris-Rocquencourt)
 * [Vedhus Hoskere](https://sail.cive.uh.edu/positions/)( University of Houston)
 * [Danna Gurari](https://home.cs.colorado.edu/~DrG/FAQ.html)( University of Colorado Boulder )
 * [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)(University of Rochester Rochester)
+* [Vishal M Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/)(Johns Hopkins University)
+* [Dhruv Batra](https://faculty.cc.gatech.edu/~dbatra/)(Georgia Tech)
+* [Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news)(University of Central Florida)
+
+
+
 
 ## Selective Professors
 
@@ -431,6 +438,10 @@ and INRIA Paris-Rocquencourt)
 * [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/application/)(University of California, Los Angeles)
 * [Fei Sha and Leana Golubchik](https://viterbi-web.usc.edu/~feisha/)(University of Southern California)
 * [Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894)(University of Illinois at Urbana-Champaign)
+* [Stephen Seung-Yeob Baek](https://stephenbaek.github.io/lab/)(University of Virginia)
+* [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(Binghamton University (SUNY))(important)
+* [Ruoyu Sun](https://ruoyus.github.io/)(University of California, Irvine)
+* [Katsaggelos](https://ivpl.northwestern.edu/contact-ivpl/)(northwestern)
 
 
 ## Selective professors from other fields
