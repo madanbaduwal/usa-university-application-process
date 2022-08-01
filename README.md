@@ -333,6 +333,11 @@ and INRIA Paris-Rocquencourt)
 * [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/)(niversity of Pennsylvania)
 * [Khoa Luu](https://cviu.uark.edu/)(University of Arkansas)
 * [Vijaya B. Kolachalama](https://vkola-lab.github.io/)(Boston University)
+* [Raymond A. Yeh](https://www.raymond-yeh.com/)(Purdue University)
+* [Vishnu Naresh Boddeti](http://hal.cse.msu.edu/)(Michigan State University)
+* [Cang Ye, PhD, AIMBE Fellow](http://www.people.vcu.edu/~cye/opengs_1.htm)(Virginia Commonwealth University)
+* [Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/)(University of Minnesota)
+
 
 ## Selective Professors
 
@@ -394,6 +399,8 @@ and INRIA Paris-Rocquencourt)
 * [Eshed Ohn-Bar](https://eshed1.github.io/#Team)(Boston University)
 * [Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html)(Purdue University)
 * [Michael C. Yip](https://yip.eng.ucsd.edu/)(University of California at San Diego (UCSD))
+* [Heng Fan](https://hengfan2010.github.io/)(University of North Texas)
+* [Xin Eric Wang](https://eric-xw.github.io/)(University of California, Santa Cruz)
 
 ## Selective professors from other fields
 
