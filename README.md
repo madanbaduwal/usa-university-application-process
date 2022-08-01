@@ -321,6 +321,18 @@ and INRIA Paris-Rocquencourt)
 * [Derek T. Anderson](http://derektanderson.com/index.html)(Mississippi State University)
 * [Adrian Barbu](https://ani.stat.fsu.edu/~abarbu/index.html)(Florida State University)
 * [Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/)(University of Wisconsin-Madison)
+* [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/)(University of Rochester)
+* [Guoquan (Paul) Huang](https://udel.edu/~ghuang/)(University of Delaware)
+* [Guilherme A. S. Pereira](https://guilhermepereira.faculty.wvu.edu/)(West Virginia University)
+* [Fengqing Maggie Zhu](https://engineering.purdue.edu/~zhu0/)(Purdue University)
+* [Qiang Qiu](https://web.ics.purdue.edu/~qqiu/#qlab)(Purdue University)
+* [Guilherme DeSouza](http://vigir.missouri.edu/~gdesouza/)(University of Missouri)
+* [Bryan A. Plummer](https://bryanplummer.com/)(oston University)
+* [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)(Northwestern University)
+* [Mohit Gupta](https://wisionlab.com/people/mohit-gupta/)(University of Wisconsin-Madison)
+* [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/)(niversity of Pennsylvania)
+* [Khoa Luu](https://cviu.uark.edu/)(University of Arkansas)
+* [Vijaya B. Kolachalama](https://vkola-lab.github.io/)(Boston University)
 
 ## Selective Professors
 
@@ -376,6 +388,12 @@ and INRIA Paris-Rocquencourt)
 * [Ming Shao](http://www.cis.umassd.edu/~mshao/)(UMass Dartmouth)
 * [Fuyong Xing](https://fuyongxing.github.io/)(University of Colorado Denver)
 * [Chen Feng](https://ai4ce.github.io/)(New York University)
+* [Huijuan Xu](https://visionlanguagelab.github.io/)(Pennsylvania State University)
+* [Yuyin Zhou](https://yuyinzhou.github.io/)(University of California, Santa Cruz)
+* [Mike Z. SHOU](https://sites.google.com/view/showlab/join-us)(Columbia University)
+* [Eshed Ohn-Bar](https://eshed1.github.io/#Team)(Boston University)
+* [Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html)(Purdue University)
+* [Michael C. Yip](https://yip.eng.ucsd.edu/)(University of California at San Diego (UCSD))
 
 ## Selective professors from other fields
 
@@ -393,7 +411,7 @@ and INRIA Paris-Rocquencourt)
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=7o0BAC_y__8J&astart=2540)
+* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=r6cCADb2__8J&astart=3390)
 
 # Yocket (686 universities)
 University of Illinois at Chicago
