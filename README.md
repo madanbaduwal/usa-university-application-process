@@ -460,7 +460,7 @@ and INRIA Paris-Rocquencourt)
 * [THOMAS CZERNIAWSKI](https://thomasczerniawski.com/)(Arizona State University)
 * [GONGBO "TONY" LIANG](http://www.gb-liang.com/)(TEXAS A&M UNIVERISTY--SAN ANTONIO)
 * [Prof. Serre](https://serre-lab.clps.brown.edu/)(Brown University)
-
+* [ Yuen Chau](https://people.sutd.edu.sg/~yuenchau/)( Singapore University of Technology and Design)
 
 ## Selective professors from other fields
 
