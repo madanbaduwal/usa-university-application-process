@@ -476,7 +476,7 @@ and INRIA Paris-Rocquencourt)
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=4woFAAn-__8J&astart=9970)
+* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=e-8UAMz-__8J&astart=12950)
 
 # Yocket (686 universities)
 University of Illinois at Chicago
