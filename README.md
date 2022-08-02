@@ -458,6 +458,8 @@ and INRIA Paris-Rocquencourt)
 * [William Wang](https://sites.cs.ucsb.edu/~william/)(UC Santa Barbara)
 * [Ram Nevatia](https://sites.usc.edu/iris-cvlab/position/)(University of Southern California)
 * [THOMAS CZERNIAWSKI](https://thomasczerniawski.com/)(Arizona State University)
+* [GONGBO "TONY" LIANG](http://www.gb-liang.com/)(TEXAS A&M UNIVERISTY--SAN ANTONIO)
+* [Prof. Serre](https://serre-lab.clps.brown.edu/)(Brown University)
 
 
 ## Selective professors from other fields
@@ -476,7 +478,7 @@ and INRIA Paris-Rocquencourt)
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=e-8UAMz-__8J&astart=12950)
+* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=YNBCAPj-__8J&astart=13900)
 
 # Yocket (686 universities)
 University of Illinois at Chicago
