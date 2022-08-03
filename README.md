@@ -261,7 +261,6 @@ and INRIA Paris-Rocquencourt)
 * [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)(UC Irvine)
 * [Walter Scheirer](https://www.wjscheirer.com/)(University of Notre Dame)
 * [Thrasyvoulos Pappas](http://www.eecs.northwestern.edu/~pappas/)(Northwestern University)
-* [Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html)(Northeastern University)
 * [Todd Zickler](http://www.eecs.harvard.edu/~zickler/)(Harvard University)
 * [Emily Mower Provost](https://emp.engin.umich.edu/)(University of Michigan)
 * [Mohan Trivedi](https://jacobsschool.ucsd.edu/faculty/profile?id=68)(University of California, San Diego)
@@ -461,6 +460,10 @@ and INRIA Paris-Rocquencourt)
 * [GONGBO "TONY" LIANG](http://www.gb-liang.com/)(TEXAS A&M UNIVERISTY--SAN ANTONIO)
 * [Prof. Serre](https://serre-lab.clps.brown.edu/)(Brown University)
 * [ Yuen Chau](https://people.sutd.edu.sg/~yuenchau/)( Singapore University of Technology and Design)
+* [Yuxiong WANG](https://yxw.web.illinois.edu/)(University of Illinois Urbana-Champaign)
+* [Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html)(Northeastern University)
+* [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/)(Columbia University)
+* [Diana Marculescu](http://users.ece.utexas.edu/~dianam/prospective.html)(UT Austin)
 
 ## Selective professors from other fields
 
