@@ -366,6 +366,7 @@ and INRIA Paris-Rocquencourt)
 
 ## Selective Professors
 
+* [Jia-Bin Huang](https://jbhuang0604.github.io/)(University of North Carolina at Chapel Hill)
 * [Reza Abiri, Ph.D.](https://web.uri.edu/engineering/meet/reza-abiri/)(University of Rhode Island)
 * [Dr. Kostas Alexis](https://www.autonomousrobotslab.com/)(Norwegian University of Science and Technology (NTNU))
 * [Nasim Yahya soltani (Yahyasoltani)](https://www.marquette.edu/computer-science/directory/nasim-yahyasoltani-1.php)(Marquette University)
