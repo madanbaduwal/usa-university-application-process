@@ -1,6 +1,6 @@
 # People in Computer Vision 
 
-## Applied Computer vision in Physics,Chemistry, Biology(Bioinformatics), Engineering(Robotics)
+## Applied Computer vision in English,Physics,Chemistry, Biology(Bioinformatics,Agriculture), Engineering(Robotics)
 
 
 * [Richard Szeliski](http://szeliski.org/RichardSzeliski.htm)(University of Washington)
