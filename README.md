@@ -366,7 +366,7 @@ and INRIA Paris-Rocquencourt)
 
 ## Selective Professors
 
-* [Jia-Bin Huang](https://jbhuang0604.github.io/)(University of North Carolina at Chapel Hill)
+* [Jia-Bin Huang](https://jbhuang0604.github.io/)(University of North Carolina at Chapel Hill)(Ranking: 40)(GRE scores are not required)
 * [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(Binghamton University (SUNY))(important)
 * [Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students)(University of Central Florida (UCF))(Important)
 * [Reza Abiri, Ph.D.](https://web.uri.edu/engineering/meet/reza-abiri/)(University of Rhode Island)
