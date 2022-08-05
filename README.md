@@ -367,8 +367,8 @@ and INRIA Paris-Rocquencourt)
 ## Selective Professors
 
 * [Jia-Bin Huang](https://jbhuang0604.github.io/)(University of North Carolina at Chapel Hill)(Ranking: 40)(GRE scores are not required)(Intake: Fall)
-* [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(Binghamton University (SUNY))(important)
-* [Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students)(University of Central Florida (UCF))(Important)
+* [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(SUNY Binghamton University )(Ranking: 77)(GRE scores are not required if you have experience)(Intake: Fall and Spring)(important)
+* [Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students)(University of Central Florida (UCF))(Ranking: 400)(GRE scores are not required )(Intake: Fall and Spring)(Important)
 * [Reza Abiri, Ph.D.](https://web.uri.edu/engineering/meet/reza-abiri/)(University of Rhode Island)
 * [Dr. Kostas Alexis](https://www.autonomousrobotslab.com/)(Norwegian University of Science and Technology (NTNU))
 * [Nasim Yahya soltani (Yahyasoltani)](https://www.marquette.edu/computer-science/directory/nasim-yahyasoltani-1.php)(Marquette University)
