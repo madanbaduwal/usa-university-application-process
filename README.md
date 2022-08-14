@@ -487,7 +487,7 @@ List of professors and there universities with PHD admission requirements
 * [Abhinav Shrivastava and Larry Davis](https://prg.cs.umd.edu/open-positions)(University of Maryland, College Park)(Important)
 * [Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/)(Purdue University)(Important)
 * [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/)(University of Nebraska at Omaha)(Important)
-* [UMN VIP](https://www-users.cse.umn.edu/~qzhao/index.html)(University of Minnesota)(Important)
+* [Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html)(University of Minnesota)(Important)
 
 
 
