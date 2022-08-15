@@ -479,7 +479,6 @@ List of professors and there universities with PHD admission requirements
 * [Ram Nevatia](https://sites.usc.edu/iris-cvlab/position/)(University of Southern California)(Important)
 * [THOMAS CZERNIAWSKI](https://thomasczerniawski.com/)(Arizona State University)(Important)
 * [Prof. Serre](https://serre-lab.clps.brown.edu/)(Brown University)(Important)
-* [ Yuen Chau](https://people.sutd.edu.sg/~yuenchau/)( Singapore University of Technology and Design)(Important)
 * [Yuxiong WANG](https://yxw.web.illinois.edu/)(University of Illinois Urbana-Champaign)(Important)
 * [Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html)(Northeastern University)(Important)
 * [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/)(Columbia University)(Important)
