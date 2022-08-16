@@ -418,7 +418,6 @@ List of professors and there universities with PHD admission requirements
 
 * [Jia-Bin Huang](https://jbhuang0604.github.io/)(University of North Carolina at Chapel Hill)(Ranking: 40)(GRE scores are not required)(Intake: Fall)(Important)
 * [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(SUNY Binghamton University )(Ranking: 77)(GRE scores are not required if you have experience)(Intake: Fall and Spring)(Important)
-* [Dr. Kostas Alexis](https://www.autonomousrobotslab.com/)(Norwegian University of Science and Technology (NTNU))(Important)
 * [Jason Corso](http://web.eecs.umich.edu/~jjcorso/)(University of Michigan)(Important)
 * [Chen Chen](https://www.crcv.ucf.edu/chenchen/)(University of Central Florida)(Important)
 * [Yuke Zhu](https://www.cs.utexas.edu/~yukez/)(The University of Texas at Austin)(important)
