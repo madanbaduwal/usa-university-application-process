@@ -364,7 +364,7 @@ and INRIA Paris-Rocquencourt)
 * [Shuran Song](https://www.cs.columbia.edu/~shurans/)(Columbia University)
 * [Yasin Yilmaz](http://sis.eng.usf.edu/openings.html)(University of South Florida)
 * [Huaizu Jiang](http://jianghz.me/)(Northeastern University)
-
+* [Ross Whitaker](http://www.cs.utah.edu/~whitaker/)(The University of Utah)
 
 ## Selective professor
 
@@ -487,7 +487,8 @@ List of professors and there universities with PHD admission requirements
 * [Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/)(Purdue University)(Important)
 * [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/)(University of Nebraska at Omaha)(Important)
 * [Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html)(University of Minnesota)(Important)
-
+* [Shireen Elhabian](http://www.sci.utah.edu/~shireen/index.html)(The University of Utah)
+* [Christopher R. Johnson](http://www.cs.utah.edu/~crj/)(The University of Utah)
 
 
 ## Selective professors from other fields
