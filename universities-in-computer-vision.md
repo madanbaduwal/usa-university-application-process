@@ -13,12 +13,12 @@ GRE: required
 
 # Universities requirements
 
-GPA: above 3.0
+    GPA: above 3.0
 
-GRE: No required
+    GRE: No required
 
 
-Ranking above 100
+    Ranking above 100
 
 * [University of Massachusetts Amherst](https://www.cics.umass.edu/)
     - Rank: 150
@@ -33,3 +33,8 @@ Ranking above 100
 * [Arizona State University]()
     - Rank: 150
     - [Mayo Imaging Informatics Center (AMIIC)](https://amcii.asu.edu/)
+
+
+* [University of Alabama at Birmingham](https://www.uab.edu/home/)
+    - Rank: 200
+    - [KDDM Lab](https://kddm.github.io/)
