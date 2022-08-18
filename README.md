@@ -26,6 +26,7 @@
 * [Michael Rubinstein](http://people.csail.mit.edu/mrub/) (Google Research)
 * [Bryan Russell](http://homes.cs.washington.edu/~bcr/) (Adobe Research)
 * [Barun Singh](http://barunsingh.com/)
+* [R. Manmatha](http://ciir.cs.umass.edu/~manmatha/?_gl=1*n312zt*_ga*MTI1Nzk1NjI0Mi4xNjYwODI4MjIw*_ga_21RLS0L7EB*MTY2MDg0MTM4Mi4zLjEuMTY2MDg0MjIyNC4wLjAuMA..&_ga=2.26554237.1300463178.1660828220-1257956242.1660828220)(University of Massachusetts Amherst)
 * [Erik B. Sudderth](http://cs.brown.edu/people/sudderth/) (Brown University)
 * [Marshall Tappen](http://www.cs.ucf.edu/~mtappen/) (Amazon)
 * [Eero Simoncelli](http://www.cns.nyu.edu/~eero/) (NYU)
