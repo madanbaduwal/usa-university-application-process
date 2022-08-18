@@ -38,3 +38,15 @@ GRE: required
 * [University of Alabama at Birmingham](https://www.uab.edu/home/)
     - Rank: 200
     - [KDDM Lab](https://kddm.github.io/)
+
+* [Stony Brook University](https://www.stonybrook.edu/)
+    - Rank: 200
+    - [CVLab](https://www3.cs.stonybrook.edu/~cvl/)
+    - [3D Scanning Lab](https://www3.cs.stonybrook.edu/~gu/software/holoimage/index.html)
+    
+* [Northeastern University, Boston](https://www.northeastern.edu/)
+    - [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/)
+
+
+Florida State University
+
