@@ -1,4 +1,4 @@
-# Universities and  there labs in Computer Vision
+# Universities and  there labs in Machine Learning,Computer Vision
 
 Order According to the US News
 
@@ -16,7 +16,6 @@ GRE: required
     GPA: above 3.0
 
     GRE: No required
-
 
     Ranking above 100
 
@@ -48,5 +47,57 @@ GRE: required
     - [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/)
 
 
-Florida State University
+* [Iowa State University](https://www.iastate.edu/)
+    - Rank: 250
+    - Application fee: not required
+    - Professors 
 
+* [University of Notre Dame](https://www.nd.edu/)
+    - Rank: 250
+    - Application fee: not required
+    - [Computer Vision Research Laboratory](https://cvrl.nd.edu/)
+
+* [Virginia Tech](https://www.vt.edu/)
+    - Rank: 
+    - Application fee: 75
+    - [Data Analytics,  Machine Learning, and NLP](https://cs.vt.edu/research/research-areas/data-analytics-information-retrieval-machine-learning-and-natural-language-processing.html)
+
+* [University of Maryland, Baltimore County](https://umbc.edu/)
+    - Rank:
+    - Application fee: can request for fee waiver
+    - GRE: can request for waiver
+* [Oregon State University](https://oregonstate.edu/)
+    - Rank: 300
+    - Application fee: 80
+    - [Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering)
+    - [Artificial Intelligence and Robotics](https://eecs.oregonstate.edu/artificial-intelligence-and-robotics)
+* [Georgetown University](https://cs.georgetown.edu/)
+    - Rank: 350
+    - Application fee: Can request fee waiver first come first serve
+    - [Data-Centric Computing](https://csdatacentric.georgetown.domains/)
+
+* [University of Connecticut]()
+    - Rank : 350
+    - Application: 75
+    - [Laboratory of Machine Learning & Health Informatics](https://healthinfo.lab.uconn.edu/)
+
+* [University of Colorado at Denver]()
+    - Rank: 400
+    - Application fee: 75
+    - [Machine Learning Laboratory (ML Lab)](https://ml.cse.ucdenver.edu/)
+
+
+* [University of Houston](https://uh.edu/)
+    - Rank:400
+    - Application fee: 75
+    - [Visual Computing](https://uh.edu/nsm/computer-science/research/visual-computing/)
+
+* [Tulane University](https://tulane.edu/)
+    - Rank:450
+    - Application fee: 
+
+* [Rensselaer Polytechnic Institute](https://www.rpi.edu/)
+    - Rank: 
+    - Application fee: 75
+ 
+University of California, Merced
