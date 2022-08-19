@@ -224,6 +224,7 @@ and INRIA Paris-Rocquencourt)
 * [Predrag Radivojac](https://www.ccs.neu.edu/home/radivojac/)(Northeastern University)
 * [Xiaoqiu Huang](https://faculty.sites.iastate.edu/xqhuang/)(Iowa State University)
 * [Tom Goldstein](http://www.cs.umd.edu/~tomg/)(University of Maryland)
+* [Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/)(Stony Brook University)
 * [David Xianfeng Gu](https://www3.cs.stonybrook.edu/~gu/)(Stony Brook)
 * [Mahmut Unan](https://www.uab.edu/cas/computerscience/people/faculty-directory/faculty/mahmut-unan)(University of Alabama at Birmingham)
 * [chengcui zhang](https://www.uab.edu/cas/computerscience/people/faculty-directory/faculty/chengcui-zhang)(University of Alabama at Birmingham)
@@ -498,7 +499,7 @@ List of professors and there universities with PHD admission requirements
 * [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/)(Oregon State University)
 * [Dr. Tathagata Mukherjee](https://www.uah.edu/science/faculty-staff/tathagata-mukherjee)()
 * [Dr. Huaming Zhang](https://www.uah.edu/science/faculty-staff/huaming-zhang)()
-
+* [Bijaya Adhikari](https://homepage.divms.uiowa.edu/~badhikari/prospective.html)(University of Iowa)
 
 ## Selective professor from top universities
 
