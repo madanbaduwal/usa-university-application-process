@@ -421,6 +421,7 @@ List of professors and there universities with PHD admission requirements
 * Bchelor degree
 * No GRE
 
+* [Kilian Weinberger](https://www.cs.cornell.edu/~kilian/)(Cornell University)
 * [Jia-Bin Huang](https://jbhuang0604.github.io/)(University of Maryland, College Park)(Ranking: 40)(GRE scores are not required)(Intake: Fall)(Important)
 * [Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html)(SUNY Binghamton University )(Ranking: 77)(GRE scores are not required if you have experience)(Intake: Fall and Spring)(Important)
 * [Jason Corso](http://web.eecs.umich.edu/~jjcorso/)(University of Michigan)(Important)
@@ -502,9 +503,7 @@ List of professors and there universities with PHD admission requirements
 * [Dr. Huaming Zhang](https://www.uah.edu/science/faculty-staff/huaming-zhang)()
 * [Bijaya Adhikari](https://homepage.divms.uiowa.edu/~badhikari/prospective.html)(University of Iowa)
 
-## Selective professor from top universities
 
-* [Kilian Weinberger](https://www.cs.cornell.edu/~kilian/)(Cornell University)
 
 
 
