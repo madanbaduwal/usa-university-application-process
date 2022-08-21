@@ -14,3 +14,5 @@
 
 
 ## Fall
+
+University of South Dakota
