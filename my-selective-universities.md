@@ -1,5 +1,5 @@
 # My selective uiversities
 * University of maryland
-* Stoony brook
+* Stony Brook University
 * South Dakota
 * 
