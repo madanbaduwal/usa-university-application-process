@@ -22,6 +22,7 @@
 * [Purdue University]()
 * [University of Maryland]()
 * [UT Austin]()
+* [Columbia University]()
 ## Fall
 
 University of South Dakota
