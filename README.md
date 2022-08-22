@@ -369,6 +369,7 @@ and INRIA Paris-Rocquencourt)
 * [Yasin Yilmaz](http://sis.eng.usf.edu/openings.html)(University of South Florida)
 * [Huaizu Jiang](http://jianghz.me/)(Northeastern University)
 * [Ross Whitaker](http://www.cs.utah.edu/~whitaker/)(The University of Utah)
+* [Chengjun Liu](https://web.njit.edu/~cliu/)(New Jersey Institute of Technology)
 
 ## Selective professor
 
