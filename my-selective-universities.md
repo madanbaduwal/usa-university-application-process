@@ -13,6 +13,7 @@
 * Stony Brook University(Lots of professors (Ranking: 48)(Spring: oct 1))
 * University of California, San Diego
 * Oregon State university
+* University of Utah
 
 ## Fall
 
