@@ -11,6 +11,7 @@
 * [Portland University]()(rank:251,[Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas))
 * [University of North Carolina at Greensboro]()([People:](https://sites.google.com/view/minjeongkim) )
 * Stony Brook University(Lots of professors (Ranking: 48)(Spring: oct 1))
+* University of California, San Diego
 
 
 ## Fall
