@@ -12,7 +12,7 @@
 * [University of North Carolina at Greensboro]()([People:](https://sites.google.com/view/minjeongkim) )
 * Stony Brook University(Lots of professors (Ranking: 48)(Spring: oct 1))
 * University of California, San Diego
-
+* Oregon State university
 
 ## Fall
 
