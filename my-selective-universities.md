@@ -21,6 +21,7 @@
 * [University of Nebraska at Omaha](https://sites.google.com/unomaha.edu/xinz/)
 * [Purdue University]()
 * [University of Maryland]()
+* [UT Austin]()
 ## Fall
 
 University of South Dakota
