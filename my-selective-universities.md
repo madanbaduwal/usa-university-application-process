@@ -2,7 +2,7 @@
 
 ## Spring
 
-* Iowa State University([Department and professors](https://www.cs.iastate.edu/people/research-area/AI-ML-and-Data%20Science)(ranking 122))
+
 * South Dakota ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )
 * University of Iowa([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/))
 * [University of Nevada, Reno]()(Rank 227) ([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
