@@ -14,6 +14,7 @@
 * University of California, San Diego
 * Oregon State university
 * University of Utah
+* [Michigan State University](https://www.cse.msu.edu/Research/labs.php)
 
 ## Fall
 
