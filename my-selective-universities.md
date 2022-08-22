@@ -15,6 +15,7 @@
 * Oregon State university
 * University of Utah
 * [Michigan State University](https://www.cse.msu.edu/Research/labs.php)
+* University of Maryland
 
 ## Fall
 
