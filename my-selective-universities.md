@@ -16,3 +16,6 @@
 ## Fall
 
 University of South Dakota
+
+
+<!-- ## Cheepast University for MS in CS -->
