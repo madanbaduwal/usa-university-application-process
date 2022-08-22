@@ -19,7 +19,8 @@
 * [University of North Carolina Charlotte](https://vialab.charlotte.edu/)
 * [George Washington University](https://www.cs.seas.gwu.edu/aimachine-learning)
 * [University of Nebraska at Omaha](https://sites.google.com/unomaha.edu/xinz/)
-
+* [Purdue University]()
+* [University of Maryland]()
 ## Fall
 
 University of South Dakota
