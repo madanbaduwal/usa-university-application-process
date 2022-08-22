@@ -494,7 +494,7 @@ List of professors and there universities with PHD admission requirements
 * [Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html)(University of Minnesota)(Important)
 * [Shireen Elhabian](http://www.sci.utah.edu/~shireen/index.html)(The University of Utah)
 * [Christopher R. Johnson](http://www.cs.utah.edu/~crj/)(The University of Utah)
-
+* [Apu Kapadia, Ph.D.](https://privacy.luddy.indiana.edu/about/)(indiana university)
 
 ## Selective professors from other fields
 
