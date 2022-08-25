@@ -5,6 +5,7 @@
 Nation ranking according to computer science 
 
 * [South Dakota]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )
+* [University of South Dakota]()([Santosh KC](http://kc-santosh.org/))
 * [University of North Carolina at Greensboro]()(Rank:239)(Fall - April 1 February 1 Priority Deadline for Financial Consideration)([People:](https://sites.google.com/view/minjeongkim) )
 * [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))
 * [University of Nevada, Reno]()(Rank 159) ([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
