@@ -508,11 +508,7 @@ List of professors and there universities with PHD admission requirements
 # References
 * [Google scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-* [Current state](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision&after_author=YNBCAPj-__8J&astart=13900)
-
-# Yocket (686 universities)
-University of Illinois at Chicago
-
+* [CS ranking](https://csrankings.org/#/index?vision&us)
 
 
 
