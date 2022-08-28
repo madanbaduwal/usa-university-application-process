@@ -46,9 +46,6 @@ Nation ranking according to computer science
 
 
 
-## Fall
+## References
+* [CS ranking](https://csrankings.org/#/index?vision&us)
 
-University of South Dakota
-
-
-<!-- ## Cheepast University for MS in CS -->
