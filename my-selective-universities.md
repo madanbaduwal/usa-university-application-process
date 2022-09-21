@@ -4,21 +4,18 @@
 
 Nation ranking according to computer science 
 
-* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )
-* [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))
-* [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))
-* [University of Iowa]()(Rank:69)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
-](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))
-* [University of idho]()(Rank:159 , [professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))
+* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )(#1)
+* [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)
+* [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))(#3)
 
+* [University of idho]()(Rank:159 , [professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)
 
-
-* [University of North Carolina at Greensboro]()(Rank:239)(Fall - April 1 February 1 Priority Deadline for Financial Consideration)([People:](https://sites.google.com/view/minjeongkim) )
-* [University of Nevada, Reno]()(Rank 159) ([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
-* [University of Vermont]()(Rank: 146)([Safwan R Wshah](https://www.wshahaigroup.com/contact))
-* [Mississippi State University]()(Rank:146 , [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))
-* [Portland State University]()(Rank:135)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))
-* [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))
+* [University of North Carolina at Greensboro]()(Rank:239)(Fall - April 1 February 1 Priority Deadline for Financial Consideration)([People:](https://sites.google.com/view/minjeongkim) )(#8)
+* [University of Nevada, Reno]()(Rank 159) ([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
+* [University of Vermont]()(Rank: 146)([Safwan R Wshah](https://www.wshahaigroup.com/contact))(#9)
+* [Mississippi State University]()(Rank:146 , [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))(#6)
+* [Portland State University]()(Rank:135)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
+* [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))(#11)
 * [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
 * [Toyota Technological Institute at Chicago]()(Rank: 89)([Matthew R. Walter](https://home.ttic.edu/~mwalter/),[Gregory Shakhnarovich ](https://home.ttic.edu/~gregory/),[Ayan Chakrabarti](https://scholar.google.com/citations?hl=en&user=0v5utcwAAAAJ&view_op=list_works&sortby=pubdate))
@@ -26,6 +23,8 @@ Nation ranking according to computer science
 * [Colorado School of Mines]()(Rank:82)([Hua Wang](http://inside.mines.edu/~huawang/),[William Hoff](https://cs.mines.edu/project/hoff-william/))
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
+* [University of Iowa]()(Rank:69)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
+](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))(#4)
 * [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
 * [Oregon State university]()(Rank:63)([Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering))
 * [Michigan State University]()(Rank:60)([Research Lab](https://www.cse.msu.edu/Research/labs.php))
