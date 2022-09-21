@@ -6,15 +6,14 @@ Spring semester (January to May)
 
 Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My priority),(My current status)
 
-* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring: Nov )(#1)(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
+* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory))(#1)(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
 * [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)(Ongoing: Requesting Application fee waiver, facing start date 2022 in common app)
 * [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))(#3)
 
-* [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)
-
-* [University of North Carolina at Greensboro]()(Rank:239)(Fall - April 1 February 1 Priority Deadline for Financial Consideration)([People:](https://sites.google.com/view/minjeongkim) )(#8)
-* [University of Nevada, Reno]()(Rank 159) ([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
-* [University of Vermont]()(Rank: 146)([Safwan R Wshah](https://www.wshahaigroup.com/contact))(#9)
+* [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)(Planning to apply)
+* [University of North Carolina at Greensboro]()(Rank:239)(Early Action: November 1	, Early Action II: December 1, Scholarship Consideration: January 15)([People:](https://sites.google.com/view/minjeongkim) )(#8)
+* [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
+* [University of Vermont]()(Rank: 146)(Fall: Rolling, Priority deadline for funding January 1st, Spring: Rolling, Priority deadline for funding October 1st)([Safwan R Wshah](https://www.wshahaigroup.com/contact))(#9)
 * [Mississippi State University]()(Rank:146 , [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))(#6)
 * [Portland State University]()(Rank:135)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
 * [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))(#11)
