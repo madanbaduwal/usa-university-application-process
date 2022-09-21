@@ -1,14 +1,16 @@
 # My selective uiversities
 
-## Spring
+Fall semester (August to December)
 
-Nation ranking according to computer science 
+Spring semester (January to May)
 
-* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )(#1)(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
-* [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)(Ongoing: Requesting Application fee waiver)
+Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My priority),(My current status)
+
+* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring: Nov )(#1)(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
+* [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)(Ongoing: Requesting Application fee waiver, facing start date 2022 in common app)
 * [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))(#3)
 
-* [University of idho]()(Rank:159 , [professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)
+* [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)
 
 * [University of North Carolina at Greensboro]()(Rank:239)(Fall - April 1 February 1 Priority Deadline for Financial Consideration)([People:](https://sites.google.com/view/minjeongkim) )(#8)
 * [University of Nevada, Reno]()(Rank 159) ([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
@@ -23,7 +25,7 @@ Nation ranking according to computer science
 * [Colorado School of Mines]()(Rank:82)([Hua Wang](http://inside.mines.edu/~huawang/),[William Hoff](https://cs.mines.edu/project/hoff-william/))
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
-* [University of Iowa]()(Rank:69)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
+* [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
 ](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))(#4)
 * [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
 * [Oregon State university]()(Rank:63)([Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering))
