@@ -4,8 +4,8 @@
 
 Nation ranking according to computer science 
 
-* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )(#1)
-* [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)
+* [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory), Spring, )(#1)(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
+* [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)(Ongoing: Requesting Application fee waiver)
 * [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))(#3)
 
 * [University of idho]()(Rank:159 , [professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)
