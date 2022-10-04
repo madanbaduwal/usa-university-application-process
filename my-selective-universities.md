@@ -6,6 +6,7 @@ Spring semester (January to May)
 
 Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My priority),(My current status)
 
+<!-- * [North Dakota State University](https://www.ndsu.edu/)(Rank: 285)()() -->
 * [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory))(#1)(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
 * [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(#2)(Ongoing: Requesting Application fee waiver, facing start date 2022 in common app)
 * [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))(#3)
