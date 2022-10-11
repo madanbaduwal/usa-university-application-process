@@ -12,7 +12,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 3: [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))(#3)
 
 * 4: [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(#5)(Planning to apply)
-* [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
+* 5: [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
 * [University of Vermont]()(Rank: 146)(Fall: Rolling, Priority deadline for funding January 1st, Spring: Rolling, Priority deadline for funding October 1st)([Safwan R Wshah](https://www.wshahaigroup.com/contact))(#9)
 * [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))(#6)
 * [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
