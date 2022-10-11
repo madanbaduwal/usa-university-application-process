@@ -15,7 +15,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 5: [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))(#7)
 
 * 6: [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))(#6)
-* [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
+* 7: [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
 * [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))(#11)
 * [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
