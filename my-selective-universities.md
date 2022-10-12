@@ -20,7 +20,6 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
 * 8: [Worcester Polytechnic Institute]()(Rank:89)([Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/))
-* [Colorado School of Mines]()(Rank:82)([Hua Wang](http://inside.mines.edu/~huawang/),[William Hoff](https://cs.mines.edu/project/hoff-william/))
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
 * [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
