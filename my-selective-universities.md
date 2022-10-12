@@ -7,9 +7,9 @@ Spring semester (January to May)
 Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My priority),(My current status)
 
 <!-- * [North Dakota State University](https://www.ndsu.edu/)(Rank: 285)()() -->
-* 1: [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(Ongoing: Requesting Application fee waiver, facing start date 2022 in common app)
-* 2: [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory))(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
-* 3: [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))
+* 1(MS): [University of South Dakota](https://www.usd.edu/)(Rank: 263)([Santosh KC](http://kc-santosh.org/))(Ongoing: Requesting Application fee waiver, facing start date 2022 in common app)
+* 2(MS): [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory))(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
+* 3(MS): [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/))
 
 * 4: [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(Planning to apply)
 * 5: [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
