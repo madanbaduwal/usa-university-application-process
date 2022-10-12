@@ -20,7 +20,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
 ](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))(#4)
 * GRE confused already email to department: [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
-* [Oregon State university]()(Rank:63)([Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering))
+* 9: [Oregon State university]()(Rank:63)([Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering))
 * [University of California, Santa Cruz]()(Rank:49)([Xin Eric Wang](https://eric-xw.github.io/),[Yuyin Zhou](https://yuyinzhou.github.io/),[Cihang Xie](https://cihangxie.github.io/),[James Davis](https://users.soe.ucsc.edu/~davis/))
 * [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum))
 * [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
