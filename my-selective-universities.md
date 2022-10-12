@@ -17,7 +17,6 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 6: [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))(#6)
 * 7: [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
 * 8: [Worcester Polytechnic Institute]()(Rank:89)([Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/))
-* [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
 * [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
 ](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))(#4)
 * [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
@@ -47,6 +46,7 @@ Holding university
 * [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
+* [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
