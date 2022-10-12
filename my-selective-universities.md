@@ -16,9 +16,6 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 
 * 6: [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))(#6)
 * 7: [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))(#10)
-* [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))(#11)
-* [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
-* [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
 * 8: [Worcester Polytechnic Institute]()(Rank:89)([Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/))
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
@@ -45,8 +42,11 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
 * [University of Illinois Urbana-Champaign]()(Rank: 5)([Saurabh Gupta](http://saurabhg.web.illinois.edu/),[Yuxiong WANG](https://yxw.web.illinois.edu/),[Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894),[Sayan Mitra](http://mitras.ece.illinois.edu/students.html),[Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us),[Shenlong Wang](http://shenlong.web.illinois.edu/),[Alexander Schwing](https://alexander-schwing.de/#people))
 
+Holding university
 
-
+* [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))(#11)
+* [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
+* [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
