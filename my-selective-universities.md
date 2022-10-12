@@ -17,11 +17,8 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 6: [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))
 * 7: [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))
 * 8: [Worcester Polytechnic Institute]()(Rank:89)([Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/))
-* [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
-](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))
-* GRE confused already email to department: [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
 * 9: [Oregon State university]()(Rank:63)([Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering))
-* [University of California, Santa Cruz]()(Rank:49)([Xin Eric Wang](https://eric-xw.github.io/),[Yuyin Zhou](https://yuyinzhou.github.io/),[Cihang Xie](https://cihangxie.github.io/),[James Davis](https://users.soe.ucsc.edu/~davis/))
+* 10(PHD):[University of California, Santa Cruz]()(Rank:49)([Xin Eric Wang](https://eric-xw.github.io/),[Yuyin Zhou](https://yuyinzhou.github.io/),[Cihang Xie](https://cihangxie.github.io/),[James Davis](https://users.soe.ucsc.edu/~davis/))
 * [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum))
 * [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
 * [Stony Brook University]() (Ranking: 43)(Spring: oct 1)([Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm),[Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/),[Michael S. Ryoo](http://michaelryoo.com/),[Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html),[Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/),[Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/))
@@ -47,7 +44,9 @@ Holding university
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
 * [Michigan State University]()(Rank:60)([Research Lab](https://www.cse.msu.edu/Research/labs.php))
-
+* GRE confused already email to department: [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
+* [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
+](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
 
