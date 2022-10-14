@@ -22,7 +22,6 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 11(PHD): [Stony Brook University]() (Ranking: 43)(Spring: oct 1)([Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm),[Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/),[Michael S. Ryoo](http://michaelryoo.com/),[Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html),[Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/),[Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/))
 * 12(PHD):[University of Utah]()(Rankk: 43)([S. Elhabian](https://www.sci.utah.edu/people/shireen.html), [C. Johnson](http://www.cs.utah.edu/~crj/),[S. Joshi](https://www.sci.utah.edu/people/sjoshi.html),[V. Pascucci](http://www.pascucci.org/),[T. Tasdizen](http://www.sci.utah.edu/~tolga/index.html), [R. Whitaker](http://www.cs.utah.edu/~whitaker/))
 * 13(PHD): [Northeastern University]()(Rank:35)([Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html),[Xiaolong Ma](https://xiaolongma2016.com/),[Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/),[Huaizu Jiang](http://jianghz.me/),[Octavia I. Camps](http://robustsystems.coe.neu.edu/),[Predrag Radivojac](https://www.ccs.neu.edu/home/radivojac/))
-* [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
 * [Purdue University]()(Rank:20)([Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/),[Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html),[Ahmed H. Qureshi](https://qureshiahmed.github.io/),[Raymond A. Yeh](https://www.raymond-yeh.com/),[Qiang Qiu](https://web.ics.purdue.edu/~qqiu/#qlab),[Fengqing Maggie Zhu](https://engineering.purdue.edu/~zhu0/),[Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students),[Zygmunt Pizlo](http://www1.psych.purdue.edu/~zpizlo/))
 * [University of Maryland]()(Rank:17)([Jia-Bin Huang](https://jbhuang0604.github.io/))
 * [University of Wisconsin-Madison]()(Rank: 17)([Pedro Morgado](https://pedro-morgado.github.io/),[Mohit Gupta](https://wisionlab.com/people/mohit-gupta/),[Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/),[Yin Li](https://www.biostat.wisc.edu/~yli/))
@@ -47,7 +46,7 @@ Holding university
 * [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
 * [University of Minnesota]()(Rank:34)([Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html),[Volkan Isler](https://www-users.cse.umn.edu/~isler/),[Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html),[Junaed Sattar](https://junaedsattar.cs.umn.edu/),[Ju Sun](https://sunju.org/),[Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/),[Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/))
 * [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))
-
+* [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
