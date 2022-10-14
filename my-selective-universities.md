@@ -19,7 +19,6 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 8: [Worcester Polytechnic Institute]()(Rank:89)([Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/))
 * 9: [Oregon State university]()(Rank:63)([Data Science and Engineering](https://eecs.oregonstate.edu/data-science-and-engineering))
 * 10(PHD):[University of California, Santa Cruz]()(Rank:49)([Xin Eric Wang](https://eric-xw.github.io/),[Yuyin Zhou](https://yuyinzhou.github.io/),[Cihang Xie](https://cihangxie.github.io/),[James Davis](https://users.soe.ucsc.edu/~davis/))
-* [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum))
 * [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
 * [Stony Brook University]() (Ranking: 43)(Spring: oct 1)([Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm),[Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/),[Michael S. Ryoo](http://michaelryoo.com/),[Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html),[Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/),[Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/))
 * [University of Utah]()(Rankk: 43)([S. Elhabian](https://www.sci.utah.edu/people/shireen.html), [C. Johnson](http://www.cs.utah.edu/~crj/),[S. Joshi](https://www.sci.utah.edu/people/sjoshi.html),[V. Pascucci](http://www.pascucci.org/),[T. Tasdizen](http://www.sci.utah.edu/~tolga/index.html), [R. Whitaker](http://www.cs.utah.edu/~whitaker/))
@@ -47,6 +46,9 @@ Holding university
 * GRE confused already email to department: [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
 * [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
 ](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))
+* [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum))
+
+
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
 
