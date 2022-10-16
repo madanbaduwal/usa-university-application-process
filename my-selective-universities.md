@@ -34,7 +34,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 Holding university
 
 * [University of Houston]()(Rank: 115)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Vedhus Hoskere](https://sail.cive.uh.edu/positions/))
-* [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/))
+* [University of North Carolina Charlotte]()(Rank:99)([Video and Image Analysis Lab](https://vialab.charlotte.edu/), [Srijan Das’ profile](https://srijandas07.github.io/): [Linkdine Post](https://www.linkedin.com/feed/update/urn:li:activity:6987086790360788993?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6987086790360788993%29))
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
