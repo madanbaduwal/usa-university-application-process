@@ -28,8 +28,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 17(PHD): [University of California, San Diego]()(Rank:11)([Michael C. Yip](https://yip.eng.ucsd.edu/),[Xiaolong Wang](https://xiaolonw.github.io/),[Xiaobai Liu](https://cv.sdsu.edu/),[Manmohan Chandraker](https://cseweb.ucsd.edu//~mkchandraker/index.html),[Mohan Trivedi](https://jacobsschool.ucsd.edu/faculty/profile?id=68),[Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/),[Garrison W. Cottrell](https://cseweb.ucsd.edu//~gary/),[Zhuowen Tu](https://pages.ucsd.edu/~ztu/),[David Kriegman](https://cseweb.ucsd.edu//~kriegman/))
 * 18(PHD):[Columbia University]()(Rank:11)([Junfeng Yang](http://www.cs.columbia.edu/~junfeng/),[Mike Z. SHOU](https://sites.google.com/view/showlab/join-us),[Shuran Song](https://www.cs.columbia.edu/~shurans/),[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm),[Haoxuan You](https://www.ee.columbia.edu/ln/dvmm/newPeople.htm#visitingStudent),[Sicheng Zhao](https://sites.google.com/site/schzhao/),[John R. Kender](http://www.cs.columbia.edu/~jrk/),[Peter Allen](http://www.cs.columbia.edu/~allen/),[Peter Belhumeur](https://www.peterbelhumeur.com/),[Shree Nayar](http://www.cs.columbia.edu/~nayar/),[Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/),[Tony Jebara](http://www.cs.columbia.edu/~jebara/),[Peter N. Belhumeur](https://www.peterbelhumeur.com/))
 * 19(PHD): [University of Michigan]()(Rank: 11)([Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us),[Anhong Guo](https://guoanhong.com/),[Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html),[Jason Corso](https://web.eecs.umich.edu/~jjcorso/),[Emily Mower Provost](https://emp.engin.umich.edu/),[Jeff Fessler](https://web.eecs.umich.edu/~fessler/))
-* [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
-* [University of Illinois Urbana-Champaign]()(Rank: 5)([Saurabh Gupta](http://saurabhg.web.illinois.edu/),[Yuxiong WANG](https://yxw.web.illinois.edu/),[Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894),[Sayan Mitra](http://mitras.ece.illinois.edu/students.html),[Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us),[Shenlong Wang](http://shenlong.web.illinois.edu/),[Alexander Schwing](https://alexander-schwing.de/#people))
+* 20(PHD): [University of Illinois Urbana-Champaign]()(Rank: 5)([Saurabh Gupta](http://saurabhg.web.illinois.edu/),[Yuxiong WANG](https://yxw.web.illinois.edu/),[Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894),[Sayan Mitra](http://mitras.ece.illinois.edu/students.html),[Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us),[Shenlong Wang](http://shenlong.web.illinois.edu/),[Alexander Schwing](https://alexander-schwing.de/#people))
 
 Holding university
 
@@ -47,7 +46,8 @@ Holding university
 * [University of Minnesota]()(Rank:34)([Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html),[Volkan Isler](https://www-users.cse.umn.edu/~isler/),[Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html),[Junaed Sattar](https://junaedsattar.cs.umn.edu/),[Ju Sun](https://sunju.org/),[Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/),[Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/))
 * [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))
 * [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
-
+* [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
+* 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
 
