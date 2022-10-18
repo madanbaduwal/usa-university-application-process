@@ -49,7 +49,13 @@ Holding university
 * [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))
 * [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
 * [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
-* 
+
+
+Some universities having funding
+
+Michigan Technological University
+
+
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
 
