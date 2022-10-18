@@ -53,7 +53,7 @@ Holding university
 
 Some universities having funding
 
-Michigan Technological University
+* Michigan Technological University
 
 
 ## References
