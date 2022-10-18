@@ -55,6 +55,8 @@ Some universities having funding
 
 * Michigan Technological University
 
+University of Southern Mississippi
+
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
