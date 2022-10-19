@@ -59,7 +59,7 @@ Some universities having funding
 
 * Michigan Technological University
 * University of Nebraska: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())
-
+* University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
