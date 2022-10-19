@@ -12,7 +12,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 
 
 * 4(MS): [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1)(Application fee: $70) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(Planning to apply)
-* 5(MS): [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
+* 5(MS): [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)(Application fee: $95: contact program director for application fee waiver and funding )([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
 -----------------------------------------------------------------------------------------------
 
 * 6(PHD): [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))
