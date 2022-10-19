@@ -37,6 +37,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 19(PHD): [University of Michigan]()(Rank: 11)([Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us),[Anhong Guo](https://guoanhong.com/),[Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html),[Jason Corso](https://web.eecs.umich.edu/~jjcorso/),[Emily Mower Provost](https://emp.engin.umich.edu/),[Jeff Fessler](https://web.eecs.umich.edu/~fessler/))
 * 20(PHD): [University of Illinois Urbana-Champaign]()(Rank: 5)([Saurabh Gupta](http://saurabhg.web.illinois.edu/),[Yuxiong WANG](https://yxw.web.illinois.edu/),[Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894),[Sayan Mitra](http://mitras.ece.illinois.edu/students.html),[Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us),[Shenlong Wang](http://shenlong.web.illinois.edu/),[Alexander Schwing](https://alexander-schwing.de/#people))
 
+---------------------------------------------------------
 Holding university
 
 
@@ -55,7 +56,7 @@ Holding university
 * [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
 * [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
 
-
+----------------------------------------------------------
 Some universities having funding
 
 * Michigan Technological University
