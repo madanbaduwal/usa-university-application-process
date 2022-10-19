@@ -66,6 +66,11 @@ Some universities having funding
 * Wayne State University: [Labs](https://engineering.wayne.edu/computer-science/research/labs)
 * New Jersey Institute of Technology: ([Hua Wei](https://web.njit.edu/~hw32/),[Yao Ma](https://web.njit.edu/~ym329/))
 
+
+---------------------
+Finialize Universities
+
+
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
 
