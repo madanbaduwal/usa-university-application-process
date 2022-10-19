@@ -14,6 +14,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 4(MS): [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(Planning to apply)
 * 5(MS): [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
 -----------------------------------------------------------------------------------------------
+
 * 6(PHD): [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))
 * 7(PHD): [Portland State University]()(Rank:135)(Fall: December 15t, Spring: November 1st)([Computer Graphics & Vision Lab](https://www.pdx.edu/computer-science/research-areas),[Feng Liu](http://web.cecs.pdx.edu/~fliu/))
 * [University of Houston]()(Rank: 115)(Fall: open August 1 and closed on January 15, spring: open May 1 and closed on October 1)(Application fee: $80)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[]())
@@ -57,8 +58,7 @@ Holding university
 Some universities having funding
 
 * Michigan Technological University
-
-University of Southern Mississippi
+* University of Nebraska: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())
 
 
 ## References
