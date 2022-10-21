@@ -7,14 +7,15 @@ Spring semester (January to May)
 Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My priority),(My current status)
 
 * 0(MS): [North Dakota State University](https://www.ndsu.edu/)(Rank: 285)(Application deadlines are February 1 for fall semester; September 1 for spring semester)(Application fee: $35)([Faculty](https://www.ndsu.edu/cs/distinguished_student_profiles/faculty/): [Sumitha George](): [Linkdine post](https://www.linkedin.com/posts/sumitha-george-1a23029_sumitha-george-activity-6982795353355939840--0K5?utm_source=share&utm_medium=member_desktop),[Lu Liu, Ph.D](https://scholar.google.com/citations?user=NKvDikIAAAAJ&hl=en),[Changhui Yan](https://scholar.google.com/citations?user=cp0_zSYAAAAJ&hl=en),[M. Zubair Malik]())
-* 1(MS): [University of South Dakota](https://www.usd.edu/)(Rank: 263)(Application fee: $35)([Santosh KC](http://kc-santosh.org/))(Ongoing: Requesting Application fee waiver, facing start date 2022 in common app)
+
 * 2(MS): [South Dakota State university]()(Rank:239)(Spring: Oct 15, Fall: April 15)(Application fee: $35) ([Image Processing Lab Research and people](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab/directory))(Ongoing: [Application Portal](https://engineeringcas2022.liaisoncas.com/applicant-ux/#/login), Students are encouraged to submit their applications by April 15 to be considered for fall admission, by February 1 to be considered for summer admission and by October 15 to be considered for spring admission. )
-
-
 * 4(MS): [University of idho]()(Rank:159)(Fall: Feb. 1, Spring: Sept. 1, Summer: Feb. 1)(Application fee: $70) , ([professors](https://www.uidaho.edu/engr/departments/cs/our-people/faculty))(Planning to apply)
 * 5(MS): [University of Nevada, Reno]()(Rank 159)(Fall: February 1, Spring: January 9)(Application fee: $95: contact program director for application fee waiver and funding: Feil-Seifer | dave@cse.unr.edu  )([Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems))
 * [University of Houston]()(Rank: 115)(Fall: open August 1 and closed on January 15, spring: open May 1 and closed on October 1)(Application fee: $80)([Shishir Shah](http://www2.cs.uh.edu/~shah/),[Zhigang Deng, Ph.D.
 ](http://graphics.cs.uh.edu/zdeng/))
+
+University of New Orleans
+
 -----------------------------------------------------------------------------------------------
 
 * 6(PHD): [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))
@@ -30,7 +31,7 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 12(PHD):[University of Utah]()(Rankk: 43)([S. Elhabian](https://www.sci.utah.edu/people/shireen.html), [C. Johnson](http://www.cs.utah.edu/~crj/),[S. Joshi](https://www.sci.utah.edu/people/sjoshi.html),[V. Pascucci](http://www.pascucci.org/),[T. Tasdizen](http://www.sci.utah.edu/~tolga/index.html), [R. Whitaker](http://www.cs.utah.edu/~whitaker/), [Yin Yang](https://yangzzzy.github.io/))
 * 13(PHD): [Northeastern University]()(Rank:35)([Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html),[Xiaolong Ma](https://xiaolongma2016.com/),[Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/),[Huaizu Jiang](http://jianghz.me/),[Octavia I. Camps](http://robustsystems.coe.neu.edu/),[Predrag Radivojac](https://www.ccs.neu.edu/home/radivojac/))
 * [University of rochester]() : (Rank: 36, Application fee: no application fee)([Chrishtopher Kanan](https://chriskanan.com/): [Linkdine Post](https://www.linkedin.com/posts/chriskanan_phd-ai-deeplearning-activity-6981628788547670016-eiNd?utm_source=share&utm_medium=member_desktop): Received mail also, [Brown, Christopher M.: Emeritus](https://www.cs.rochester.edu/u/brown/), [Mujdat Cetin](https://scholar.google.com/citations?user=nq7tuDkAAAAJ&hl=en),[Luo, Jiebo](https://www.cs.rochester.edu/u/jluo/),[Sharma, Gaurav](https://hajim.rochester.edu/ece/sites/gsharma/),[Xu, Chenliang](https://www.cs.rochester.edu/~cxu22/prospective.html))
-* university of north carolina(fixed becaus nishan chettri dai is here) : (Rank: 29)([Gedas Bertasius](https://www.gedasbertasius.com/),[UNC-biag](https://biag.cs.unc.edu/),[Mohit Bansal](https://www.cs.unc.edu/~mbansal/),[Guorong Wu](https://www.med.unc.edu/psych/directory/guorong-wu),[Stephen M. Pizer](https://www.cs.unc.edu/~smp/),[Pew-Thian Yap](https://www.med.unc.edu/radiology/directory/pew-thian-yap))
+
 * 14(PHD): [Purdue University]()(Rank:20)([Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/),[Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html),[Ahmed H. Qureshi](https://qureshiahmed.github.io/),[Raymond A. Yeh](https://www.raymond-yeh.com/),[Qiang Qiu](https://web.ics.purdue.edu/~qqiu/#qlab),[Fengqing Maggie Zhu](https://engineering.purdue.edu/~zhu0/),[Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students),[Zygmunt Pizlo](http://www1.psych.purdue.edu/~zpizlo/))
 * 15(PHD): [University of Maryland]()(Rank:17)([Professors](https://www.cs.umd.edu/people/faculty),[Jia-Bin Huang](https://jbhuang0604.github.io/),[Bahar Asgari](http://casl.cs.umd.edu/index.html): [Linkdine Post](https://www.linkedin.com/posts/bahar-asgari_phdposition-computerarchitecture-research-activity-6985264697625190400-yuOr?utm_source=share&utm_medium=member_desktop),[Cynthia Matuszek](https://redirect.cs.umbc.edu/~cmat/),[]())
 * 16(PHD): [University of Wisconsin-Madison]()(Rank: 17)([Pedro Morgado](https://pedro-morgado.github.io/),[Mohit Gupta](https://wisionlab.com/people/mohit-gupta/),[Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/),[Yin Li](https://www.biostat.wisc.edu/~yli/))
@@ -70,8 +71,16 @@ Some universities having funding
 
 ---------------------
 Finialize Universities
-
+* 1(MS): [University of South Dakota](https://www.usd.edu/)(Rank: 263)(Application fee: $35)([Santosh KC](http://kc-santosh.org/))(Ongoing: Waiting for assistantship reply and planning to defer for fall 2023)
 * 3(MS): [University of Nebraska at Omaha]()(Rank:175)(Fall: January 15,Spring: September 15)(Application fee: $50) ([Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/), [Dr. Pei-Chi Huang](https://unocps.github.io/))
+
+* [University of North Carolina, Chapel Hill]()(fixed becaus nishan chettri dai is here: I can also try for MS, cost is low ) : (Rank: 29)(Application fee is: $95.00: I need to work on it)(Only fall intake: March 14, 2023)([Gedas Bertasius](https://www.gedasbertasius.com/),[UNC-biag](https://biag.cs.unc.edu/),[Mohit Bansal](https://www.cs.unc.edu/~mbansal/),[Guorong Wu](https://www.med.unc.edu/psych/directory/guorong-wu),[Stephen M. Pizer](https://www.cs.unc.edu/~smp/),[Pew-Thian Yap](https://www.med.unc.edu/radiology/directory/pew-thian-yap),[Soumyadip (Roni) Sengupta](https://www.cs.unc.edu/~ronisen/))
+
+Universities having fee waiver code and trageting for MS and PHD | no gre required
+
+University of Vermont()
+
+
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
