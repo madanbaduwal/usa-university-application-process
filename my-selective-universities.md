@@ -78,7 +78,49 @@ Finialize Universities
 
 Universities having fee waiver code and trageting for MS and PHD | no gre required
 
-University of Vermont()
+```
+SCHOOL NAME : Iowa State University #try it 
+WAIVER CODE: UVMG924I234UG
+SCHOOL NAME : New York University  #expensive
+WAIVER CODE: ADMREP
+SCHOOL NAME : University of Vermont   #deadline Jan 15 for cs
+WAIVER CODE: UVMG715E959ZU
+SCHOOL NAME : New jersey Institute of Technology #Good one (asked GRE)  
+WAIVER CODE: GR22
+SCHOOL NAME : The University of Alabama #code milena 
+WAIVER CODE: GIFW
+SCHOOL NAME : Western New England University #expensive
+WAIVER CODE: WNEVIP
+SCHOOL NAME : New York Institute of Technology #GRE magyo so garina
+WAIVER CODE: ADMREP
+SCHOOL NAME : NorthEastern University #expensive & less acceptance rate
+WAIVER CODE: COE2022
+SCHOOL NAME : Colorado State University Pueblo # NO CS ??
+WAIVER CODE: AEG
+SCHOOL NAME : University of Illinois Springfield #try it but it requires sealed transcripts
+WAIVER CODE: No waiver code. App fee already waived for international students.
+SCHOOL NAME : University of New Hampshire #try it, has GRE waiver too
+WAIVER CODE: PROF65
+SCHOOL NAME : NYU Tandon School of Engineering acceptance rate 35 % 
+WAIVER CODE: TANDONBKLYN
+SCHOOL NAME : The George Washington University, School of Engineering and applied Science deadline january 15 
+WAIVER CODE: EdUSSASouthAsia2021  cod
+SCHOOL NAME : Eastern Michigan University #CSA vara jana parne re may one try it  no gre grequirement check out  try it but it requires sealed transcripts  https://catalog.emich.edu/preview_program.php?catoid=35&poid=14995
+WAIVER CODE: GRAD 
+SCHOOL NAME : Kent State University Gre required xa deadline ani doesn't accept the gre provide by the student need to send to the university suru mai code magyo mail garna xa yesma # 
+WAIVER CODE: send a mail to jabdull1@kent.edu to receive an application fee waiver.
+SCHOOL NAME : University of Arlington data science matrai xa computer science xaina error 
+WAIVER CODE: send a mail to Mummy Lin: grad.recruit@uta.edu (mention her name in the mail and the event which is Education USA Virtual fair 2021, and Mummy Lin will give you an application fee waiver).
+SCHOOL NAME : University of New Haven good check it out gre chahi Gre xa optional for regionally accredited college and university re 
+WAIVER CODE: Send a mail to rmaitra@newhaven.edu to get an application fee waiver.
+
+Iowa- send waiting 
+Kent state university - mail gare
+New Haven yesma ni - mail gare
+
+
+
+```
 
 
 
