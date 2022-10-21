@@ -79,8 +79,7 @@ Finialize Universities
 Universities having fee waiver code and trageting for MS and PHD | no gre required
 
 ```
-SCHOOL NAME : Iowa State University #try it 
-WAIVER CODE: UVMG924I234UG
+
 SCHOOL NAME : New York University  #expensive
 WAIVER CODE: ADMREP
 SCHOOL NAME : University of Vermont   #deadline Jan 15 for cs
