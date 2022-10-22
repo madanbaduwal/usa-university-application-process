@@ -15,10 +15,10 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 
 * 5(MS): [University of Nevada, Reno](https://www.unr.edu/)|[CS department](https://www.unr.edu/cse),[Program](https://www.unr.edu/cse/graduate-program),grad_admissions@cse.unr.edu,Graduate Director: [Feil-Seifer](https://www.unr.edu/cse/people/david-feil-seifer) | dave@cse.unr.edu |[People in this program](https://www.unr.edu/cse/people)|Labs: [Computer vision lab](https://www.unr.edu/cse/research/intelligent-systems)|Rank 159|Deadlines: Fall: February 1, Spring: January 9| Application fee: $95 | Status: application fee waiver requesting
 
-* [University of Houston](https://www.uh.edu/)|[CS department](https://www.uh.edu/nsm/computer-science/),[Program](https://www.uh.edu/nsm/computer-science/graduate/),gradschool@uh.edu,Department Chair: Shah, [Shishir](http://www2.cs.uh.edu/~shah/)|[People in this program](https://www.uh.edu/nsm/computer-science/people/faculty/)|Labs: |Target professors: [Shishir Shah](http://www2.cs.uh.edu/~shah/),[Zhigang Deng, Ph.D.](http://graphics.cs.uh.edu/zdeng/)| Rank: 115| Deadline: Fall: January 15, spring: October 1| Application fee: $80| Status: 
+* 6(MS): [University of Houston](https://www.uh.edu/)|[CS department](https://www.uh.edu/nsm/computer-science/),[Program](https://www.uh.edu/nsm/computer-science/graduate/),gradschool@uh.edu,Department Chair: Shah, [Shishir](http://www2.cs.uh.edu/~shah/)|[People in this program](https://www.uh.edu/nsm/computer-science/people/faculty/)|Labs: |Target professors: [Shishir Shah](http://www2.cs.uh.edu/~shah/),[Zhigang Deng, Ph.D.](http://graphics.cs.uh.edu/zdeng/)| Rank: 115| Deadline: Fall: January 15, spring: October 1| Application fee: $80| Status: application fee waiver requesting
 
 
-University of New Orleans
+* University of New Orleans
 
 -----------------------------------------------------------------------------------------------
 
