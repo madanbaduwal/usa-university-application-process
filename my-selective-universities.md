@@ -18,8 +18,6 @@ Naming convention: University,(Rank),(Deadlines),(Researchers and Labs),(My prio
 * 6(MS): [University of Houston](https://www.uh.edu/)|[CS department](https://www.uh.edu/nsm/computer-science/),[Program](https://www.uh.edu/nsm/computer-science/graduate/),gradschool@uh.edu,Department Chair: Shah, [Shishir](http://www2.cs.uh.edu/~shah/)|[People in this program](https://www.uh.edu/nsm/computer-science/people/faculty/)|Labs: |Target professors: [Shishir Shah](http://www2.cs.uh.edu/~shah/),[Zhigang Deng, Ph.D.](http://graphics.cs.uh.edu/zdeng/)| Rank: 115| Deadline: Fall: January 15, spring: October 1| Application fee: $80| Status: application fee waiver requesting
 
 
-* University of New Orleans
-
 -----------------------------------------------------------------------------------------------
 
 * 6(PHD): [Mississippi State University]()(Rank:146 ) (Confuse about deadline), [professors](https://www.cse.msstate.edu/people/faculty/),[Jingdao Chen](https://jingdao.github.io/),[Derek T. Anderson](http://derektanderson.com/index.html),[J. Edward Swan II](https://web.cse.msstate.edu/~swan/))
