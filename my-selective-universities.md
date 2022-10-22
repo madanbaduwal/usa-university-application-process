@@ -63,7 +63,6 @@ Holding university
 ----------------------------------------------------------
 Some universities having funding
 
-* Michigan Technological University
 * University of Nebraska: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())
 * University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))
 * Wayne State University: [Labs](https://engineering.wayne.edu/computer-science/research/labs)
@@ -81,17 +80,7 @@ Universities having fee waiver code and trageting for MS and PHD | no gre requir
 
 ```
 SCHOOL NAME : University of Vermont   #deadline Jan 15 for cs
-WAIVER CODE: UVMG715E959ZU : https://www.uvm.edu/cems/cs/profiles/nick-cheney, https://www.uvm.edu/cems/cs/profiles/safwan-wshah, https://www.uvm.edu/~brainlab/, https://www.uvm.edu/~rsmcginn/
-SCHOOL NAME : Western New England University #expensive
-WAIVER CODE: WNEVIP
-SCHOOL NAME : New York Institute of Technology #GRE magyo so garina
-WAIVER CODE: ADMREP
-SCHOOL NAME : NorthEastern University #expensive & less acceptance rate
-WAIVER CODE: COE2022
-SCHOOL NAME : Colorado State University Pueblo # NO CS ??
-WAIVER CODE: AEG
-SCHOOL NAME : University of Illinois Springfield #try it but it requires sealed transcripts
-WAIVER CODE: No waiver code. App fee already waived for international students.
+WAIVER CODE: UVMG715E959ZU : https://www.uvm.edu/cems/cs/profiles/nick-cheney, https://www.uvm.edu/cems/cs/profiles/safwan-wshah, https://www.uvm.edu/~brainlab/, https://www.uvm.edu/~rsmcginn/.
 SCHOOL NAME : University of New Hampshire #try it, has GRE waiver too
 WAIVER CODE: PROF65
 SCHOOL NAME : NYU Tandon School of Engineering acceptance rate 35 % 
