@@ -26,10 +26,10 @@ Department Chair: [Mark P Jones](http://web.cecs.pdx.edu/~mpj/)|[People in this 
 
 * 8(PHD): [University of North Carolina Charlotte](https://www.charlotte.edu/)(Don't required GRE received email)|[CS department](https://cci.charlotte.edu/computer-science/45/5),[Program](https://cci.charlotte.edu/academics/computer-science),gradcounselor@uncc.edu,Department Chair: [Dr. Min Shin](https://cci.charlotte.edu/directory/min-shin)|[People in this program](https://cci.charlotte.edu/directory/cs/faculty)|Labs: [Video and Image Analysis Lab](https://vialab.charlotte.edu/)|Target professors: [Srijan Das’ profile](https://srijandas07.github.io/): [Linkdine Post](https://www.linkedin.com/feed/update/urn:li:activity:6987086790360788993?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6987086790360788993%29),[Shaoting Zhang
 ](https://webpages.charlotte.edu/~szhang16/),[Pedram Rooshenas](https://rooshenas.github.io/),[AIDONG LU
-](https://cci.charlotte.edu/directory/aidong-lu)|Rank:99|Deadlines: Fall: February 1, SPring: September 1| 
+](https://cci.charlotte.edu/directory/aidong-lu)|Rank:99|Deadlines: Fall: February 1, SPring: September 1| Status: 
 
 
-* 8(PHD): [Worcester Polytechnic Institute](https://www.wpi.edu/)|[CS department](https://www.wpi.edu/academics/departments/computer-science),[Program](https://www.wpi.edu/academics/departments/computer-science), grad@wpi.edu,Department Head: [Craig A. Shue](https://www.wpi.edu/people/faculty/cshue)|[People in this program](https://www.wpi.edu/academics/departments/computer-science/faculty-staff)|Labs: |Target professors:[Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/),[Tian Guo](https://tianguo.info/)|Rank:89|
+* 8(PHD): [Worcester Polytechnic Institute](https://www.wpi.edu/)|[CS department](https://www.wpi.edu/academics/departments/computer-science),[Program](https://www.wpi.edu/academics/departments/computer-science), grad@wpi.edu,Department Head: [Craig A. Shue](https://www.wpi.edu/people/faculty/cshue)|[People in this program](https://www.wpi.edu/academics/departments/computer-science/faculty-staff)|Labs: |Target professors:[Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/),[Tian Guo](https://tianguo.info/)|Rank:89|Deadlines:, Fall: Jan 1,Spring: Oct 1 | Application fee: $70| Status: 
 
 
 * 9(PHD): [Oregon State university]()(Rank:63)([Stefan Lee](https://eecs.oregonstate.edu/people/Lee-Stefan),[Dr. Fuxin Li](https://web.engr.oregonstate.edu/~lif/))
