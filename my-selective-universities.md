@@ -29,7 +29,9 @@ Department Chair: [Mark P Jones](http://web.cecs.pdx.edu/~mpj/)|[People in this 
 ](https://cci.charlotte.edu/directory/aidong-lu)|Rank:99|Deadlines: Fall: February 1, SPring: September 1| 
 
 
-* 8(PHD): [Worcester Polytechnic Institute]()(Rank:89)([Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/),[Tian Guo](https://tianguo.info/))
+* 8(PHD): [Worcester Polytechnic Institute](https://www.wpi.edu/)|[CS department](https://www.wpi.edu/academics/departments/computer-science),[Program](https://www.wpi.edu/academics/departments/computer-science), grad@wpi.edu,Department Head: [Craig A. Shue](https://www.wpi.edu/people/faculty/cshue)|[People in this program](https://www.wpi.edu/academics/departments/computer-science/faculty-staff)|Labs: |Target professors:[Xinming Huang](https://users.wpi.edu/~xhuang/),[Ziming Zhang](https://zhang-vislab.github.io/),[Tian Guo](https://tianguo.info/)|Rank:89|
+
+
 * 9(PHD): [Oregon State university]()(Rank:63)([Stefan Lee](https://eecs.oregonstate.edu/people/Lee-Stefan),[Dr. Fuxin Li](https://web.engr.oregonstate.edu/~lif/))
 * 10(PHD):[University of California, Santa Cruz]()(Rank:49)([Xin Eric Wang](https://eric-xw.github.io/),[Yuyin Zhou](https://yuyinzhou.github.io/),[Cihang Xie](https://cihangxie.github.io/),[James Davis](https://users.soe.ucsc.edu/~davis/))
 * 11(PHD): [Stony Brook University]() (Ranking: 43)(Spring: oct 1)([Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm),[Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/),[Michael S. Ryoo](http://michaelryoo.com/),[Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html),[Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/),[Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/))
