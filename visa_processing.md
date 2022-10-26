@@ -15,6 +15,11 @@
 4. [SEVIS Fee](https://www.fmjfee.com/i901fee/index.html)($160 = 20800): You will receive sevis id from university and pay sevis fee here only 1 week before interview
  
 
+# What happen if if I wanna go with another I-20?
+
+* Fill new DS-160
+* Fill CGI account with DS-160 application id number(don't worry if you can't update sevis id, university name)
+* SEVIS fee
 
 
 
