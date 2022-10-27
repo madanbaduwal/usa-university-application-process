@@ -61,13 +61,20 @@ Holding university
 
 
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))| $75 
+
+
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/),[Kai Liu](https://sites.google.com/view/kailiu/home),[Ioannis Karamouzas
-](https://people.computing.clemson.edu/~ioannis/),[Eric Patterson](https://people.computing.clemson.edu/~ekp/index.html))
-* [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
-* [Michigan State University]()(Rank:60)([Research Lab](https://www.cse.msu.edu/Research/labs.php))
+](https://people.computing.clemson.edu/~ioannis/),[Eric Patterson](https://people.computing.clemson.edu/~ekp/index.html))| Application fee: $90
+
+* [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))| $80
+
+* [Michigan State University]()(Rank:60)([Research Lab](https://www.cse.msu.edu/Research/labs.php))|$75
+
 * GRE confused already email to department: [University of Central Florida]()(Rank: 69)([Jiann-Shiun (Peter) Yuan](https://sites.google.com/site/yuanjs168/prospective-students),[Chen Chen](https://www.crcv.ucf.edu/chenchen/),[Yogesh S Rawat](https://www.crcv.ucf.edu/person/rawat/#_news),[Hassan Foroosh](http://www.cs.ucf.edu/~foroosh/),[Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/))
+
 * [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
 ](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))
+
 * [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum))
 * [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
 * [University of Minnesota]()(Rank:34)([Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html),[Volkan Isler](https://www-users.cse.umn.edu/~isler/),[Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html),[Junaed Sattar](https://junaedsattar.cs.umn.edu/),[Ju Sun](https://sunju.org/),[Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/),[Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/))
