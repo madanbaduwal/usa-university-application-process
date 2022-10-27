@@ -1,17 +1,38 @@
-**Why masters?**
+# **Why masters?**
+
+**others**
 
 It's been a while since I graduated. I want to continue my study to build up my career in research.I see a lot of research exploration in doing masters which will enhance my skill which I can implement  to conduct research in my own country. 
 
-**Why not Nepal ?**
+**My answer**
+
+Since 2015 I am doing research in Artificial intelligence and Computer Vision. After publishing research papers and acquering research experience.I would like to push my research boundries. I see a lot of research exploration in doing masters which will enhance my research skill.
+
+# **Why not Nepal ?**
+
+**others**
 
 I want to study Computer Science specialization in Informatics  and Machine Learning.
 There is no  course with much focus on them.  Other relatable courses offered by Universities of Nepal focus on theoretical approach. Similarly, the courses offered by few training institutes focus on tools rather than research. On the other hand, the US has abundant research opportunities with exposure to advanced infrastructure that will enrich my skills and help me to conduct research in Nepal.
+
+**My answer**
+
+While doing research I faced lots of challenges here in Nepal. Among them hardware infrastructure is most. To train AI and CV algorithms we required high computation devices like TPU and GPU. Universities of Nepal focus on theoretical approach.
+
  
-**Why USD?**
+# **Why USD?**
+
+**others**
 
 I reached out to the professor Dr.KC Santosh for research and he has offered me a GA lowering my COA. Similarly, the course offered by the USD Including ML fundamentals , Computer Vision , Design Analysis, Computer Algorithm perfectly matches with my interest and relevant work experiences. Moreover, I am highly  interested in working with Professor Dr. KC Santosh who is renowned for his excellence in Machine learning and informatics. I think I will get a lot of opportunities to learn . 
 
-**What is your plan after Graduation?**
+**My answer** 
+
+I have listed all researchers and labs around the world doing research in artificial intelligence and computer vision in github. I found that 70% of researchers from US and Universities Labs. 
+
+# **What is your plan after Graduation?**
+
+**others**
 
 After my graduationI will come back to Nepal to continue to work as Machine Learning Researcher in Global Institute for Interdisciplinary Study(GIIS) which currently focuses on the environmental effect of climate change. My first goal is to study the effect of climate change in the Himalaya range using machine learning algorithms such as computer vision.Finding the dark spots which have lost the snow and ice due to climate change and predict the possible effects on the environment. My second goal is to conduct research on the Risk assessment of aviation implementing predictive safety management through machine learning technologies using large amounts of data to facilitate predictive modeling. That will help reduce the occurrence of the accident which is the most prominent event in Nepal sky. 
 
@@ -29,7 +50,10 @@ Voi
 The predictive approach to aviation management involves gathering data in order to identify possible negative future outcomes or events by analyzing system processes and the environment to identify potential future hazards and initiating mitigating actions.
 
 
-**Why USA?**
+**My answer**
+
+
+# **Why USA?**
 
 I choose USA universities because they have abundant opportunities for research. They also provide well recognized programs that correspond with my field of interest including graduate assistantship master which I have obtained that has made my masters degree more affordable. Pursuing a master degree in the USA will help to enrich the empirical approach for research and problem solving skills which will provide a rigid foundation for my future career with minimum expenses. Furthermore, having American degrees  which are highly recognizable in Nepal will open a lot of doors for research in Nepal. 	
 
