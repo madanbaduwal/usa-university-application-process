@@ -87,10 +87,10 @@ Holding university
 ----------------------------------------------------------
 Some universities having funding
 
-* University of Nebraska: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())
-* University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))
-* Wayne State University: [Labs](https://engineering.wayne.edu/computer-science/research/labs)
-* New Jersey Institute of Technology: ([Hua Wei](https://web.njit.edu/~hw32/),[Yao Ma](https://web.njit.edu/~ym329/))
+* University of Nebraska lincoln: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())| Application fee: $50 
+* University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))| $75
+* Wayne State University: [Labs](https://engineering.wayne.edu/computer-science/research/labs)| $50
+* New Jersey Institute of Technology: ([Hua Wei](https://web.njit.edu/~hw32/),[Yao Ma](https://web.njit.edu/~ym329/))| $75
 
 
 ---------------------
