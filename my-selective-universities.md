@@ -69,7 +69,7 @@ December 01,M.S. applicants January 01, Spring: | Application fee: $85 |Status:
 Holding university
 
 
-* [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))
+* [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))| $75 
 * [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/),[Kai Liu](https://sites.google.com/view/kailiu/home),[Ioannis Karamouzas
 ](https://people.computing.clemson.edu/~ioannis/),[Eric Patterson](https://people.computing.clemson.edu/~ekp/index.html))
 * [George Washington University]()(Rank:74)([AI/Machine Learning](https://www.cs.seas.gwu.edu/aimachine-learning))
