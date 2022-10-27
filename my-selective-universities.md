@@ -48,7 +48,7 @@ December 01,M.S. applicants January 01, Spring: | Application fee: $85 |Status:
 * 15(PHD): [University of Maryland]()(Rank:17)([Professors](https://www.cs.umd.edu/people/faculty),[Jia-Bin Huang](https://jbhuang0604.github.io/),[Bahar Asgari](http://casl.cs.umd.edu/index.html): [Linkdine Post](https://www.linkedin.com/posts/bahar-asgari_phdposition-computerarchitecture-research-activity-6985264697625190400-yuOr?utm_source=share&utm_medium=member_desktop),[Cynthia Matuszek](https://redirect.cs.umbc.edu/~cmat/),[]())| Application fee: $75
 
 
-* 16(PHD): [University of Wisconsin-Madison]()(Rank: 17)([Pedro Morgado](https://pedro-morgado.github.io/),[Mohit Gupta](https://wisionlab.com/people/mohit-gupta/),[Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/),[Yin Li](https://www.biostat.wisc.edu/~yli/))| 
+* 16(PHD): [University of Wisconsin-Madison]()(Rank: 17)([Pedro Morgado](https://pedro-morgado.github.io/),[Mohit Gupta](https://wisionlab.com/people/mohit-gupta/),[Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/),[Yin Li](https://www.biostat.wisc.edu/~yli/))| $75
 
 
 * 17(PHD): [University of California, San Diego]()(Rank:11)([Michael C. Yip](https://yip.eng.ucsd.edu/),[Xiaolong Wang](https://xiaolonw.github.io/),[Xiaobai Liu](https://cv.sdsu.edu/),[Manmohan Chandraker](https://cseweb.ucsd.edu//~mkchandraker/index.html),[Mohan Trivedi](https://jacobsschool.ucsd.edu/faculty/profile?id=68),[Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/),[Garrison W. Cottrell](https://cseweb.ucsd.edu//~gary/),[Zhuowen Tu](https://pages.ucsd.edu/~ztu/),[David Kriegman](https://cseweb.ucsd.edu//~kriegman/))
