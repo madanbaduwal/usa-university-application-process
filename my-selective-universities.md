@@ -85,35 +85,6 @@ Finialize Universities
 
 * 3(PHD): [University of North Carolina, Chapel Hill](https://www.unc.edu/)(fixed becaus nishan chettri dai is here: I can also try for MS, cost is low )|[CS department](https://cs.unc.edu/),[Program](https://catalog.unc.edu/graduate/schools-departments/computer-science/#programstext),gradadmissions@unc.edu ,admit@cs.unc.edu, DIRECTOR OF GRADUATE ADMISSIONS: [Ron Alterovitz](https://cs.unc.edu/person/ron-alterovitz/) |[People in this program](https://cs.unc.edu/about/people/)|Lbas:| Target professors: [Gedas Bertasius](https://www.gedasbertasius.com/),[UNC-biag](https://biag.cs.unc.edu/),[Mohit Bansal](https://www.cs.unc.edu/~mbansal/),[Guorong Wu](https://www.med.unc.edu/psych/directory/guorong-wu),[Stephen M. Pizer](https://www.cs.unc.edu/~smp/),[Pew-Thian Yap](https://www.med.unc.edu/radiology/directory/pew-thian-yap),[Soumyadip (Roni) Sengupta](https://www.cs.unc.edu/~ronisen/)|Rank: 29 |Deadlines: Only fall intake: March 14, 2023| Application fee is: $95.00| Status: received email, admission fee waiver will not applied
 
-Universities having fee waiver code and trageting for MS and PHD | no gre required
-
-```
-SCHOOL NAME : University of Vermont   #deadline Jan 15 for cs
-WAIVER CODE: UVMG715E959ZU : https://www.uvm.edu/cems/cs/profiles/nick-cheney, https://www.uvm.edu/cems/cs/profiles/safwan-wshah, https://www.uvm.edu/~brainlab/, https://www.uvm.edu/~rsmcginn/.
-SCHOOL NAME : University of New Hampshire #try it, has GRE waiver too
-WAIVER CODE: PROF65
-SCHOOL NAME : NYU Tandon School of Engineering acceptance rate 35 % 
-WAIVER CODE: TANDONBKLYN
-SCHOOL NAME : The George Washington University, School of Engineering and applied Science deadline january 15 
-WAIVER CODE: EdUSSASouthAsia2021  cod
-SCHOOL NAME : Eastern Michigan University #CSA vara jana parne re may one try it  no gre grequirement check out  try it but it requires sealed transcripts  https://catalog.emich.edu/preview_program.php?catoid=35&poid=14995
-WAIVER CODE: GRAD 
-SCHOOL NAME : Kent State University Gre required xa deadline ani doesn't accept the gre provide by the student need to send to the university suru mai code magyo mail garna xa yesma # 
-WAIVER CODE: send a mail to jabdull1@kent.edu to receive an application fee waiver.
-SCHOOL NAME : University of Arlington data science matrai xa computer science xaina error 
-WAIVER CODE: send a mail to Mummy Lin: grad.recruit@uta.edu (mention her name in the mail and the event which is Education USA Virtual fair 2021, and Mummy Lin will give you an application fee waiver).
-SCHOOL NAME : University of New Haven good check it out gre chahi Gre xa optional for regionally accredited college and university re 
-WAIVER CODE: Send a mail to rmaitra@newhaven.edu to get an application fee waiver.
-
-Iowa- send waiting 
-Kent state university - mail gare
-New Haven yesma ni - mail gare
-
-
-
-```
-
-
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
