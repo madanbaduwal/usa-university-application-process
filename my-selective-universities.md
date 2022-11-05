@@ -62,8 +62,6 @@ Holding university
 * [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))| $75 
 
 
-* [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/),[Kai Liu](https://sites.google.com/view/kailiu/home),[Ioannis Karamouzas
-](https://people.computing.clemson.edu/~ioannis/),[Eric Patterson](https://people.computing.clemson.edu/~ekp/index.html))| Application fee: $90
 
 * [Michigan State University]()(Rank:60)([Research Lab](https://www.cse.msu.edu/Research/labs.php))|$75
 
@@ -109,6 +107,9 @@ Finialize Universities
 
 * 13(PHD): [Northeastern University]()| coe-gradadmissions@northeastern.edu|(Rank:35)([Ehsan Elhamifar](https://khoury.northeastern.edu/home/eelhami/index.html),[Xiaolong Ma](https://xiaolongma2016.com/),[Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/),[Huaizu Jiang](http://jianghz.me/),[Octavia I. Camps](http://robustsystems.coe.neu.edu/),[Predrag Radivojac](https://www.ccs.neu.edu/home/radivojac/))| Application fee: $75 and he enrollment deposit fee is $100([Aplication fee waiver](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/))|Status: 
 received application fee waiver by seraching in linkedine
+
+* [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/),[Kai Liu](https://sites.google.com/view/kailiu/home),[Ioannis Karamouzas
+](https://people.computing.clemson.edu/~ioannis/),[Eric Patterson](https://people.computing.clemson.edu/~ekp/index.html))| Application fee: $90, no application fee will apply for summer or fall 2023([application fee waiver](https://gradapply.clemson.edu/apply/#:~:text=We%20are%20delighted%20that%20you,(not%20the%20Undergraduate%20Application)))
 
 * 7(MS): [University of Nebraska at Omaha](https://www.unomaha.edu/)|[CS department](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php),[Program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/prospective-students/graduate-programs.php),gradschool@unomaha.edu,Graduate Program Chair (GPC): [Jon Youn, PhD](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jon-youn.php)|[People in this program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/about/faculty-staff.php)|Labs:|Target professors: [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/), [Dr. Pei-Chi Huang](https://unocps.github.io/) |Rank:175|Deadlines: Fall: January 15,Spring: September 15|Application fee: $50|| Status: application fee waiver requesting
 
