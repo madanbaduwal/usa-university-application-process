@@ -140,4 +140,4 @@ received application fee waiver by seraching in linkedine
 
 ## References
 * [CS ranking](https://csrankings.org/#/index?vision&us)
-
+* [fee waiver](https://www.linkedin.com/search/results/content/?keywords=university%20application%20waiver&origin=SWITCH_SEARCH_VERTICAL&sid=kd%2C)
