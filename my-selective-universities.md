@@ -122,7 +122,7 @@ received application fee waiver by seraching in linkedine
 
 * St. Mary’s University(MS): No application fee
 
-* 
+* Indiana State University(MS): no 
 
 * 7(MS): [University of Nebraska at Omaha](https://www.unomaha.edu/)|[CS department](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php),[Program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/prospective-students/graduate-programs.php),gradschool@unomaha.edu,Graduate Program Chair (GPC): [Jon Youn, PhD](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jon-youn.php)|[People in this program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/about/faculty-staff.php)|Labs:|Target professors: [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/), [Dr. Pei-Chi Huang](https://unocps.github.io/) |Rank:175|Deadlines: Fall: January 15,Spring: September 15|Application fee: $50|| Status: application fee waiver requesting
 
