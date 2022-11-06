@@ -111,8 +111,18 @@ received application fee waiver by seraching in linkedine
 * 8(PHD): [Clemson University]()(Rank: 82)([Nianyi Li](https://nianyil.people.clemson.edu/),[Andrew Duchowski](http://andrewd.ces.clemson.edu/),[Kai Liu](https://sites.google.com/view/kailiu/home),[Ioannis Karamouzas
 ](https://people.computing.clemson.edu/~ioannis/),[Eric Patterson](https://people.computing.clemson.edu/~ekp/index.html))| Application fee: $90, no application fee will apply for summer or fall 2023([application fee waiver](https://gradapply.clemson.edu/apply/#:~:text=We%20are%20delighted%20that%20you,(not%20the%20Undergraduate%20Application)))
 
-* marquette university
+* marquette university(MS + PHD) : requesting application fee waiver, will attend event
 
+* University of St. Thomas, Minnesota(MS): No application fee required
+
+* University of Southern Maine : No application fee required
+
+* The University of New Orleans(MS/Engineering and Applied Science (Ph.D.)
+): No application fee required
+
+* St. Mary’s University(MS): No application fee
+
+* 
 
 * 7(MS): [University of Nebraska at Omaha](https://www.unomaha.edu/)|[CS department](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php),[Program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/prospective-students/graduate-programs.php),gradschool@unomaha.edu,Graduate Program Chair (GPC): [Jon Youn, PhD](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jon-youn.php)|[People in this program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/about/faculty-staff.php)|Labs:|Target professors: [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/), [Dr. Pei-Chi Huang](https://unocps.github.io/) |Rank:175|Deadlines: Fall: January 15,Spring: September 15|Application fee: $50|| Status: application fee waiver requesting
 
