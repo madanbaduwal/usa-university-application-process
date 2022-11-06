@@ -117,8 +117,6 @@ received application fee waiver by seraching in linkedine
 
 * St. Mary’s University(MS): No application fee
 
-* Indiana State University(MS): no 
-
 * Central Michigan University(MS): application code for undergraduate: FireUp2023
 
 * 2(MS): [North Dakota State University](https://www.ndsu.edu/)|[CS department](https://catalog.ndsu.edu/programs-study/graduate/computer-science/),[Program](https://www.ndsu.edu/cs/current_students/graduate_programs/),ndsu.grad.school@ndsu.edu
