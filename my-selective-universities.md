@@ -70,7 +70,7 @@ Holding university
 * [University of Iowa]()(Rank:69)(Fall: November 1, Spring: November 15)([Bijay Adhakari](https://homepage.divms.uiowa.edu/~badhikari/),[Kishlay Jha
 ](https://engineering.uiowa.edu/people/kishlay-jha),[Kishlay Jha](https://www.linkedin.com/feed/update/urn:li:activity:6978106029897134080/))
 
-* [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum))
+* [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum)): There is no form, paper or code to submit for an application fee waiver. If your financial circumstances qualify you for an application fee waiver, you will answer a series of questions in the application that will automatically qualify you and post to your account
 * [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
 * [University of Minnesota]()(Rank:34)([Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html),[Volkan Isler](https://www-users.cse.umn.edu/~isler/),[Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html),[Junaed Sattar](https://junaedsattar.cs.umn.edu/),[Ju Sun](https://sunju.org/),[Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/),[Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/))
 * [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))
@@ -123,6 +123,8 @@ received application fee waiver by seraching in linkedine
 * St. Mary’s University(MS): No application fee
 
 * Indiana State University(MS): no 
+
+* Central Michigan University(MS): application code for undergraduate: FireUp2023
 
 * 7(MS): [University of Nebraska at Omaha](https://www.unomaha.edu/)|[CS department](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php),[Program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/prospective-students/graduate-programs.php),gradschool@unomaha.edu,Graduate Program Chair (GPC): [Jon Youn, PhD](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jon-youn.php)|[People in this program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/about/faculty-staff.php)|Labs:|Target professors: [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/), [Dr. Pei-Chi Huang](https://unocps.github.io/) |Rank:175|Deadlines: Fall: January 15,Spring: September 15|Application fee: $50|| Status: application fee waiver requesting
 
