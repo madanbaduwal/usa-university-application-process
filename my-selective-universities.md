@@ -105,14 +105,13 @@ received application fee waiver by seraching in linkedine
 
 * marquette university(MS + PHD) : requesting application fee waiver, will attend event
 
-* University of Southern Maine : No application fee required
 
 * The University of New Orleans(MS/Engineering and Applied Science (Ph.D.)
 ): No application fee required
 
-* St. Mary’s University(MS): No application fee
 
 * Central Michigan University(MS): application code for undergraduate: FireUp2023
+
 * Tulane University: [No application fe](https://sse.tulane.edu/academics/graduate/admissions#:~:text=No%20Application%20Fees%20are%20charged,not%20current%20Tulane%20students%2Falumni.)
 * University of Dayton (MS/No Application Fee/no gre): 
 
