@@ -69,13 +69,19 @@ Holding university
 
 * [Arizona State University]()(Rank:49)([THOMAS CZERNIAWSKI](https://thomasczerniawski.com/),[Suren Jayasuriya](https://web.asu.edu/imaging-lyceum)): There is no form, paper or code to submit for an application fee waiver. If your financial circumstances qualify you for an application fee waiver, you will answer a series of questions in the application that will automatically qualify you and post to your account
 
-* [UMass Dartmouth]()(Rank: 46)([Ming Shao](http://www.cis.umassd.edu/~mshao/))
-* [University of Minnesota]()(Rank:34)([Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html),[Volkan Isler](https://www-users.cse.umn.edu/~isler/),[Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html),[Junaed Sattar](https://junaedsattar.cs.umn.edu/),[Ju Sun](https://sunju.org/),[Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/),[Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/))
-* [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))
-* [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
+* [University of Minnesota]()(Rank:34)([Catherine Qi Zhao](https://www-users.cse.umn.edu/~qzhao/index.html),[Volkan Isler](https://www-users.cse.umn.edu/~isler/),[Qi (Catherine) Zhao](https://www-users.cse.umn.edu/~qzhao/jobs.html),[Junaed Sattar](https://junaedsattar.cs.umn.edu/),[Ju Sun](https://sunju.org/),[Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/),[Nikolaos Papanikolopoulos](https://www-users.cse.umn.edu/~papan001/)) : Application fees cannot be waived or deferred, and are non-refundable.
+
+* [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))| INTERNATIONAL APPLICANTS ARE NOT ELIGIBLE for fee waivers.
+
+
+
 * [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
+
 * University of Nebraska lincoln: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())| Application fee: $50 
 * University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))| $75
+
+<!-- * [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ)) -->
+
 
 ---------------------
 Finialize Universities
