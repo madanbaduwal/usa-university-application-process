@@ -103,7 +103,7 @@ received application fee waiver by seraching in linkedine
 * 6(PHD): [Rice university](https://www.rice.edu/)| (Rank: 22)| Target professors:  [no appliaction fee](https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application)
 
 
-* marquette university(MS + PHD) : requesting application fee waiver, will attend event
+* 7(PhD): marquette university(MS + PHD) : At this point, it is too late to enter a waiver code.  You will answer no to that question and submit your application anyway.  let me know after you submit it and I will waive the application fee from my side.
 
 
 * The University of New Orleans(MS/Engineering and Applied Science (Ph.D.)
