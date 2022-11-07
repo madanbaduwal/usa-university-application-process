@@ -28,7 +28,7 @@ December 01,M.S. applicants January 01, Spring: | Application fee: $85 ([Applica
 * 10(PHD):[University of California, Santa Cruz](https://www.ucsc.edu/)|[CS department](https://engineering.ucsc.edu/departments/computer-science-and-engineering),[Program](https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs),gradadm@ucsc.edu,Department Chair: [J. J. Garcia-Luna-Aceves](https://engineering.ucsc.edu/people/jj)|[People in this program](https://engineering.ucsc.edu/departments/computer-science-and-engineering/people)|Labs: | Target professord: [Xin Eric Wang](https://eric-xw.github.io/),[Yuyin Zhou](https://yuyinzhou.github.io/),[Cihang Xie](https://cihangxie.github.io/),[James Davis](https://users.soe.ucsc.edu/~davis/)|Rank:49|Deadlines: Fall: PHD January 10th, 2023, MS January 24th,|Application fee: $155([Application fee waiver](https://www.gradadmissions.ucsc.edu/application-fee))| Status: International applicants do not qualify for the Graduate Division's application fee waivers or exemptions. 
 
 
-* 11(PHD): [Stony Brook University]() (Ranking: 43)(Spring: oct 1)([Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm),[Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/),[Michael S. Ryoo](http://michaelryoo.com/),[Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html),[Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/),[Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/))|Application fee: $100([Application Waiver](https://www.stonybrook.edu/commcms/spd/bulletin/admissions/application_fee_waiver.php))| Status: Requesting application fee waiver , but not expecting
+* 11(PHD): [Stony Brook University]() (Ranking: 43)(Spring: oct 1)([Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm),[Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/),[Michael S. Ryoo](http://michaelryoo.com/),[Minh Hoai Nguyen](https://www3.cs.stonybrook.edu/~minhhoai/index.html),[Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/),[Arie Kaufman](https://www3.cs.stonybrook.edu/~ari/))|Application fee: $100([Application Waiver](https://www.stonybrook.edu/commcms/spd/bulletin/admissions/application_fee_waiver.php))| Status: Requesting application fee waiver , received email didn't fulfill waiver criteria
 
 
 * 12(PHD):[University of Utah]()|admissions_feewaiver@utah.edu|(Rankk: 43)([S. Elhabian](https://www.sci.utah.edu/people/shireen.html), [C. Johnson](http://www.cs.utah.edu/~crj/),[S. Joshi](https://www.sci.utah.edu/people/sjoshi.html),[V. Pascucci](http://www.pascucci.org/),[T. Tasdizen](http://www.sci.utah.edu/~tolga/index.html), [R. Whitaker](http://www.cs.utah.edu/~whitaker/), [Yin Yang](https://yangzzzy.github.io/))| Application fee: $65([Application fee waiver](https://attheu.utah.edu/students/u-application-fee-waived-for-many-first-year-students/))| Status: Requesting application fee waiver , but not expecting
@@ -36,30 +36,31 @@ December 01,M.S. applicants January 01, Spring: | Application fee: $85 ([Applica
 
 
 
-* 14(PHD): [Purdue University]()(Rank:20)([Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/),[Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html),[Ahmed H. Qureshi](https://qureshiahmed.github.io/),[Raymond A. Yeh](https://www.raymond-yeh.com/),[Qiang Qiu](https://web.ics.purdue.edu/~qqiu/#qlab),[Fengqing Maggie Zhu](https://engineering.purdue.edu/~zhu0/),[Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students),[Zygmunt Pizlo](http://www1.psych.purdue.edu/~zpizlo/))| Application fee: $75
+* 14(PHD): [Purdue University]()|gradinfo@purdue.edu|(Rank:20)([Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/),[Mohammad R. Jahanshahi](https://web.ics.purdue.edu/~jahansha/index.html),[Ahmed H. Qureshi](https://qureshiahmed.github.io/),[Raymond A. Yeh](https://www.raymond-yeh.com/),[Qiang Qiu](https://web.ics.purdue.edu/~qqiu/#qlab),[Fengqing Maggie Zhu](https://engineering.purdue.edu/~zhu0/),[Daniel G. Aliaga](https://www.cs.purdue.edu/homes/aliaga/#students),[Zygmunt Pizlo](http://www1.psych.purdue.edu/~zpizlo/))| Application fee: $75 | Status: Requesting application fee waiver
 
 
-* 15(PHD): [University of Maryland]()(Rank:17)([Professors](https://www.cs.umd.edu/people/faculty),[Jia-Bin Huang](https://jbhuang0604.github.io/),[Bahar Asgari](http://casl.cs.umd.edu/index.html): [Linkdine Post](https://www.linkedin.com/posts/bahar-asgari_phdposition-computerarchitecture-research-activity-6985264697625190400-yuOr?utm_source=share&utm_medium=member_desktop),[Cynthia Matuszek](https://redirect.cs.umbc.edu/~cmat/),[]())| Application fee: $75
+* 15(PHD): [University of Maryland]()| gradschool@umd.edu|(Rank:17)([Professors](https://www.cs.umd.edu/people/faculty),[Jia-Bin Huang](https://jbhuang0604.github.io/),[Bahar Asgari](http://casl.cs.umd.edu/index.html): [Linkdine Post](https://www.linkedin.com/posts/bahar-asgari_phdposition-computerarchitecture-research-activity-6985264697625190400-yuOr?utm_source=share&utm_medium=member_desktop),[Cynthia Matuszek](https://redirect.cs.umbc.edu/~cmat/),[]())| Application fee: $75|  Status: Requesting application fee waiver
 
 
-* 16(PHD): [University of Wisconsin-Madison]()(Rank: 17)([Pedro Morgado](https://pedro-morgado.github.io/),[Mohit Gupta](https://wisionlab.com/people/mohit-gupta/),[Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/),[Yin Li](https://www.biostat.wisc.edu/~yli/))| $75
+* 16(PHD): [University of Wisconsin-Madison]()(Rank: 17)([Pedro Morgado](https://pedro-morgado.github.io/),[Mohit Gupta](https://wisionlab.com/people/mohit-gupta/),[Nagesh Adluru](http://brainimaging.waisman.wisc.edu/~adluru/),[Yin Li](https://www.biostat.wisc.edu/~yli/))| $75 | Need to fill form 
 
 
-* 17(PHD): [University of California, San Diego]()(Rank:11)([Michael C. Yip](https://yip.eng.ucsd.edu/),[Xiaolong Wang](https://xiaolonw.github.io/),[Xiaobai Liu](https://cv.sdsu.edu/),[Manmohan Chandraker](https://cseweb.ucsd.edu//~mkchandraker/index.html),[Mohan Trivedi](https://jacobsschool.ucsd.edu/faculty/profile?id=68),[Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/),[Garrison W. Cottrell](https://cseweb.ucsd.edu//~gary/),[Zhuowen Tu](https://pages.ucsd.edu/~ztu/),[David Kriegman](https://cseweb.ucsd.edu//~kriegman/)) | Application fee: $155
+* 17(PHD): [University of California, San Diego]()(Rank:11)([Michael C. Yip](https://yip.eng.ucsd.edu/),[Xiaolong Wang](https://xiaolonw.github.io/),[Xiaobai Liu](https://cv.sdsu.edu/),[Manmohan Chandraker](https://cseweb.ucsd.edu//~mkchandraker/index.html),[Mohan Trivedi](https://jacobsschool.ucsd.edu/faculty/profile?id=68),[Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/),[Garrison W. Cottrell](https://cseweb.ucsd.edu//~gary/),[Zhuowen Tu](https://pages.ucsd.edu/~ztu/),[David Kriegman](https://cseweb.ucsd.edu//~kriegman/)) | Application fee: $155 | Status: fill criteria to get application code
 
-* 18(PHD):[Columbia University]()(Rank:11)([Junfeng Yang](http://www.cs.columbia.edu/~junfeng/),[Mike Z. SHOU](https://sites.google.com/view/showlab/join-us),[Shuran Song](https://www.cs.columbia.edu/~shurans/),[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm),[Haoxuan You](https://www.ee.columbia.edu/ln/dvmm/newPeople.htm#visitingStudent),[Sicheng Zhao](https://sites.google.com/site/schzhao/),[John R. Kender](http://www.cs.columbia.edu/~jrk/),[Peter Allen](http://www.cs.columbia.edu/~allen/),[Peter Belhumeur](https://www.peterbelhumeur.com/),[Shree Nayar](http://www.cs.columbia.edu/~nayar/),[Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/),[Tony Jebara](http://www.cs.columbia.edu/~jebara/),[Peter N. Belhumeur](https://www.peterbelhumeur.com/))| Application fee: $120([Application fee waiver](https://www.gsas.columbia.edu/content/application-fee-waivers))
-
-
-* 19(PHD): [University of Michigan]()(Rank: 11)([Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us),[Anhong Guo](https://guoanhong.com/),[Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html),[Jason Corso](https://web.eecs.umich.edu/~jjcorso/),[Emily Mower Provost](https://emp.engin.umich.edu/),[Jeff Fessler](https://web.eecs.umich.edu/~fessler/))| Application fee: $90([Application fee waiver](https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/))
+* 18(PHD):[Columbia University]()(Rank:11)([Junfeng Yang](http://www.cs.columbia.edu/~junfeng/),[Mike Z. SHOU](https://sites.google.com/view/showlab/join-us),[Shuran Song](https://www.cs.columbia.edu/~shurans/),[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm),[Haoxuan You](https://www.ee.columbia.edu/ln/dvmm/newPeople.htm#visitingStudent),[Sicheng Zhao](https://sites.google.com/site/schzhao/),[John R. Kender](http://www.cs.columbia.edu/~jrk/),[Peter Allen](http://www.cs.columbia.edu/~allen/),[Peter Belhumeur](https://www.peterbelhumeur.com/),[Shree Nayar](http://www.cs.columbia.edu/~nayar/),[Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/),[Tony Jebara](http://www.cs.columbia.edu/~jebara/),[Peter N. Belhumeur](https://www.peterbelhumeur.com/))| Application fee: $120([Application fee waiver](https://www.gsas.columbia.edu/content/application-fee-waivers))| Status: fill criteria to get application code
 
 
-* 20(PHD): [University of Illinois Urbana-Champaign]()(Rank: 5)([Saurabh Gupta](http://saurabhg.web.illinois.edu/),[Yuxiong WANG](https://yxw.web.illinois.edu/),[Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894),[Sayan Mitra](http://mitras.ece.illinois.edu/students.html),[Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us),[Shenlong Wang](http://shenlong.web.illinois.edu/),[Alexander Schwing](https://alexander-schwing.de/#people))
+
+* 19(PHD): [University of Michigan]()(Rank: 11)([Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us),[Anhong Guo](https://guoanhong.com/),[Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html),[Jason Corso](https://web.eecs.umich.edu/~jjcorso/),[Emily Mower Provost](https://emp.engin.umich.edu/),[Jeff Fessler](https://web.eecs.umich.edu/~fessler/))| Application fee: $90([Application fee waiver](https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/))| Status: confused asked to deepak
+
+
+* 20(PHD): [University of Illinois Urbana-Champaign]()(Rank: 5)([Saurabh Gupta](http://saurabhg.web.illinois.edu/),[Yuxiong WANG](https://yxw.web.illinois.edu/),[Liangjing Yang](https://person.zju.edu.cn/en/ylj#718894),[Sayan Mitra](http://mitras.ece.illinois.edu/students.html),[Mani Golparvar-Fard](https://raamac.cee.illinois.edu/interested-in-joining-us),[Shenlong Wang](http://shenlong.web.illinois.edu/),[Alexander Schwing](https://alexander-schwing.de/#people)) | Status: fill criteria to get application code
 
 ---------------------------------------------------------
 Holding university
 
 
-* [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))| $75 
+* [SUNY Binghamton University]()(Rank: 99)([Adnan Siraj Rakin](https://www.adnansirajrakin.com/prospective-students.html))| $75 | Status: fill criteria to get application code
 
 
 
@@ -78,8 +79,6 @@ Holding university
 * [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
 * University of Nebraska lincoln: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())| Application fee: $50 
 * University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))| $75
-----------------------------------------------------------
-Some universities having funding
 
 ---------------------
 Finialize Universities
