@@ -76,15 +76,10 @@ Holding university
 * [UC Santa Barbara]()(Rank: 28)([William Wang](https://sites.cs.ucsb.edu/~william/),[Matthew Turk](http://ilab.cs.ucsb.edu/info))
 * [University of California, Irvine]()(Rank:28)([Ruoyu Sun](https://ruoyus.github.io/),[Charless Fowlkes](https://scholar.google.com/citations?hl=en&user=yLQF4mkAAAAJ))
 * [The University of Texas at Austin]()(Rank:9)([Zhangyang “Atlas” Wang](https://vita-group.github.io/group.html),[Yuke Zhu](https://www.cs.utexas.edu/~yukez/))
-
-----------------------------------------------------------
-Some universities having funding
-
 * University of Nebraska lincoln: (Rank: 151)([Hongfeng Yu](https://cse.unl.edu/~yu/Research.htm),[Qiuming Yao](https://cse.unl.edu/~qyao/#home),[]())| Application fee: $50 
 * University of Connecticut: ([Dongjin Song](https://songdj.github.io/),[Sheida Nabavi](https://sheida-nabavi.uconn.edu/),[Ion Mandoiu](https://dna.engr.uconn.edu/ion/),[Caiwen Ding](https://caiwending.cse.uconn.edu/))| $75
-* Wayne State University: [Labs](https://engineering.wayne.edu/computer-science/research/labs)| $50
-* New Jersey Institute of Technology: ([Hua Wei](https://web.njit.edu/~hw32/),[Yao Ma](https://web.njit.edu/~ym329/))| $75
-
+----------------------------------------------------------
+Some universities having funding
 
 ---------------------
 Finialize Universities
