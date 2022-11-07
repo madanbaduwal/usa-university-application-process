@@ -105,8 +105,6 @@ received application fee waiver by seraching in linkedine
 
 * marquette university(MS + PHD) : requesting application fee waiver, will attend event
 
-* University of St. Thomas, Minnesota(MS): No application fee required
-
 * University of Southern Maine : No application fee required
 
 * The University of New Orleans(MS/Engineering and Applied Science (Ph.D.)
