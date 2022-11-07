@@ -110,6 +110,7 @@ received application fee waiver by seraching in linkedine
 
 * Central Michigan University(MS): application code for undergraduate: FireUp2023
 * Tulane University: [No application fe](https://sse.tulane.edu/academics/graduate/admissions#:~:text=No%20Application%20Fees%20are%20charged,not%20current%20Tulane%20students%2Falumni.)
+* University of Dayton (MS/No Application Fee/no gre): 
 
 * Rice university: [no appliaction fee](https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application)
 
