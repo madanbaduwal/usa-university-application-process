@@ -132,6 +132,10 @@ received application fee waiver by seraching in linkedine
 
 * 7(MS): [University of Nebraska at Omaha](https://www.unomaha.edu/)|[CS department](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php),[Program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/prospective-students/graduate-programs.php),gradschool@unomaha.edu,Graduate Program Chair (GPC): [Jon Youn, PhD](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jon-youn.php)|[People in this program](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/about/faculty-staff.php)|Labs:|Target professors: [Xin Zhong](https://sites.google.com/unomaha.edu/xinz/),[Benjamin S Riggan](https://sites.google.com/site/benjaminriggan/), [Dr. Pei-Chi Huang](https://unocps.github.io/) |Rank:175|Deadlines: Fall: January 15,Spring: September 15|Application fee: $50|| Status: application fee waiver requesting
 
+University of Nebraska lincoln: (Rank: 151)(Hongfeng Yu,Qiuming Yao,)| Application fee: $50
+
+
+
 * 8(PHD): [University of North Carolina Charlotte](https://www.charlotte.edu/)(Don't required GRE received email)|[CS department](https://cci.charlotte.edu/computer-science/45/5),[Program](https://cci.charlotte.edu/academics/computer-science),gradcounselor@uncc.edu,Department Chair: [Dr. Min Shin](https://cci.charlotte.edu/directory/min-shin)|[People in this program](https://cci.charlotte.edu/directory/cs/faculty)|Labs: [Video and Image Analysis Lab](https://vialab.charlotte.edu/)|Target professors: [Srijan Das’ profile](https://srijandas07.github.io/): [Linkdine Post](https://www.linkedin.com/feed/update/urn:li:activity:6987086790360788993?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6987086790360788993%29),[Shaoting Zhang
 ](https://webpages.charlotte.edu/~szhang16/),[Pedram Rooshenas](https://rooshenas.github.io/),[AIDONG LU
 ](https://cci.charlotte.edu/directory/aidong-lu)|Rank:99|Deadlines: Fall: February 1, SPring: September 1| Application fee: $85|Status:  Received email application fee will be not waived
