@@ -27,7 +27,7 @@ You can start your DS/CGI form any time, you can only book visa date before 4 mo
 
 
 1. Passsport
-2. Ds-160 conformation slip
+2. Ds-160 conformation slip, photograph
 3. Mrv fee payment receipt 
 4. SEVIS fee payment receipt *
 5. Interview conformation slip
