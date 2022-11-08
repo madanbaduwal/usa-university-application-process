@@ -29,7 +29,7 @@ You can start your DS/CGI form any time, you can only book visa date before 4 mo
 
 * I-20, signature
 * Ds-160 form bharyara bar code
-* SEVIS-fee recipt
+* SEVIS-fee recipt *
 * MRV
 * Financial documents
 * Passsport
