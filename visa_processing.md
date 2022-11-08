@@ -26,14 +26,13 @@
 You can start your DS/CGI form any time, you can only book visa date before 4 months of class start, you can only go usa 1 month before class start
 
 
-
-* I-20, signature
-* Ds-160 form bharyara bar code
-* SEVIS-fee recipt *
-* MRV
-* Financial documents
-* Passsport
-* Transcript
-* TOEFL
-* Offer letter(kam garirxa)
+1. Passsport
+2. Ds-160 conformation slip
+3. Mrv fee payment receipt 
+4. SEVIS fee payment receipt *
+5. Interview conformation slip
+6. I-20, with signature
+7. Transcript, TOEFL
+8. Financial documents
+9. Experience latter , offer latter, ...
 
