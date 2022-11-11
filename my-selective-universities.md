@@ -32,6 +32,9 @@ received application fee waiver by seraching in linkedine
 
 * 7(PHD): [University of Michigan]()(Rank: 11)([Todd C. Hollon](https://hollon.lab.medicine.umich.edu/join-us),[Anhong Guo](https://guoanhong.com/),[Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_prospective_students.html),[Jason Corso](https://web.eecs.umich.edu/~jjcorso/),[Emily Mower Provost](https://emp.engin.umich.edu/),[Jeff Fessler](https://web.eecs.umich.edu/~fessler/))| Application fee: $90([Application fee waiver](https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/))| Status: confused asked to deepak
 
+* 8(PHD): Northern Arizona University(NO gre required for PHD program email received): fee waiver code #NAUGRAD23
+
+
 
 * 8(PhD): marquette university(MS + PHD) : At this point, it is too late to enter a waiver code.  You will answer no to that question and submit your application anyway.  let me know after you submit it and I will waive the application fee from my side.
 
