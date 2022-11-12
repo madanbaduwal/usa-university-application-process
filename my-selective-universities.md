@@ -34,7 +34,7 @@ received application fee waiver by seraching in linkedine
 
 * 8(PHD): Northern Arizona University(NO gre required for PHD program email received): fee waiver code #NAUGRAD23
 
-
+* 9(PHd): Dakota State University : [Waivering fee before Nov. 30](https://dsu.edu/apply.html)
 
 * 8(PhD): marquette university(MS + PHD) : At this point, it is too late to enter a waiver code.  You will answer no to that question and submit your application anyway.  let me know after you submit it and I will waive the application fee from my side.
 
