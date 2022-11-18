@@ -41,9 +41,9 @@
 
 ## Check funding 
 
-You can check funding by visiting professors personal website or by sending email to program director/chair/head.
-
-- [X] [My note](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
+* You can check funding by visiting professors personal website 
+* Check funding by sending email to program director/chair/head.
+   * [X] [My note](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
 
 ## Latter of recommendation(LOR)
