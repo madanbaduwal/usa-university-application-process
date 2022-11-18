@@ -2,41 +2,41 @@
 
 ## Academic score
 
-Maintain GPA > 3.0/4
+* Maintain GPA > 3.0/4
 
 ## Test exams 
 
-GRE, TOEFL..
-
-Look English:GRE, TOEFL section for resources.
+* GRE, TOEFL..
 
 * [Language](https://github.com/MadanBaduwal/learning)
 
 
 ## List universities 
 
-List universities according to your research area for PHD and affordable/job opportunities for Master and test scores requirements.
-For PHD visit professors profile and look at there personal website whether they are accepting students or not.
+* List universities according to your research area for PHD and affordable/job opportunities for Master and test scores requirements.
+* For PHD visit professors profile and look at there personal website whether they are accepting students or not.
 
-- [Researchers](https://github.com/MadanBaduwal/university-application-process/blob/main/cv-researchers.md)
-- [Universities](https://github.com/MadanBaduwal/university-application-process/blob/main/universities.md)
+* [Researchers](https://github.com/MadanBaduwal/university-application-process/blob/main/cv-researchers.md)
+* [Universities](https://github.com/MadanBaduwal/university-application-process/blob/main/universities.md)
 
 
 ## Application fee waiver
 
-Check universities for ways of fee waiver by seraching 'University name program admission fee waiver'. 
+* Check universities for ways of fee waiver by seraching 'University name program admission fee waiver'. 
+    * eg: University of South Dakota admission fee waiver
+    * Some university waive admission fee by attending event
+    * Some university automatically provide waiver code
+    * Some university provide link/form
+    * Maxium universities don't offer waiver for international students
 
-Write Application fee waiver in linkedine and filter by post.
+* Write Application fee waiver in linkedine and filter by post.
+ 
 
-Start writting application fee waiver emails to grad school or program/Graduate director or department chair person. Most effective direction to mail director or chair. Grad school receive lots of email it's not possibe to get waiver code from them.
+* Start writting application fee waiver emails to grad school or program/Graduate director or department chair person. Most effective direction to mail director or chair. Grad school receive lots of email it's not possibe to get waiver code from them.
 
-Here is an email template to the : 
+    * [Application fee waiver email template](https://github.com/MadanBaduwal/university-application-process/blob/main/application-fee-waiver.md)
 
-- [X] [Application fee waiver email template](https://github.com/MadanBaduwal/university-application-process/blob/main/application-fee-waiver.md)
 
-Attend Universities event:
-
-- [X] [Attend event]()
 
 
 ## Check funding 
