@@ -8,6 +8,7 @@ Answer:
 
 2. Who is sponsoring you? What is your father’s/family annual income?
 Answer: 
+
 First of all, 
 * I have personal savings of around $ 20k by working in Nepal for about three years. Currently, I am working at BP Koirala eye foundation as a Senior Software engineer. Before that, I was leading a team of engineers at Fusemachines. 
 * My parents have savings of around $ 50k for my graduate studies. 
@@ -17,6 +18,7 @@ First of all,
 * My brother is also supporting me he is a senior software engineer at Fact Technology his salary is $12k. 
  
 3. Why the US? Why not other countries? Why not Nepal?
+
 Answer: [1]. 
 
 * Well Since 2015 I am working on a machine learning paradigm to solve Heavy Curated datasets in deep learning 
@@ -30,6 +32,8 @@ Answer: [1].
 
 
 4. Why this university? Why USD?
+
+
 Answer: [1]. 
 
 * My Prof.Santosh KC is also doing research on this problem. His research profile Citation: 5216, h-index: 38, motivated me to work with him. 
@@ -37,6 +41,7 @@ Answer: [1].
 * And the computer science and artificial intelligence course offered by the USD Including advanced machine learning, Computer Vision, Design Analysis, and Computer algorithms aids to solve the current problem in machine learning.  For These reasons, I am going to join USD.
  
 5. Why this course or major? (Combine with Why Masters?) Why Masters?
+
 Answer: 
 * Since 2015 I am doing research on curated dataset problems in deep learning. Publishing several research papers.
 * I would like to escalate my research boundaries to solve four global challenges in ai algorithms. 
