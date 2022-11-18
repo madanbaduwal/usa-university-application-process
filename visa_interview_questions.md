@@ -10,27 +10,28 @@
 * Eye contact
 * Confident
 * Fluency
-* drive toward your strong points
-* Used Sir/Mam at the end of answer
+* drive toward your strong points(eg: I had backlog in economics at that time I was doing research, later I sucessfully publish my research paper in X journal)
+* Used Sir/Mam at the end of your answer
+* Use around and to in income eg: $XK-$XK(my father income is around $20k-30K)
 
 ## Frequently asked questions-answers
 
 1. Which university and course? What is your purpose for visiting the US? Why are you applying for a visa?
 
 Answer: 
-* Well, Sir/Mam I am going to pursue my master's in Computer and information science specialization in artificial intelligence  from the University of South Dakota, 
-* I will continue my research on the curated dataset problem in deep learning under the direction of Prof.Santosh KC.
+* Well, Sir/Mam I am going to pursue my master's in "Program"  from the "Name of the university", 
+* I will continue my research on the curated dataset problem in deep learning under the direction of "Name of your professor".
 
 2. Who is sponsoring you? What is your father’s/family annual income?
 Answer: 
 
 First of all, 
-* I have personal savings of around $ 20k by working in Nepal for about three years. Currently, I am working at BP Koirala eye foundation as a Senior Software engineer. Before that, I was leading a team of engineers at Fusemachines. 
-* My parents have savings of around $ 50k for my graduate studies. 
-* My father is running a dragon fruit farm in 2 Acer. His annual income is around $30k  after reducing other costs.
-* My mother is a mathematics teacher at Ganajagriti Higher Secondary School, which is a government school, Her income is around $7-8k thousand per year 
-* In addition, we also have a 4-storeyed house on the highway. 3 floors are on rent from where we are saving $ 7-8k  per year. 
-* My brother is also supporting me he is a senior software engineer at Fact Technology his salary is $12k. 
+* I have personal savings of around $ Xk by working in Nepal for about three years. Currently, I am working at "company name" as a "Position". Before that, I was leading a team of engineers at "company". 
+* My parents have savings of around $ Xk for my graduate studies. 
+* My father is running a "occupation". His annual income is around $Xk  after reducing other costs.
+* My mother is a "occupation" at "where", which is a government school, Her income is around $Xk thousand per year 
+* In addition, we also have a 4-storeyed house on the highway. 3 floors are on rent from where we are saving around $ 7-8k  per year. 
+* My brother is also supporting me he is a "position" at "company" his salary is around $Xk. 
  
 3. Why the US? Why not other countries? Why not Nepal?
 
