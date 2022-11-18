@@ -90,7 +90,7 @@ Write an email for latter of recommendation.
 ## Write mail after admission
 Research and service efforts to the university and Assistantship
 
-- [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
+- [X] [My template](https://github.com/MadanBaduwal/university-application-process/blob/main/email-for-assistantship.md)
 Start writting emails to professors about your research.
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
 - [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
