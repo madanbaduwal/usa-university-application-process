@@ -1,9 +1,6 @@
 # People in Computer Vision 
 
-1. [Affordable Universities](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/my-selective-universities.md)
-2. [Visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
-3. [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
-4. [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
+
 
 ## Applied Computer vision in English,Physics,Chemistry, Biology(Bioinformatics,Agriculture), Engineering(Robotics)
 
