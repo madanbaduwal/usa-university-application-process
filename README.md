@@ -43,7 +43,7 @@ Attend Universities event:
 
 You can check funding by visiting professors personal website or by sending email to program director/chair/head.
 
-- [X] [My note](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/funding_available_at_university.md)
+- [X] [My note](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
 
 ## Latter of recommendation(LOR)
