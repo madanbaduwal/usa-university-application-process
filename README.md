@@ -43,13 +43,13 @@
 
 * You can check funding by visiting professors personal website 
 * Check funding by sending email to program director/chair/head.
-   * [X] [My note](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
+   * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
 
 ## Latter of recommendation(LOR)
 
-- [X] [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
-- [X] [MIT](https://mitadmissions.org/apply/parents-educators/writingrecs/)
+*  [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
+*  [MIT sample](https://mitadmissions.org/apply/parents-educators/writingrecs/)
 
 	
 ## Finalize universities
