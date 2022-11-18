@@ -1,3 +1,9 @@
+# University application process
+
+## Academic score
+
+Maintain GPA > 3.0/4
+
 ## Test exams 
 
 GRE, TOEFL..
@@ -12,7 +18,8 @@ Look English:GRE, TOEFL section for resources.
 List universities according to your research area for PHD and affordable/job opportunities for Master and test scores requirements.
 For PHD visit professors profile and look at there personal website whether they are accepting students or not.
 
-- [X] [Researchers in computer vision with universities](https://github.com/MadanBaduwal/people-in-computer-vision)
+- [X] [Researchers]()
+- [X] [Universities](https://github.com/MadanBaduwal/people-in-computer-vision)
 
 
 ## Application fee waiver
