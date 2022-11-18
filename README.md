@@ -84,7 +84,7 @@ Ready your all your documents sop,test score pdfs,transcript,resume
 
 Write an email for latter of recommendation.
  
-- [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/phd-career/blob/main/recommendation_email.md)
+- [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/university-application-process/blob/main/recommendation-email.md)
 
 
 ## Write mail after admission
