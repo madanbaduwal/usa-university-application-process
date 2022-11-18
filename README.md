@@ -106,8 +106,9 @@ Start writting emails to professors about your research.
 
 ## Visa process and visa interview
 
-- [X] [My note: visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
-- [X] [My note: visa interview questions: Highly realted with SOP](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
+- [X] [Visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
+- [X] [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
+- [X] [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
 
 
 
