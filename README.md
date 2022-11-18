@@ -92,7 +92,7 @@ Research and service efforts to the university and Assistantship
 
 - [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
 Start writting emails to professors about your research.
-- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
+- [X] [My note on cold-email](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
 - [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
