@@ -10,7 +10,7 @@ GRE, TOEFL..
 
 Look English:GRE, TOEFL section for resources.
 
-- [X] [Language](https://github.com/MadanBaduwal/learning)
+* [Language](https://github.com/MadanBaduwal/learning)
 
 
 ## List universities 
@@ -18,8 +18,8 @@ Look English:GRE, TOEFL section for resources.
 List universities according to your research area for PHD and affordable/job opportunities for Master and test scores requirements.
 For PHD visit professors profile and look at there personal website whether they are accepting students or not.
 
-- [X] [Researchers]()
-- [X] [Universities](https://github.com/MadanBaduwal/people-in-computer-vision)
+- [Researchers](https://github.com/MadanBaduwal/university-application-process/blob/main/cv-researchers.md)
+- [Universities](https://github.com/MadanBaduwal/university-application-process/blob/main/universities.md)
 
 
 ## Application fee waiver
