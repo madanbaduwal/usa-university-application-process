@@ -1,5 +1,7 @@
 # Research topics: Machine learning paradigms 
 
+## Frequently asked questions-answers
+
 1. Which university and course? What is your purpose for visiting the US? Why are you applying for a visa?
 
 Answer: 
@@ -29,8 +31,6 @@ Answer: [1].
 
 
 
-
-
 4. Why this university? Why USD?
 
 
@@ -48,7 +48,9 @@ Answer:
 * This master course is all about designing efficient algorithms. This specialization course in artificial intelligence helps me to solve these problems. 
  
 6. Which and how many Universities (both admits and rejects) did you apply to?
+
 Answer: 
+
 * In the fall of 2022 I applied to 5 universities  I was accepted by Washington university, colorado state university, and the University of Texas Dallas. They were not affordable for me. 
 * After closely working with my professor, I have decided to apply only to USD this spring 2023.
 
@@ -60,64 +62,71 @@ Answer:
 * Besides that, I will be continuing my previous companies Fusemachines, NAMII, and National innovation as a visiting researcher. 
 * Here is a great chance for me to become a pioneer in my field.
  
-Why Should I issue you a visa If I reject you?
+8. Why Should I issue you a visa If I reject you?
+
 Answer: 
-First I have a clear mission and vision for my research career
-Second I have enough funding for my studies
-Third I will back to Nepal and I will continue my research career at the BP Koirala foundation for the blind and deft to be the pioneer in this field in Nepal
+
+* First I have a clear mission and vision for my research career
+* Second I have enough funding for my studies
+* Third I will back to Nepal and I will continue my research career at the BP Koirala foundation for the blind and deft to be the pioneer in this field in Nepal
  
-What challenges will you face after the USA?
+9. What challenges will you face after the USA?
+
 Answer: 
-Culture
-Foods
-Environment
-But my priority is my research.
+* Culture
+* Foods
+* Environment
+* But my priority is my research.
    
  
-EDV?
-Answer: Yeah Sir, I filed EDV.
-The ways don’t matter to me, it is either from F-1, EDV, … or any other visa. I'm clear about my vision and mission to demystify the research culture in Nepal. So, I also tried this lucky draw. 
+10. EDV?
+
+Answer: 
+
+Yeah Sir, I filed EDV.
+* The ways don’t matter to me, it is either from F-1, EDV, … or any other visa. I'm clear about my vision and mission to demystify the research culture in Nepal. So, I also tried this lucky draw. 
  
-Role and responsibility at the current office?
+11. Role and responsibility at the current office?
 Answer: 
 BP Koirala eye foundation
-Education platform for blind and deft
-AI models to predict otitis media disease
-Blind and deft people checkup from remote places
+* Education platform for blind and deft
+* AI models to predict otitis media disease
+* Blind and deft people checkup from remote places
 Fusemachine 
-Demystify AI education: Led a team of engineers, to create affordable machine learning courses. 20k students are enrolled from south Africa and Nepal 
-National Innovation Center
+* Demystify AI education: Led a team of engineers, to create affordable machine learning courses. 20k students are enrolled from south Africa and Nepal 
+* National Innovation Center
 Visiting computer vision engineer, worked on a robotic vision for covid patients.
  
 [1] My research lies in the curated dataset problem in deep learning inspired by the human cognitive system for computer vision, medical imaging, and embodied AI.
 [2] I will return back to Nepal and continue to work with BP Koirala eye foundation research on intelligence systems for blind and deft people,  Besides that, I will be continuing my previous companies Fusemachines, NAMII, and National innovation as a visiting researcher to demystify research culture. 
  
- 
- 
- 
- 
- 
- 
- 
- 
+## .
 
 
+1. What did you do since your graduation?
+
+Answers: I joined Fusemachines as a machine learning engineer, Beside that, I was visiting advisor at National Innovation Center. Currently, I am working at BP Koirala eye foundation.
 
 
+2. Any backlog?
 
+Answers: I had one backlog i.e economics.  I was doing research and exploring the industry at that time, I was more focused on these things at that time because these things are important at that time.
 
-What did you do since your graduation?
-I joined Fusemachines as a machine learning engineer, Beside that, I was visiting advisor at National Innovation Center. Currently, I am working at BP Koirala eye foundation.
-Any backlog?
-I had one backlog i.e economics.  I was doing research and exploring the industry at that time, I was more focused on these things at that time because these things are important at that time.
-Why this subject?
-Since 2015 I am doing research in this field, I just love doing this and I wanna continue this.
-Why do you want to continue your study?
-I would like to push my research boundaries to solve problems in deep learning.
-Where will you stay in the USA?
-USD main campus, Clark street vermillion south Dakota.
-Are you planning to work after your graduation?
-I have no plan to work after graduation, I will back to Nepal and continue my research here.
+3. Why this subject?
+
+Answers: Since 2015 I am doing research in this field, I just love doing this and I wanna continue this.
+
+4. Why do you want to continue your study?
+
+Answers: I would like to push my research boundaries to solve problems in deep learning.
+
+5. Where will you stay in the USA?
+
+Answers: USD main campus, Clark street vermillion south Dakota.
+
+6. Are you planning to work after your graduation?
+
+Answers: I have no plan to work after graduation, I will back to Nepal and continue my research here.
 Provide the assurance of returning to Nepal once you are done with your studies.
 I am fortunate to work with doctors to create an intelligence system for the deaf. Enriching their lifestyle motivates me to do more for them. I have a close tie-up with my family, I and my brother are the only support for my mom and dad. I am the only one going abroad, I think there is no reason to stay USA.
 Do you know how much your school costs?
