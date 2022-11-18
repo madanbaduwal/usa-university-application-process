@@ -32,7 +32,7 @@ Start writting application fee waiver emails to grad school or program/Graduate 
 
 Here is an email template to the : 
 
-- [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
+- [X] [Application fee waiver email template](https://github.com/MadanBaduwal/university-application-process/blob/main/application-fee-waiver.md)
 
 Attend Universities event:
 
