@@ -110,6 +110,8 @@ Start writting emails to professors about your research.
 - [X] [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
 - [X] [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
 
+## Moving toward university
 
+- [X] [Nepal to university]()
 
 
