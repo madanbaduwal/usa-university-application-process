@@ -1,5 +1,17 @@
 # Research topics: Machine learning paradigms 
 
+**key points in mind**
+* clear  vision and mission as a student
+* strong funding(if no or low scholorship)
+* Intention to return back to Nepal
+
+**key points while giving interview**
+* Hand gesture
+* Eye contact
+* Confident
+* Fluency
+* drive toward your strong points
+
 ## Frequently asked questions-answers
 
 1. Which university and course? What is your purpose for visiting the US? Why are you applying for a visa?
@@ -98,6 +110,7 @@ Fusemachine
 Visiting computer vision engineer, worked on a robotic vision for covid patients.
  
 [1] My research lies in the curated dataset problem in deep learning inspired by the human cognitive system for computer vision, medical imaging, and embodied AI.
+
 [2] I will return back to Nepal and continue to work with BP Koirala eye foundation research on intelligence systems for blind and deft people,  Besides that, I will be continuing my previous companies Fusemachines, NAMII, and National innovation as a visiting researcher to demystify research culture. 
  
 ## .
@@ -129,14 +142,27 @@ Answers: USD main campus, Clark street vermillion south Dakota.
 Answers: I have no plan to work after graduation, I will back to Nepal and continue my research here.
 Provide the assurance of returning to Nepal once you are done with your studies.
 I am fortunate to work with doctors to create an intelligence system for the deaf. Enriching their lifestyle motivates me to do more for them. I have a close tie-up with my family, I and my brother are the only support for my mom and dad. I am the only one going abroad, I think there is no reason to stay USA.
-Do you know how much your school costs?
-Total cost: 24,768
-Tuition: 12,768
-Living: 10,00
-Book, insurance: 2,000
-Have you received any scholarships or financial aid?
+
+
+7. Do you know how much your school costs?
+
+Answers: 
+
+* Total cost: 24,768
+* Tuition: 12,768
+* Living: 10,00
+* Book, insurance: 2,000
+
+8. Have you received any scholarships or financial aid?
+
+Answers: 
+
 I have submitted my assistantship form, I am waiting for the result. According to the professor, the decision will be made in mid. dec.
-Are you currently employed?
+
+9. Are you currently employed?
+
+Answers: 
+
 Yes, I currently working at BP Koirala foundation as a senior software engineer. 
 How many people work there?
 We are four team members, I am leading my team.
