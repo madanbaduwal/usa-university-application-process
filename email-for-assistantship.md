@@ -1,4 +1,3 @@
-```
 Subject: Research and service efforts to the university and Assistantship
 
 Dear Prof. KC Santosh
@@ -18,4 +17,3 @@ Reference
 [2] Makkar, Aaisha, and K. C. Santosh. "SecureFed: Federated learning empowered medical imaging technique to detect COVID-19 using chest x-rays." (2022).
 [3] Bardes, Adrien, Jean Ponce, and Yann LeCun. "VICRegL: Self-Supervised Learning of Local Visual Features." arXiv preprint arXiv:2210.01571 (2022).
 [4] Prajapati, Prakash Ratna, et al. "Signature verification using convolutional neural network and autoencoder." Journal of the Institute of Engineering 16.1 (2021): 33-40.
-```
