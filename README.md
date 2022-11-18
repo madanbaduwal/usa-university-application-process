@@ -61,7 +61,7 @@ For PHD:
 * Funding avilable
 * Communication with professors
 
-For Master:
+For Master/bachelors:
 * Test scores
 * Number of researchers and affordable universities.
 * Application fee
@@ -70,8 +70,8 @@ For Master:
 
 ## Statement of purpose(SOP)
 Prepare SOP for selected universities.
-- [X] [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html?fbclid=IwAR0m9XcJ-8teKsEIvoLDZ4HbwfNOXEq-w8JBNvKVsbM5A2vMNSF1V4xCmGU)
-- [X] [cs-sop.org](https://cs-sop.org/)
+*  [How to Write a Bad Statement](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html?fbclid=IwAR0m9XcJ-8teKsEIvoLDZ4HbwfNOXEq-w8JBNvKVsbM5A2vMNSF1V4xCmGU)
+*  [cs-sop.org](https://cs-sop.org/)
 
 ## Submit application
 Ready your all your documents sop,test score pdfs,transcript,resume
@@ -80,19 +80,18 @@ Ready your all your documents sop,test score pdfs,transcript,resume
 - Keep track of your applcication 
 
 
-## Mail For Recommendation
+## Request your professor for recommendation
 
 Write an email for latter of recommendation.
  
-- [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/university-application-process/blob/main/recommendation-email.md)
+*  [Mail template for recommendation](https://github.com/MadanBaduwal/university-application-process/blob/main/recommendation-email.md)
 
 
 ## Write mail after admission
 Research and service efforts to the university and Assistantship
 
-- [X] [My template](https://github.com/MadanBaduwal/university-application-process/blob/main/email-for-assistantship.md)
-Start writting emails to professors about your research.
-- [X] [My note on cold-email](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
+*  [My template](https://github.com/MadanBaduwal/university-application-process/blob/main/email-for-assistantship.md)
+*  [Cold-email](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
 - [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
