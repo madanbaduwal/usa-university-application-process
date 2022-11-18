@@ -11,6 +11,7 @@
 * Confident
 * Fluency
 * drive toward your strong points
+* Used Sir/Mam at the end of answer
 
 ## Frequently asked questions-answers
 
@@ -270,24 +271,49 @@ Why are you afraid?
 No, I am not afraid
  
  
-When is your undergraduate study completed?
-Started: Aug 2015
-End: Feb 2020
-Will you leave your job?
+36. When is your undergraduate study completed?
+
+Answer: 
+
+* Started: Aug 2015
+* End: Feb 2020
+
+37. Will you leave your job?
+
+Answer: 
 I will continue my research here after my study
-How long will you stay in the USA?
-3 years 
-Program start date: 6 January
-Program End date: 
-How did you know about this university?
+
+38. How long will you stay in the USA?
+
+Answer: 
+* 2 years
+* Program start date: 6 January
+* Program End date: 
+
+
+39. How did you know about this university?
+
+Answer: 
 From the professor’s research profile on google scholars
-These subjects are also taught in other universities in your country also but why the UD university?
-I don’t think they have high computation hardware to train deep learning algorithms
-Why should I give you the visa? What qualities do you have?
+
+
+40. These subjects are also taught in other universities in your country also but why the UD university?
+
+Answer: 
+I don’t think they have high computation hardware to train deep learning algorithms here in my country
+
+41. Why should I give you the visa? What qualities do you have?
+
+Answer: 
 Basically, I am working on a problem, to empower human beings to expand their consciousness.
-What will you do if you fall in love with an American girl?
+
+42. What will you do if you fall in love with an American girl?
+
+Answer: 
 I have my girlfriend here, we have been relationship for 4 years. I don’t wanna cheat her. Because she is so supportive and cute.
-Program start and end date? Class start date?
+
+
+43. Program start and end date? Class start date?
 Answer: 
 program start date: 6 Jan 2023- program end date 13 Dec 2025
 Class start date: 09 Jan 2023
