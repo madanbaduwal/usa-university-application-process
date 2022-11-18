@@ -123,7 +123,7 @@ Visiting computer vision engineer, worked on a robotic vision for covid patients
 
 12. What did you do since your graduation?
 
-Answers: I joined Fusemachines as a machine learning engineer, Beside that, I was visiting advisor at National Innovation Center. Currently, I am working at BP Koirala eye foundation.
+Answers: I joined "X" as a machine learning engineer, Beside that, I was visiting advisor at X. Currently, I am working at X.
 
 
 13. Any backlog?
@@ -145,7 +145,9 @@ Answers: USD main campus, Clark street vermillion south Dakota.
 17. Are you planning to work after your graduation?
 
 Answers: I have no plan to work after graduation, I will back to Nepal and continue my research here.
+
 Provide the assurance of returning to Nepal once you are done with your studies.
+
 I am fortunate to work with doctors to create an intelligence system for the deaf. Enriching their lifestyle motivates me to do more for them. I have a close tie-up with my family, I and my brother are the only support for my mom and dad. I am the only one going abroad, I think there is no reason to stay USA.
 
 
@@ -200,7 +202,7 @@ No, I have no relatives in the USA but I have my seniors from my office and they
 
 Answer: 
 * Me and my brother 
-* He is a senior software engineer at Fact technology
+* He is a senior software engineer at X
 
 27. Where is your University located? How will you reach there?
 
