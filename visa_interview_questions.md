@@ -116,35 +116,35 @@ Visiting computer vision engineer, worked on a robotic vision for covid patients
 ## .
 
 
-1. What did you do since your graduation?
+12. What did you do since your graduation?
 
 Answers: I joined Fusemachines as a machine learning engineer, Beside that, I was visiting advisor at National Innovation Center. Currently, I am working at BP Koirala eye foundation.
 
 
-2. Any backlog?
+13. Any backlog?
 
 Answers: I had one backlog i.e economics.  I was doing research and exploring the industry at that time, I was more focused on these things at that time because these things are important at that time.
 
-3. Why this subject?
+14. Why this subject?
 
 Answers: Since 2015 I am doing research in this field, I just love doing this and I wanna continue this.
 
-4. Why do you want to continue your study?
+15. Why do you want to continue your study?
 
 Answers: I would like to push my research boundaries to solve problems in deep learning.
 
-5. Where will you stay in the USA?
+16. Where will you stay in the USA?
 
 Answers: USD main campus, Clark street vermillion south Dakota.
 
-6. Are you planning to work after your graduation?
+17. Are you planning to work after your graduation?
 
 Answers: I have no plan to work after graduation, I will back to Nepal and continue my research here.
 Provide the assurance of returning to Nepal once you are done with your studies.
 I am fortunate to work with doctors to create an intelligence system for the deaf. Enriching their lifestyle motivates me to do more for them. I have a close tie-up with my family, I and my brother are the only support for my mom and dad. I am the only one going abroad, I think there is no reason to stay USA.
 
 
-7. Do you know how much your school costs?
+18. Do you know how much your school costs?
 
 Answers: 
 
@@ -153,60 +153,117 @@ Answers:
 * Living: 10,00
 * Book, insurance: 2,000
 
-8. Have you received any scholarships or financial aid?
+19. Have you received any scholarships or financial aid?
 
-Answers: 
+Answer: 
 
 I have submitted my assistantship form, I am waiting for the result. According to the professor, the decision will be made in mid. dec.
 
-9. Are you currently employed?
+20. Are you currently employed?
 
-Answers: 
+Answer: 
 
 Yes, I currently working at BP Koirala foundation as a senior software engineer. 
-How many people work there?
+
+21. How many people work there?
+
+Answer: 
 We are four team members, I am leading my team.
-What is your salary?
+
+22. What is your salary?
+Answer: 
 RS 70,000
-How did you apply?
+
+23. How did you apply?
+
+Answer: 
+
 After the professor's recommendation, I applied myself.
-What will you do during a long vacation?
-If the vacation is long I will visit my home and research institution to get an update about the research
-If the research is short then I would like to attend a symposium, or conference to present my research
-Do you have any relatives there in the USA?
+
+24. What will you do during a long vacation?
+
+Answer: 
+* If the vacation is long I will visit my home and research institution to get an update about the research
+* If the research is short then I would like to attend a symposium, or conference to present my research
+
+25. Do you have any relatives there in the USA?
+
+Answer: 
 No, I have no relatives in the USA but I have my seniors from my office and they are so helpful.
-How many siblings do you have?
-Me and my brother 
-He is a senior software engineer at Fact technology
-Where is your University located? How will you reach there?
-Location: located in the northern part of the USA, near North Dakota, Montana, Nebraska, and IOWA
-South Dakota, Vermillion, Clark street
-Sioux Falls, SD airport (code FSD)
-Christmas: January 3-January 5th. 
-Receiver: Patric Morisson, Assistant Director, International Office
-About South Dakota?
-46 in population
-3rd less stressed state
-Low traffic state
-Low cost leaving
+
+26. How many siblings do you have?
+
+Answer: 
+* Me and my brother 
+* He is a senior software engineer at Fact technology
+
+27. Where is your University located? How will you reach there?
+
+Answer: 
+* Location: located in the northern part of the USA, near North Dakota, Montana, Nebraska, and IOWA
+* South Dakota, Vermillion, Clark street
+* Sioux Falls, SD airport (code FSD)
+* Christmas: January 3-January 5th. 
+* Receiver: Patric Morisson, Assistant Director, International Office
+
+28. About South Dakota?
+
+Answer: 
+
+* 46 in population
+* 3rd less stressed state
+* Low traffic state
+* Low cost leaving
 Perfect place to leave for students and researchers 
-How happy are you with your previous grads?
-I am satisfied with my grades, I manage my research experience and industrial experience with education and am satisfied with it.
-If not, how do you think you can do better in the US?
+
+
+29. How happy are you with your previous grads?
+
+Answer: 
+
+* I am satisfied with my grades, I manage my research experience and industrial experience with education and am satisfied with it.
+
+30. If not, how do you think you can do better in the US?
+
+Answer: 
+
 I think I can solve more challenges, currently faced by the deep learning community.
-Are your parents supportive of your decision to study in the US?
+
+
+31. Are your parents supportive of your decision to study in the US?
+
+Answer: 
 Yes, they support me financially and emotionally.
-What is your opinion about the US?
-Researchers, High infrastructural labs 
-Have you visited/browsed through websites related to this interview?
+
+
+32. What is your opinion about the US?
+
+Answer: 
+
+* Researchers(professors), High infrastructural labs, specilization courses
+
+
+33. Have you visited/browsed through websites related to this interview?
+
+Answer: 
+
 Yes I collect information from different sources for my reasoning
-Can I know your TOEFL score?
-Reading: 28
-Listening: 29
-Writing: 27
-Speaking: 17
-When did you take TOEFL?
+
+34. Can I know your TOEFL score?
+
+Answer: 
+
+* Reading: X
+* Listening: X
+* Writing: X
+* Speaking: X
+
+
+35. When did you take TOEFL?
+
+Answer: 
 19, Dec 2021
+
 Are you nervous?
 No, I am not nervous
 Why are you afraid?
