@@ -314,26 +314,43 @@ I have my girlfriend here, we have been relationship for 4 years. I don’t wann
 
 
 43. Program start and end date? Class start date?
+
 Answer: 
-program start date: 6 Jan 2023- program end date 13 Dec 2025
-Class start date: 09 Jan 2023
-I-20 issued to date?
+* program start date: 6 Jan 2023- program end date 13 Dec 2025
+* Class start date: 09 Jan 2023
+
+
+44. I-20 issued to date?
+
+
 Answer: 24 October 2023
-Program credit hours?
+
+
+45. Program credit hours?
 Answer: 
-30 credit hours for the thesis
-30-hour credit for non-thesis
-University Ranking?
+* 30 credit hours for the thesis
+* 30-hour credit for non-thesis
+
+
+46. University Ranking?
+
+
 Answer: 
-239th best national university
-118th best public schools
+* 239th best national university
+* 118th best public schools
 I rank universities based on researchers' profiles. Having citations greater than 5,000|
-Passport Issued date?
+
+
+47. Passport Issued date?
+
 Answer: 
-Issued: 30 march 2022
-29 March 2032
+* Issued: 30 march 2022
+* 29 March 2032
  
 Sir/ Mam Can I request you one thing? If this information doesn’t stand out to me as a genuine student you can check my profile on google and I have my financial documents also sir.
+ 
+ 
+ ## 
  
 QUESTION LIST – PURPOSE OF TRIP TO USA 
 1. What is the purpose of your trip to USA? 
