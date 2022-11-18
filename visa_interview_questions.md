@@ -1,6 +1,6 @@
 # Research topics: Machine learning paradigms 
 
-**key points in mind**
+**3 major points**
 * clear  vision and mission as a student
 * strong funding(if no or low scholorship)
 * Intention to return back to Nepal
