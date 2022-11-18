@@ -87,15 +87,15 @@ Write an email for latter of recommendation.
 *  [Mail template for recommendation](https://github.com/MadanBaduwal/university-application-process/blob/main/recommendation-email.md)
 
 
-## Write mail after admission
+## Write mail after admission for assistantship
 Research and service efforts to the university and Assistantship
 
-*  [My template](https://github.com/MadanBaduwal/university-application-process/blob/main/email-for-assistantship.md)
-*  [Cold-email](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
-- [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
-- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
-- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
-- [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
+*  [Mail template for assistantship](https://github.com/MadanBaduwal/university-application-process/blob/main/email-for-assistantship.md)
+*  [Cold-email to professors](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
+*  [Hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
+*  [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
+*  [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+*  [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
 
 ## Crack University Interview
@@ -105,12 +105,12 @@ Research and service efforts to the university and Assistantship
 
 ## Visa process and visa interview
 
-- [X] [Visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
-- [X] [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
-- [X] [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
+*  [Visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
+*  [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
+*  [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
 
 ## Moving toward university
 
-- [X] [Nepal to university]()
+*  [Nepal to university]()
 
 
