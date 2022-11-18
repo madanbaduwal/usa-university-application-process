@@ -50,7 +50,7 @@ Answer: [1].
 
 Answer: [1]. 
 
-* My Prof.Santosh KC is also doing research on this problem. His research profile Citation: 5216, h-index: 38, motivated me to work with him. 
+* My Prof.X is also doing research on this problem. His research profile Citation: 5216, h-index: 38, motivated me to work with him. 
 * After a bidirectional meeting with him, I found that they are using coral TPU, Jetson Nano, and supercomputers supported by google, Nvidia, and an open mind to training deep learning algorithms. They are also organizing symposiums and conferences in computer vision and healthcare to foster research culture.
 * And the computer science and artificial intelligence course offered by the USD Including advanced machine learning, Computer Vision, Design Analysis, and Computer algorithms aids to solve the current problem in machine learning.  For These reasons, I am going to join USD.
  
@@ -72,8 +72,8 @@ Answer:
 7. What will you do after completing MS ? What are your plans after graduation? How will your study in the U.S be helpful to your home country after you come back?
 
 Answer: 
-* After completing my master's degree, I will continue to work with BP Koirala eye foundation research on intelligence systems for blind and deft people. Enriching blind and deaf people via artificial intelligence software.
-* Besides that, I will be continuing my previous companies Fusemachines, NAMII, and National innovation as a visiting researcher. 
+* After completing my master's degree, I will continue to work with "company name" research on intelligence systems for blind and deft people. Enriching blind and deaf people via artificial intelligence software.
+* Besides that, I will be continuing my previous companies "companies"  as a visiting researcher. 
 * Here is a great chance for me to become a pioneer in my field.
  
 8. Why Should I issue you a visa If I reject you?
@@ -102,20 +102,23 @@ Yeah Sir, I filed EDV.
  
 11. Role and responsibility at the current office?
 Answer: 
-BP Koirala eye foundation
+
+X company
 * Education platform for blind and deft
 * AI models to predict otitis media disease
 * Blind and deft people checkup from remote places
-Fusemachine 
-* Demystify AI education: Led a team of engineers, to create affordable machine learning courses. 20k students are enrolled from south Africa and Nepal 
-* National Innovation Center
+
+X company 
+* Demystify AI education: Led a team of engineers, to create affordable machine learning courses. 20k students are enrolled from south Africa and Nepal
+ 
+X company
 Visiting computer vision engineer, worked on a robotic vision for covid patients.
  
 [1] My research lies in the curated dataset problem in deep learning inspired by the human cognitive system for computer vision, medical imaging, and embodied AI.
 
 [2] I will return back to Nepal and continue to work with BP Koirala eye foundation research on intelligence systems for blind and deft people,  Besides that, I will be continuing my previous companies Fusemachines, NAMII, and National innovation as a visiting researcher to demystify research culture. 
  
-## .
+## 
 
 
 12. What did you do since your graduation?
