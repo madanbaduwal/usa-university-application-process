@@ -6,6 +6,7 @@
     * MRR vaccine mizzal(Normal certificate)
     * Jonson-Jonson(Vero verocil): Nepal health military verify/ card
 3. Ticket: Open icgnotivemode because if you open multiple time prize will increase
+    * Google Flights
     * 9843703733(Bibek bhujhel): Travel agency ko sathi ho hae mero
     * Layover- low-cost bust time consuming but take time
     * Total duration
