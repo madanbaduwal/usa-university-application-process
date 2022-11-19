@@ -1,5 +1,5 @@
-1. NOC/police report
-2. University process and requirements: 
+1. [NOC](https://noc.moest.gov.np/profile)/police report
+2. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist): 
     * Inform university
     * shuttle service
     * Housing
@@ -14,11 +14,11 @@
 4. Bank draft: 
     * $1,000 cash/NMB/RBB(passport and ticket who give more )
     * $9,000 Nabil(Draft)
-    * $6,000 tuition
-    * $500 insurance
+       * $6,000 tuition
+       * $500 insurance
 5. Job:
-    * Simplicity
-    * Sodexo
+    * [Simplicity](https://www.symplicity.com/?fbclid=IwAR2kD8iglqa3rhMBSsuIsW0gb6DzPBofka8D8nXGNNqnPOOhGmUhWtXXEIM)
+    * [Sodexo](https://us.sodexo.com/home.html?fbclid=IwAR3vLi038QerJNkGrLPeqaU2kWwFg-5dlRzfU8U_6B5L_JSS5cZUuA76f0I)
     * RA/TA/Library
     * Summer internship(May-July) > 2 semester passed
     * Credit Card(per card $2000)*
