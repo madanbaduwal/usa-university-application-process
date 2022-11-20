@@ -1,5 +1,6 @@
 1. [NOC](https://noc.moest.gov.np/profile)/police report
 2. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist): 
+    * Inform your supervisor and try for GA
     * Inform university
     * shuttle service
     * Housing
