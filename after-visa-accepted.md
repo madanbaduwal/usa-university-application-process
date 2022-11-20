@@ -1,10 +1,10 @@
 1. [NOC](https://noc.moest.gov.np/profile)/police report | status: NOC is still isn't verified
 2. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist): 
+    * Inform International department
     * Inform your supervisor and try for GA : Informed
-    * Inform university
+    * MRR vaccine mizzal(Normal certificate)
     * shuttle service
     * Housing
-    * MRR vaccine mizzal(Normal certificate)
     * Jonson-Jonson(Vero verocil): Nepal health military verify/ card
 3. Ticket: Open icgnotivemode because if you open multiple time prize will increase
     * Google Flights: doing
