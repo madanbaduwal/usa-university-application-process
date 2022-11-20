@@ -29,4 +29,5 @@
     * Coat pant- daura suruwal
     * Chasma(2 extra)
     * Clean teeth
+    * cooker
 
