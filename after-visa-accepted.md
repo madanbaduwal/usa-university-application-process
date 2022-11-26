@@ -9,17 +9,16 @@
 3. Ticket: Done
     * Open icgnotivemode because if you open multiple time prize will increase
     * Google Flights: Done
-    * 9843703733(Bibek bhujhel): Travel agency ko sathi ho hae mero
+    * Bibek bhujhel: 9843703733
+    * Total transit
     * Layover- low-cost bust time consuming but take time
     * Total duration
-    * Total transit
     * Airlines(Qatar)
 4. Bank draft: 
     * $1,000 cash/NMB/RBB(passport and ticket who give more )
     * $9,000 Nabil(Draft)
        * $6,000 tuition
        * $500 insurance
-
 5. Skills:
     * Driving
     * Swimming
