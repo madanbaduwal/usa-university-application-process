@@ -2,13 +2,12 @@
 
 ## Academic score
 
-* Maintain GPA > 3.0/4
+* GPA > 3.0/4
 
 ## Test exams 
 
-* GRE, TOEFL..
-
-* [Language](https://github.com/MadanBaduwal/learning)
+* GRE > 300
+* TOEFL> 80
 
 
 ## List universities 
