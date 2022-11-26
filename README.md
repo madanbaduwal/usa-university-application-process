@@ -112,4 +112,4 @@ Research and service efforts to the university and Assistantship
 
 *  [Nepal to university](https://github.com/MadanBaduwal/university-application-process/blob/main/after-visa-accepted.md)
 
-
+## After being in USA continue [this repo](https://github.com/MadanBaduwal/student-life-usa)
