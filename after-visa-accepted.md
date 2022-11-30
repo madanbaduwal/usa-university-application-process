@@ -28,17 +28,20 @@
 
 6. Documents while travelling
     * Passport
+    * Plan Ticket
     * I-20(Make 2-3 copy)
-    * Plan ticket
+    * SEVIS 
+    * Transcript(1 copy)
+    * Offer Letter
     * NOC
-    * Battery operated systems
     * Laptop full charge
     * Phone full charge and power bank in small bag
     * No drink no food
     * Bring $1,$5,$10... because it will help to buy while travelling
-    * Charger adaptor
+    * Universal Charger adaptor
     * Write address in paper where are you going
-    * 
+    * Earphone
+   
 8. Job:
     * [Simplicity](https://www.symplicity.com/?fbclid=IwAR2kD8iglqa3rhMBSsuIsW0gb6DzPBofka8D8nXGNNqnPOOhGmUhWtXXEIM)
     * [Sodexo](https://login.icims.com/u/login/identifier?state=hqFo2SA2bWJhNDRhUHlJTXNxRTEybG4yUklsZlhWZ1Z6OFBHNqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDctc1ZVaEZ4MzRsQmUtTkg0bW1oTFVsbG9NWHFwdlByo2NpZNkgS0pBOTVEeEhPUE5PNTZVYU5SZFJZNTdwem42Q01IY22lb3JnaWS0b3JnX3lwSERZQVdBU01vR200b0enb3JnbmFtZaZzb2RleG8) | status: progress, need US number
@@ -47,6 +50,9 @@
     * Credit Card(per card $2000)*
     * Freelancing(Nabil visa card)
 9. Requirements to bring
+    * 2 check in bag
+    * 1 carry bag
+    * 1 bag pack
     * Coat pant- daura suruwal
     * Chasma(2 extra)
     * Clean teeth
@@ -63,5 +69,9 @@
     * Earphone ramro khale 1 2 ta
     * Masala rakhne vado
     * Masaala haru all varieties 
+        * TIl
+        * Timur
+        * Chiya patti
+        * 
     * Pressure cooker
 
