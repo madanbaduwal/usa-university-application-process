@@ -1,5 +1,6 @@
-1. [NOC](https://noc.moest.gov.np/profile)/police report | status: Done
-2. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: In process
+1. [NOC](https://noc.moest.gov.np/profile) | status: Done
+2. [police report](https://opcr.nepalpolice.gov.np/#/login) | status: Done
+3. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: In process
     * Inform International department
     * Inform your supervisor and try for GA : Informed
     * [Class Registration](https://my.usd.edu/uPortal/f/welcome/normal/render.uP)
@@ -9,7 +10,7 @@
     * shuttle service
     * Housing
     * Jonson-Jonson(Vero verocil): Nepal health military verify/ card
-3. Ticket: Done
+4. Ticket: Done
     * Open icgnotivemode because if you open multiple time prize will increase
     * Google Flights: Done
     * Bibek bhujhel: 9843703733
@@ -17,12 +18,12 @@
     * Layover- low-cost bust time consuming but take time
     * Total duration
     * Airlines(Qatar)
-4. Bank draft: 
+5. Bank draft: 
     * $1,000 cash/NMB/RBB(passport and ticket who give more )
     * $9,000 Nabil(Draft)
        * $6,000 tuition
        * $500 insurance
-5. Skills:
+6. Skills:
     * Driving
     * Swimming
 
