@@ -50,23 +50,20 @@
     * Credit Card(per card $2000)*
     * Freelancing(Nabil visa card)
 9. Requirements to bring
+
     * 2 check in bag
     * 1 carry bag
     * 1 bag pack
-    * Coat pant- daura suruwal
     * Chasma(2 extra)
     * Clean teeth
     * Multi plug 
     * Universal adapter 
-    * Shaver trimmmer 
-    * Nail cuttter
-    * Body wash
-    * Colgate (3)
-    * tooth brush (4 5)
     * Bulb pen (6 7 ota with refill 15 20 ota)
     * Calculator euta casio ko
-    * Formal boot polish (brush and  shoe polish)
     * Earphone ramro khale 1 2 ta
+    
+    Kitchen Items
+    
     * Masala rakhne vado
     * Masaala haru all varieties 
         * TIl
@@ -80,4 +77,47 @@
     * Chiya pakauni bhado and chiya channi
     * Roti pakauni raman
     * Bhada Majni
+    * Knife
+    * 2 plate
+    * bowl
+    * 2 Spoon
+    *  some wai wai chau chau
+    
+    Cloths
+    
+    * Coat pant- daura suruwal
+    * 10 underwares
+    * Bed sheet or Sirak
+    * Tanna
+    * Pillow Cover
+    * 3-4 T-shart
+    * 3-4 Pants
+    * Formal boot for coat pant
+    * 2 pairs shoes
+    * Formal boot polish (brush and  shoe polish)
+    * 2 Windcheater 
+    * 1 hodie
+    * 2 jacket
+    * 1 topi for cold
+    * 2 towel
+    * 3 pair socks
+    * 1 blanket
+    
+   Medicines with prescription 
+    * Fever
+    * Cold
+    * Diarrhea
+    * Thermometer
+    * Vix
+    * Move
+    
+    Personal Care
+    
+    * Shaver trimmmer 
+    * Nail cuttter
+    * Body wash
+    * Colgate (3)
+    * tooth brush (4 5)
+    
+
 
