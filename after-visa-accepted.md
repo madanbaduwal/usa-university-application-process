@@ -2,6 +2,9 @@
 2. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: In process
     * Inform International department
     * Inform your supervisor and try for GA : Informed
+    * [Class Registration](https://my.usd.edu/uPortal/f/welcome/normal/render.uP)
+    * Submit Contingency Documents
+    * Housing
     * MRR vaccine mizzal(Normal certificate)
     * shuttle service
     * Housing
