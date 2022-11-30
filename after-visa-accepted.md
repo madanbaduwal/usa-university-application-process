@@ -72,6 +72,12 @@
         * TIl
         * Timur
         * Chiya patti
-        * 
+        * Jira 
+        * Dhaniya
     * Pressure cooker
+    * Karai
+    * PAN
+    * Chiya pakauni bhado and chiya channi
+    * Roti pakauni raman
+    * Bhada Majni
 
