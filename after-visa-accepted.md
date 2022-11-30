@@ -50,5 +50,18 @@
     * Coat pant- daura suruwal
     * Chasma(2 extra)
     * Clean teeth
-    * cooker
+    * Multi plug 
+    * Universal adapter 
+    * Shaver trimmmer 
+    * Nail cuttter
+    * Body wash
+    * Colgate (3)
+    * tooth brush (4 5)
+    * Bulb pen (6 7 ota with refill 15 20 ota)
+    * Calculator euta casio ko
+    * Formal boot polish (brush and  shoe polish)
+    * Earphone ramro khale 1 2 ta
+    * Masala rakhne vado
+    * Masaala haru all varieties 
+    * Pressure cooker
 
