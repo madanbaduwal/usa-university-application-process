@@ -7,7 +7,7 @@
     * Submit Contingency Documents
     * Housing
     * MRR vaccine mizzal(Normal certificate)
-    * shuttle service
+    * shuttle service : In process
     * Housing
     * Jonson-Jonson(Vero verocil): Nepal health military verify/ card
 4. Ticket: Done
