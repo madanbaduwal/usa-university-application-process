@@ -7,8 +7,8 @@
     * Submit Contingency Documents | Status: Done
     * Housing/ accomadation | Status: Done
     * shuttle service | Status: Shuttle will be not provide for dec 28, I need to contact Nepal Student Association
-    * Health checkup requirements - MRR vaccine mizzal(Normal certificate) | Status: In process
-    * Jonson-Jonson(Vero verocil): Nepal health military verify/ card | Status: In process
+    * Health checkup requirements - **MRR vaccine mizzal(Normal certificate) | Status: In process**
+    * Jonson-Jonson(Vero verocil): **Nepal health military verify/ card | Status: In process**
 4. Ticket: Done
     * Open icgnotivemode because if you open multiple time prize will increase
     * Google Flights: Done
