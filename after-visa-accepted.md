@@ -1,5 +1,5 @@
 1. [NOC](https://noc.moest.gov.np/profile) | status: Done
-2. [police report](https://opcr.nepalpolice.gov.np/#/login) | status: Progress
+2. **[police report](https://opcr.nepalpolice.gov.np/#/login) | status: Progress**
 3. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: In process
     * Inform International department| status: Done
     * Inform your supervisor and try for GA : Informed  | Status: Done
@@ -33,7 +33,7 @@
     * RA/TA/Library | Status: In progress
     * Summer internship(May-July) > 2 semester passed
     * Credit Card(per card $2000)*
-    * Freelancing(Nabil visa card) | Status: In progress
+    * **Freelancing(Nabil visa card) | Status: In progress**
 7. Requirements to bring
    
    Bags
