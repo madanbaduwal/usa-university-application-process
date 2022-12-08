@@ -1,6 +1,6 @@
 1. [NOC](https://noc.moest.gov.np/profile) | status: Done
-2. **[police report](https://opcr.nepalpolice.gov.np/#/login) | status: Progress**
-3. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: In process
+2. [police report](https://opcr.nepalpolice.gov.np/#/login) | status: Done
+3. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: Done
     * Inform International department| status: Done
     * Inform your supervisor and try for GA : Informed  | Status: Done
     * [Class Registration](https://my.usd.edu/uPortal/f/welcome/normal/render.uP) | Status: Done
