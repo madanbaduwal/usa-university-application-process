@@ -33,7 +33,7 @@
     * RA/TA/Library | Status: In progress
     * Summer internship(May-July) > 2 semester passed
     * Credit Card(per card $2000)*
-    * **Freelancing(Nabil visa card) | Status: In progress**
+    * Freelancing(Nabil visa card) | Status: No possible
 7. Requirements to bring
    
    Bags
