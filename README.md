@@ -108,8 +108,8 @@ Research and service efforts to the university and Assistantship
 *  [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
 *  [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
 
-## Moving toward university
+## Steps after accepting visa
 
-*  [Nepal to university](https://github.com/MadanBaduwal/university-application-process/blob/main/after-visa-accepted.md)
+*  [Steps after accepting visa](https://github.com/MadanBaduwal/university-application-process/blob/main/after-visa-accepted.md)
 
 ## After being in USA continue [this repo](https://github.com/MadanBaduwal/student-life-usa)
