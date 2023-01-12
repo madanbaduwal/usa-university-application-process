@@ -3,13 +3,21 @@
 3. [University process and requirements](https://www.usd.edu/Admissions-and-Aid/International-Admissions/International-Graduate-Student-Checklist) | Status: Done
     * Inform International department| status: Done
     * Inform your supervisor and try for GA : Informed  | Status: Done
-    * [Class Registration](https://my.usd.edu/uPortal/f/welcome/normal/render.uP) | Status: Done
     * Submit Contingency Documents | Status: Done
-    * Housing/ accomadation | Status: Done
     * shuttle service | Status: Shuttle will be not provide for dec 28, I need to contact Nepal Student Association
     * Health checkup requirements - **MRR vaccine mizzal(Normal certificate) | Status: In process**
     * Jonson-Jonson(Vero verocil): Nepal health military verify/ card | Status: In process
-4. Ticket: Done
+
+
+4. Register for classes: You can register your classes from your university portal(eg: https://my.usd.edu/uPortal, https://my.utpb.edu/)
+    - Select your interested subjects offered by your university
+    - Focus on how many subjects and credits you want to complete per semester to complete your program
+    - Get Health insurance
+5. Search apartment and roommate
+    - You can search apartment by using website,physically or with seniors
+    - Websites: [The Best Rental Websites for Apartment Hunters](https://www.apartmenttherapy.com/best-rental-websites-36699873)
+    - Also focus on electricity bill, water bill, wifi and  ... : There are lots of distributers for these facilities
+6. Ticket: Done
     * Open icgnotivemode because if you open multiple time prize will increase
     * Google Flights: Done
     * Bibek bhujhel: 9843703733
@@ -17,24 +25,24 @@
     * Layover- low-cost bust time consuming but take time
     * Total duration
     * Airlines(Qatar)
-5. Bank draft: 
+7. Bank draft: 
     * $1,000 cash/NMB/RBB(passport and ticket who give more )
     * $9,000 Nabil(Draft)
        * $6,000 tuition
        * $500 insurance
-6. Skills:
+8. Skills:
     * Driving | Status: In progress
     * Swimming | Status: Done
  
    
-6. Job:
+9. Job:
     * [Simplicity](https://www.symplicity.com/?fbclid=IwAR2kD8iglqa3rhMBSsuIsW0gb6DzPBofka8D8nXGNNqnPOOhGmUhWtXXEIM)
     * [Sodexo](https://login.icims.com/u/login/identifier?state=hqFo2SA2bWJhNDRhUHlJTXNxRTEybG4yUklsZlhWZ1Z6OFBHNqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDctc1ZVaEZ4MzRsQmUtTkg0bW1oTFVsbG9NWHFwdlByo2NpZNkgS0pBOTVEeEhPUE5PNTZVYU5SZFJZNTdwem42Q01IY22lb3JnaWS0b3JnX3lwSERZQVdBU01vR200b0enb3JnbmFtZaZzb2RleG8) | status: progress, need US number
     * RA/TA/Library | Status: In progress
     * Summer internship(May-July) > 2 semester passed
     * Credit Card(per card $2000)*
     * Freelancing(Nabil visa card) | Status: No possible
-7. Requirements to bring
+10. Requirements to bring
    
    Bags
    
@@ -115,7 +123,7 @@
     * Chasma(4 extra)
     * Clean teeth
     
-8. Documents and gagates in bag pack while travelling 
+11. Documents and gagates in bag pack while travelling 
 
     Note: Never put documents and gagets in check in bag
 
