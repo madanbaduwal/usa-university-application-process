@@ -42,15 +42,16 @@
     * Summer internship(May-July) > 2 semester passed
     * Credit Card(per card $2000)*
     * Freelancing(Nabil visa card) | Status: No possible
-10. Requirements to bring
    
-   Bags
+10. Requirements to bring
+
+    Bags
    
     * 2 check in bag
     * 1 carry bag
     * 1 bag pack
     
-   Electronic 
+    Electronic 
    
     * Multi plug 
     * Universal adapter 
@@ -100,7 +101,7 @@
     * 3 pair socks
     * 1 blanket
     
-   Medicines with prescription 
+    Medicines with prescription 
     * Fever
     * Cold
     * Diarrhea
