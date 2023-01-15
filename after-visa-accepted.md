@@ -31,7 +31,7 @@
        * $6,000 tuition
        * $500 insurance
 8. Skills:
-    * Driving | Status: In progress
+    * Driving(most important) | Status: In progress
     * Swimming | Status: Done
  
    
