@@ -45,9 +45,11 @@
    
 10. Requirements to bring
 
+    Note: Don't bring liquide and food items
+    
     Bags
    
-    * 2 check in bag
+    * 2 check in bag: good quality bags , also use in US
     * 1 carry bag
     * 1 bag pack
     
@@ -58,8 +60,12 @@
     * Bulb pen (6 7 ota with refill 15 20 ota)
     * Calculator euta casio ko
     * Earphone ramro khale 1 2 ta
+    * Stapler medium size with pin box
+    * Tep
     
     Kitchen Items
+    
+    Note: spice(मसाला) are important for US
     
     * Masala rakhne vado
     * Masaala haru all varieties 
@@ -68,30 +74,37 @@
         * Chiya patti
         * Jira 
         * Dhaniya
+        * Chili
+        * Besar
+        * 
     * Pressure cooker
     * Karai
     * PAN
+    * Dadu,paneu
     * Chiya pakauni bhado and chiya channi
     * Roti pakauni raman
     * Bhada Majni
     * Knife
     * 2 plate
     * bowl
-    * 2 Spoon
+    * 2 Spoon , 2 fork
     * some wai wai chau chau
     *  1 Water botal
     
     Cloths
     
     * Coat pant- daura suruwal
+    * Formal boot for coat
     * 10 underwares
     * Bed sheet or Sirak
     * Tanna
+    * Blanket
     * Pillow Cover
     * 3-4 T-shart
-    * 3-4 Pants
-    * Formal boot for coat pant
-    * 2 pairs shoes
+    * 3-4 Jens Pants, 3-4 Causal Pant
+    * 4 means track
+    * 2-3 half pant shorts
+    * 3 pairs shoes
     * Formal boot polish (brush and  shoe polish)
     * 2 Windcheater 
     * 1 hodie
@@ -99,7 +112,8 @@
     * 1 topi for cold
     * 2 towel
     * 3 pair socks
-    * 1 blanket
+    * 2 Inner thermals for cold
+    * 1 winter gloves for cold
     
     Medicines with prescription 
     * Fever
@@ -109,29 +123,32 @@
     * Vix
     * Move
     * Mask
-    * 
+    * Eye drop
+    * Chasma(4 extra)
+
     
     Personal Care
     
     * Shaver trimmmer 
     * Nail cuttter
+    * ear wax removers
     * Body wash
     * Colgate (3)
     * tooth brush (4 5)
     * Sampoo
     * Saboon
     * Hair oil
-    * Chasma(4 extra)
     * Clean teeth
+    * Wallet
     
 11. Documents and gagates in bag pack while travelling 
 
     Note: Never put documents and gagets in check in bag
 
-    * Passport
+    * Passport(main)
     * Plane Ticket
     * I-20(Make 2-3 copy)
-    * SEVIS 
+    * SEVIS  fee payment receipt
     * Transcript(1 copy)
     * Offer Letter
     * NOC
