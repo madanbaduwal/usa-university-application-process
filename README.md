@@ -36,20 +36,25 @@
     * [Application fee waiver email template](https://github.com/MadanBaduwal/university-application-process/blob/main/application-fee-waiver.md)
 
 
-
-
 ## Check funding 
 
 * You can check funding by visiting professors personal website 
 * Check funding by sending email to program director/chair/head.
    * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
+## If you are not getting funding 
+
+* Focus on how much per credit hour you are going to pay
+* Insurance(you can choose insurance instution  yourself)
+* Apartment
+* Grocessary 
+* Book/Library ... 
 
 ## Latter of recommendation(LOR)
 
 *  [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
 *  [MIT sample](https://mitadmissions.org/apply/parents-educators/writingrecs/)
-
+- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
 	
 ## Finalize universities
 
@@ -101,6 +106,9 @@ Research and service efforts to the university and Assistantship
 
 - Closely related with SOP
 
+- [X] [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
+- [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
+- [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 
 ## Visa process and visa interview
 
