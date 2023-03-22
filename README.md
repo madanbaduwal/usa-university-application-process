@@ -42,7 +42,8 @@
 * Check funding by sending email to program director/chair/head.
    * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
-## 3. [On campus job and scholorship](): Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
+## 3. On campus job and scholorship
+- Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
     * [Scholorship](https://www.utpb.edu/admissions-aid/scholarships/index)
     * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
     * TA/RA
