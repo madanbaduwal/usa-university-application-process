@@ -42,6 +42,28 @@
 * Check funding by sending email to program director/chair/head.
    * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
+## 3. [On campus job and scholorship](): Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
+    * [Scholorship](https://www.utpb.edu/admissions-aid/scholarships/index)
+    * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
+    * TA/RA
+    * [Visit each department physically for job opportunaties](https://www.utpb.edu/academics/colleges/department-index)
+        * Career Education: maribea.merritt@utpb.edu
+        * [Literature and Language](https://www.utpb.edu/academics/colleges/arts-sciences/departments/literature-language/index): chamblee_m@utpb.edu : There is no any GA/RA at this department , recommended to Dr.Jessica Stephens
+        * [Mathematics](https://www.utpb.edu/academics/colleges/arts-sciences/departments/mathematics/index): feit_p@utpb.edu : There is no any GA/RA at this department
+        * [Chemistry and Physics](https://www.utpb.edu/academics/colleges/arts-sciences/departments/chemistry/index): montes_m@utpb.edu
+        * [Biology](https://www.utpb.edu/academics/colleges/arts-sciences/departments/biology/index): oldham_a@utpb.edu : No GA already left email and phone
+        * [Geosciences](https://www.utpb.edu/academics/colleges/arts-sciences/departments/geosciences/index): zavada_m@utpb.edu
+        * [Department of Management, Marketing, & Industrial Technology](https://www.utpb.edu/academics/colleges/business/departments/management-marketing-industrial-tech/index): 
+        * [ITS department](https://www.utpb.edu/university-offices/information-technology/index): crisanti_p@utpb.edu
+        * [UT Permian Basin testing center](https://www.utpb.edu/academics/advising-and-support/testing-center/index): testingcenter@utpb.edu
+        * [Library](https://www.utpb.edu/library/index):
+        * [Rasidant and dining](https://www.utpb.edu/life-at-utpb/housing-and-dining/index): 
+        * Student life department: no position
+        * Register Office : Taken an email
+        * Welcom center: Thursday 9:30 to 11
+        * Resturant and dining: [portal](https://jobs.compassgroupcareers.com/search/)
+        * [Computer Science Department](https://www.utpb.edu/academics/colleges/arts-sciences/departments/computer-science/index): vuckovic_v@utpb.edu
+
 ## If you are not getting funding 
 
 * Focus on how much per credit hour you are going to pay
