@@ -36,17 +36,16 @@
     * [Application fee waiver email template](https://github.com/MadanBaduwal/university-application-process/blob/main/application-fee-waiver.md)
 
 
-## Check funding 
+## Check funding(TA/RA)
 
 * You can check funding by visiting professors personal website 
 * Check funding by sending email to program director/chair/head.
    * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
-## 3. On campus job and scholorship
+## Scholorship and On-campus job
 - Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
     * [Scholorship](https://www.utpb.edu/admissions-aid/scholarships/index)
     * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
-    * TA/RA
     * [Visit each department physically for job opportunaties](https://www.utpb.edu/academics/colleges/department-index)
         * Career Education: maribea.merritt@utpb.edu
         * [Literature and Language](https://www.utpb.edu/academics/colleges/arts-sciences/departments/literature-language/index): chamblee_m@utpb.edu : There is no any GA/RA at this department , recommended to Dr.Jessica Stephens
@@ -73,13 +72,8 @@
 * Grocessary 
 * Book/Library ... 
 
-## Latter of recommendation(LOR)
-
-*  [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
-*  [MIT sample](https://mitadmissions.org/apply/parents-educators/writingrecs/)
-- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
 	
-## Finalize universities
+## Finalize universities(From above features)
 
 For PHD:
 * Test score requirements
@@ -100,6 +94,11 @@ Prepare SOP for selected universities.
 *  [How to Write a Bad Statement](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html?fbclid=IwAR0m9XcJ-8teKsEIvoLDZ4HbwfNOXEq-w8JBNvKVsbM5A2vMNSF1V4xCmGU)
 *  [cs-sop.org](https://cs-sop.org/)
 
+## Latter of recommendation(LOR)
+
+*  [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
+*  [MIT sample](https://mitadmissions.org/apply/parents-educators/writingrecs/)
+- [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
 ## Submit application
 Ready your all your documents sop,test score pdfs,transcript,resume
 
