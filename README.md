@@ -18,6 +18,10 @@
 * [Researchers](https://github.com/MadanBaduwal/university-application-process/blob/main/cv-researchers.md)
 * [Universities](https://github.com/MadanBaduwal/university-application-process/blob/main/universities.md)
 
+## Course Structure
+* How much credit(30 or 37) required to complete the course
+* [List Of Subject](https://www.utpb.edu/academics/programs/computer-science/ms-computer-science)
+* How much credit of each subject(i.e )
 
 ## Application fee waiver
 
@@ -66,7 +70,7 @@
 
 ## If you are not getting funding 
 
-* Focus on how much per credit hour you are going to pay
+* Focus on how much per credit hour you are going to pay and how many credit required to complete the course(eg: 30, 37)
 * Insurance(you can choose insurance instution  yourself)
 * Apartment
 * Grocessary 
@@ -142,4 +146,15 @@ Research and service efforts to the university and Assistantship
 
 *  [Steps after accepting visa](https://github.com/MadanBaduwal/university-application-process/blob/main/after-visa-accepted.md)
 
-## After being in USA continue [this repo](https://github.com/MadanBaduwal/student-life-usa)
+## Make Graduation Plan
+
+- [X] [Graduation Plan](https://docs.google.com/spreadsheets/d/1zr_NHsugE6XoFxN1l7Ei_Oeog2ya9B53uJOFCrW-7tM/edit?usp=share_link)
+
+## Other
+
+* CPT is 365 days as full time, you can do part time as much as you can no time limit.
+* If you do CPT more then 365 days as full time you will be not eligible for OPT
+* You can't take less then 9 credit(2 face to face and one online) for first year
+* 
+
+## After being in USA continue [Immigration](https://github.com/MadanBaduwal/learning)
