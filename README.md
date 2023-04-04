@@ -1,4 +1,4 @@
-# University application process
+# University application process([ustraveldocs](https://www.ustraveldocs.com/))
 
 ## Academic score
 
@@ -157,4 +157,4 @@ Research and service efforts to the university and Assistantship
 * You can't take less then 9 credit(2 face to face and one online) for first year
 * 
 
-## After being in USA continue [Immigration](https://github.com/MadanBaduwal/learning)
+## After being in USA continue [US Immigration](https://github.com/madanbaduwal/usa-immigration)
