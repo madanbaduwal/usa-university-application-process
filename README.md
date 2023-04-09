@@ -46,7 +46,7 @@
 * Check funding by sending email to program director/chair/head.
    * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
-## Scholorship and On-campus job
+## Scholarship and On-campus job
 
 * [Scholorship](https://www.utpb.edu/admissions-aid/scholarships/index)
 * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
@@ -77,7 +77,9 @@
 * Book/Library ... 
 
 	
-## Finalize universities(From above features)
+## Finalize universities
+
+Note: Finalize From above features your profile, university ranking and researchers, Course Structure, Application fee, Check funding in department, Scholarship and On-campus job opportunities, if you did not get funding then location and other costs
 
 For PHD:
 * Test score requirements
@@ -148,6 +150,8 @@ Research and service efforts to the university and Assistantship
 
 ## Make Graduation Plan
 
+- [X] [Credits system in US: Mastersportal](https://www.mastersportal.com/articles/1110/what-you-need-to-know-about-the-american-university-credit-system.html)
+    - To complete MS in computer science , you need 30 credit hours
 - [X] [Graduation Plan](https://docs.google.com/spreadsheets/d/1zr_NHsugE6XoFxN1l7Ei_Oeog2ya9B53uJOFCrW-7tM/edit?usp=share_link)
 
 
