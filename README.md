@@ -155,21 +155,4 @@ Research and service efforts to the university and Assistantship
 - [X] [Graduation Plan](https://docs.google.com/spreadsheets/d/1zr_NHsugE6XoFxN1l7Ei_Oeog2ya9B53uJOFCrW-7tM/edit?usp=share_link)
 
 
-## Creating Social Security Number(SSN)
-
-- Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
-
-- [What is SSN](https://www.ssa.gov/ssnumber/)
-- [The Social Security Administration (SSA)](https://www.ssa.gov/)
-    - [Job Offer Letter from Designated School Official]()
-    - Social Security Application
-    - Passport/Visa
-    - F1 proof: I-20
-
-## Other
-
-* CPT is 365 days as full time, you can do part time as much as you can no time limit.
-* If you do CPT more then 365 days as full time you will be not eligible for OPT
-* You can't take less then 9 credit(2 face to face and one online) for first year
-
 ## After being in USA continue [US Immigration](https://github.com/madanbaduwal/usa-immigration)
