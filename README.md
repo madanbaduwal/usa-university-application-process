@@ -47,14 +47,14 @@ Plan time duration for your graduation, when you wanna finish your program i.e 1
 
 * Start writting application fee waiver emails to grad school or program/Graduate director or department chair person. Most effective direction to mail director or chair. Grad school receive lots of email it's not possibe to get waiver code from them.
 
-    * [Application fee waiver email template](https://github.com/MadanBaduwal/university-application-process/blob/main/application-fee-waiver.md)
+    * [Application fee waiver email template](./docs/application-fee-waiver.md)
 
 
 ## Check funding(TA/RA)
 
 * You can check funding by visiting professors personal website 
 * Check funding by sending email to program director/chair/head.
-   * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
+   * [funding checking email template](./docs/funding-available-at-university.md)
 
 ## Scholarship and On-campus job
 
@@ -132,14 +132,14 @@ Ready your all your documents sop,test score pdfs,transcript,resume
 
 Write an email for latter of recommendation.
  
-*  [Mail template for recommendation](https://github.com/MadanBaduwal/university-application-process/blob/main/recommendation-email.md)
+*  [Mail template for recommendation](./docs/recommendation-email.md)
 
 
 ## Write mail after admission for assistantship
 Research and service efforts to the university and Assistantship
 
-*  [Mail template for assistantship](https://github.com/MadanBaduwal/university-application-process/blob/main/email-for-assistantship.md)
-*  [Cold-email to professors](https://github.com/MadanBaduwal/university-application-process/blob/main/cold-email.md)
+*  [Mail template for assistantship](./docs/email-for-assistantship.md)
+*  [Cold-email to professors](./docs/university-application-process/blob/main/cold-email.md)
 *  [Hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
 *  [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 *  [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
@@ -156,9 +156,9 @@ Research and service efforts to the university and Assistantship
 
 ## Visa process and visa interview([ustraveldocs](https://www.ustraveldocs.com/))
 
-*  [Visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
-*  [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
-*  [Visa questions-answers](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
+*  [Visa process](./docs/visa_processing.md)
+*  [Visa interview requirements](./docs/visa-interview-requirments.md)
+*  [Visa questions-answers](./docs/visa_interview_questions.md)
 
 ## Steps after accepting visa
 
