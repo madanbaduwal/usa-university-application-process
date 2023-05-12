@@ -1,4 +1,4 @@
-# University application process([ustraveldocs](https://www.ustraveldocs.com/))
+# University application process
 
 ## Academic score
 
@@ -20,14 +20,23 @@
 * [Universities](./docs/universities.md)
 
 ## Course Structure
+* Visit university website and look at the course structure
+  
+    Example:
+
+    * [University of Texas Permian Basin](https://www.utpb.edu/academics/programs/computer-science/ms-computer-science)
+  
 * How much credit(30 or 37) required to complete the course
-* [List Of Subject](https://www.utpb.edu/academics/programs/computer-science/ms-computer-science)
-* How much credit of each subject(i.e )
+* How much credit of each subject(usually each subject have 3 or 4 credit)
+
+Plan time duration for your graduation, when you wanna finish your program i.e 18 mont or 24 month.
 
 ## Application fee waiver
 
-* Check universities for ways of fee waiver by seraching 'University name program admission fee waiver'. 
-    * eg: University of South Dakota admission fee waiver
+* Check admission fee waiver 
+  
+    * by searching 'University name program admission fee waiver'. 
+      * eg: University of South Dakota admission fee waiver
     * Some university waive admission fee by attending event
     * Some university automatically provide waiver code
     * Some university provide link/form
@@ -48,6 +57,10 @@
    * [funding checking email template](https://github.com/MadanBaduwal/university-application-process/blob/main/funding-available-at-university.md)
 
 ## Scholarship and On-campus job
+
+There are several scholarships and on-campus jobs at universities.
+
+Here is an example of the University of Texas Permian Basin.
 
 * [Scholorship](https://www.utpb.edu/admissions-aid/scholarships/index)
 * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
@@ -75,12 +88,14 @@
 * Insurance(you can choose insurance instution  yourself)
 * Apartment
 * Grocessary 
+* Internet
+* Electricity
 * Book/Library ... 
 
 	
 ## Finalize universities
 
-Note: Finalize From above features your profile, university ranking and researchers, Course Structure, Application fee, Check funding in department, Scholarship and On-campus job opportunities, if you did not get funding then location and other costs
+Note: Finalize 10-15 universities from above features and your profile, (i.e university ranking and researchers, Course Structure, Application fee, Check funding in department, Scholarship and On-campus job opportunities). if you did not get funding then focus on location and other costs
 
 For PHD:
 * Test score requirements
@@ -139,7 +154,7 @@ Research and service efforts to the university and Assistantship
 - [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 
-## Visa process and visa interview
+## Visa process and visa interview([ustraveldocs](https://www.ustraveldocs.com/))
 
 *  [Visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
 *  [Visa interview requirements](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa-interview-requirments.md)
