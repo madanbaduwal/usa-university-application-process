@@ -3,20 +3,21 @@
 ## Academic score
 
 * GPA > 3.0/4
+* Transcript Evaluation: [WES](https://www.wes.org/), [NACES](https://www.naces.org/)
 
 ## Test exams 
 
 * GRE > 300
 * TOEFL> 80
+* IELTS > 6.5
 
-
-## List universities 
+## Researchers and universities 
 
 * List universities according to your research area for PHD and affordable/job opportunities for Master and test scores requirements.
 * For PHD visit professors profile and look at there personal website whether they are accepting students or not.
 
-* [Researchers](https://github.com/MadanBaduwal/university-application-process/blob/main/cv-researchers.md)
-* [Universities](https://github.com/MadanBaduwal/university-application-process/blob/main/universities.md)
+* [Researchers](./docs/cv-researchers.md)
+* [Universities](./docs/universities.md)
 
 ## Course Structure
 * How much credit(30 or 37) required to complete the course
