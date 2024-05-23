@@ -1,6 +1,7 @@
 # University application process
 
 **Note: Choose University is such a way that your profile(academic score,test score,financial, research) align with university and professors.**
+
 ## Academic score
 
 * GPA > 3.0/4
