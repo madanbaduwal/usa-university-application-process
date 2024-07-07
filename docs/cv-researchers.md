@@ -495,15 +495,10 @@ List of professors and there universities with PHD admission requirements
 * [Shireen Elhabian](http://www.sci.utah.edu/~shireen/index.html)(The University of Utah)
 * [Christopher R. Johnson](http://www.cs.utah.edu/~crj/)(The University of Utah)
 * [Apu Kapadia, Ph.D.](https://privacy.luddy.indiana.edu/about/)(indiana university)
-
-## Selective professors from other fields
-
 * [Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/)(Oregon State University)
 * [Dr. Tathagata Mukherjee](https://www.uah.edu/science/faculty-staff/tathagata-mukherjee)()
 * [Dr. Huaming Zhang](https://www.uah.edu/science/faculty-staff/huaming-zhang)()
 * [Bijaya Adhikari](https://homepage.divms.uiowa.edu/~badhikari/prospective.html)(University of Iowa)
-
-
 
 
 
