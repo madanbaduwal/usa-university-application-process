@@ -172,5 +172,22 @@ Research and service efforts to the university and Assistantship
     - To complete MS in computer science , you need 30 credit hours
 - [X] [Graduation Plan](https://docs.google.com/spreadsheets/d/1zr_NHsugE6XoFxN1l7Ei_Oeog2ya9B53uJOFCrW-7tM/edit?usp=share_link)
 
+## Things keep in mind
+
+### Process to apply for a graduation
+
+* Fill out the **graduate graduation form** and Submit **Graduate Graduation application form** to register office in your last semester when graduating
+* Contact your advisor for approval. Advisor and Program Head/Department Chair signatures are required before submitting an application. 
+* Return or email the Registrar copy of the application to the Registrar’s Office (registrar@utpb.edu) and return or email the Graduate Studies copy of the application to the Graduate Studies Office (gradstudies@utpb.edu) 
+* Make sure you have an official **degree plan(graduation plan)** on file with the Graduate Studies Office. A degree check must be completed before you can be cleared to receive your diploma. 
+* Graduation Application fee ($50) will be placed onto your MyUTPB account. 
+* **Latter for parents**
+* **Graduation data change**, if you are graduating early or your I-20 program end date different from your graduation date, you have to request advisor, and DSO to change program end date.
+* **Only one subject(Course overload)** If you have left only one subject, you have to inform DSO for course overload.
+
+
+
+Pay the fee online through your MyUTPB account or with the Accounting Office.
+
 
 ## After being in USA continue [US Immigration](https://github.com/madanbaduwal/usa-immigration)
