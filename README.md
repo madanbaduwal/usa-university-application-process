@@ -185,9 +185,12 @@ Research and service efforts to the university and Assistantship
 * **Graduation data change**, if you are graduating early or your I-20 program end date different from your graduation date, you have to request advisor, and DSO to change program end date.
 * **Only one subject(Course overload)** If you have left only one subject, you have to inform DSO for course overload.
 
-
-
 Pay the fee online through your MyUTPB account or with the Accounting Office.
 
+**Note: Keep an eye on these things**
+* USCIS: Update address in USCIS with DSO
+* Address proof
+* Travel history
 
-## After being in USA continue [US Immigration](https://github.com/madanbaduwal/usa-immigration)
+
+## After being in the USA continue [US Immigration](https://github.com/madanbaduwal/usa-immigration)
