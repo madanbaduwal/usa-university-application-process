@@ -175,13 +175,13 @@ Research and service efforts to the university and Assistantship
 ## Things keep in mind
 
 ### Process to apply for a graduation
-
+* **Apply for OPT** : Collect your all previous cpt and opt I-20s and the final one, sign on all I-20s.
 * Fill out the **graduate graduation form** and Submit **Graduate Graduation application form** to register office in your last semester when graduating
 * Contact your advisor for approval. Advisor and Program Head/Department Chair signatures are required before submitting an application. 
 * Return or email the Registrar copy of the application to the Registrar’s Office (registrar@utpb.edu) and return or email the Graduate Studies copy of the application to the Graduate Studies Office (gradstudies@utpb.edu) 
 * Make sure you have an official **degree plan(graduation plan)** on file with the Graduate Studies Office. A degree check must be completed before you can be cleared to receive your diploma. 
 * Graduation Application fee ($50) will be placed onto your MyUTPB account. 
-* **Latter for parents**
+* **Latter for parents**: If your parents didn't get visas, differ commencement ceremony and reschedule visa
 * **Graduation data change**, if you are graduating early or your I-20 program end date different from your graduation date, you have to request advisor, and DSO to change program end date.
 * **Only one subject(Course overload)** If you have left only one subject, you have to inform DSO for course overload.
 
